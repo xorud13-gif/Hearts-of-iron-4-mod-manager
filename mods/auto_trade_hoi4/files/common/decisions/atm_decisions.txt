@@ -1,0 +1,42 @@
+###########################################################################
+# Auto Trade (auto_trade_hoi4) - decisions
+# The root key is the category id from categories/atm_categories.txt.
+###########################################################################
+atm_category = {
+
+	atm_open_settings = {
+		icon = generic_industry
+		cost = 0
+		fire_only_once = no
+		days_re_enable = 0
+
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+		}
+
+		available = {
+			always = yes
+		}
+
+		complete_effect = {
+			# hidden: the window helpers would otherwise list dozens of variable changes in the tooltip
+			hidden_effect = {
+				if = {
+					limit = { has_country_flag = atm_gui_open }
+					atm_close_window = yes
+				}
+				else = {
+					atm_open_window = yes
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

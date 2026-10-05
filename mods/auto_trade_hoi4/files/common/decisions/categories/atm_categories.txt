@@ -1,0 +1,18 @@
+###########################################################################
+# Auto Trade (auto_trade_hoi4) - decision category
+# Root level on purpose: wrapping it in decision_categories = { } breaks it
+# (AGENTS.md 2.1).
+###########################################################################
+atm_category = {
+	icon = generic_economy
+	priority = 40
+	scripted_gui = atm_decision_gui
+
+	allowed = {
+		always = yes
+	}
+
+	visible = {
+		is_ai = no
+	}
+}

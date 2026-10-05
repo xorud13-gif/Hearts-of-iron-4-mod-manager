@@ -1,0 +1,28 @@
+###########################################################################
+# Auto Trade (auto_trade_hoi4) - scripted triggers
+#
+# Partner categories are evaluated in the scope of the candidate country
+# (THIS) with ROOT = the player. They feed atm_recompute_scores.
+###########################################################################
+
+# Same ideology group as the player (vanilla ideology groups).
+atm_same_ideology = {
+	OR = {
+		AND = { has_government = democratic ROOT = { has_government = democratic } }
+		AND = { has_government = communism ROOT = { has_government = communism } }
+		AND = { has_government = fascism ROOT = { has_government = fascism } }
+		AND = { has_government = neutrality ROOT = { has_government = neutrality } }
+	}
+}
+
+# Some ally (faction member) of this country is at war with the player.
+atm_allied_with_enemy = {
+	any_allied_country = {
+		has_war_with = ROOT
+	}
+}
+
+# The player's capital and this country's capital are on the same continent.
+atm_same_continent = {
+	is_on_same_continent_as = ROOT
+}

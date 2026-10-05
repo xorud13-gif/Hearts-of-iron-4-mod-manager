@@ -1,0 +1,44 @@
+# Air wing ace generation (cas_ace_hoi4) configuration - version 2
+# Edit and save, then restart the game. In multiplayer every player needs the same DLL and values.
+
+# 1 = install the patches, 0 = do nothing (restart required)
+enabled = 1
+
+# Every air mission that damages something gets the engine's naval-combat ace roll, once per wing
+# and sortie (ground missions fly once every 8 hours per strategic region: up to 3 rolls a day).
+#   kills = HP the sortie removed x the scale of what it hit (a fraction counts as one more kill
+#           with that probability)
+#   no roll unless the HP removed > planes the sortie lost to ground, train or land-combat AA
+#   chance = (1 + country ace modifier) x (ACE_EARN_CHANCE_BASE + kills x ACE_EARN_CHANCE_PLANES_MULT x 0.1)
+#          = 1 % + 0.05 % per kill with the vanilla defines
+# With these defaults a 100-plane wing that flies every sortie unopposed gets about one ace a month.
+# The 1 % base dominates: with half the damage it takes about 32 days for bombing and logistics
+# strikes and 41 days for CAS, with a quarter about 52 days.
+# Air-to-air combat and naval / port strikes keep their own vanilla rolls.
+# Range 0 - 100, up to 5 decimals, 0 = no rolls from that kind of damage.
+#   cas_kill_scale        division strength removed by close air support
+#   strategic_kill_scale  building HP removed by strategic bombing (one level = 100 HP), railway guns
+#                         and ships in port hit by it, railway / infrastructure HP spilled by
+#                         logistics strikes
+#   train_kill_scale      train HP removed by logistics strikes (a train has 100 + armour)
+#   truck_kill_scale      truck HP removed by logistics strikes on motorized units
+cas_kill_scale = 1.91
+strategic_kill_scale = 0.031
+train_kill_scale = 0.026
+truck_kill_scale = 0.0044
+
+# 1 = wings that already fly with an ace keep rolling; a new ace then goes to the country's reserve
+#     pool (as air-to-air combat already does in vanilla), from where it can be assigned to another
+#     wing by hand or by an auto-assign mod. Also applies to the vanilla naval-combat roll.
+# 0 = only wings without an ace roll (the vanilla rule).
+keep_rolling_with_ace = 1
+
+# Share of the rolls above that really happen, in percent (100 = all, 25 = about four times rarer).
+# The pick uses game data only, so multiplayer stays in sync. For more aces raise the scales.
+roll_chance = 100.0
+
+# Log: 0 = start-up and errors only, 1 = + every new ace (default), 2 = + every roll (debug)
+log_level = 1
+
+# Log file name (next to the DLL)
+log_file = cas_ace.log

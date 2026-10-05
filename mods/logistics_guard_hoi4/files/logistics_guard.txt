@@ -1,0 +1,31 @@
+# Logistics strike friendly-damage guard (logistics_guard_hoi4) configuration
+# Edit and save, then restart the game. In multiplayer every player needs the same DLL and values.
+
+# 1 = install the patches, 0 = do nothing (restart required)
+enabled = 1
+
+# A logistics strike on an enemy unit spills 0.16 % of its damage onto the infrastructure of the
+# unit's state (AIR_WING_ATTACK_LOGISTICS_INFRA_DAMAGE_SPILL_FACTOR). Infrastructure is one building
+# for the whole state, so when a state is split the attacker's own provinces lose it too.
+# 1 = no infrastructure spill on a state in which any province is controlled by a country the
+#     attacker is not at war with (itself, its allies, neutrals) - the enemy part of such a state
+#     keeps its infrastructure too. Trucks are still destroyed. States held only by enemies of the
+#     attacker: vanilla.
+# 0 = vanilla
+protect_infrastructure = 1
+
+# A logistics strike on an enemy supply node spills 0.6 % of its damage onto random railways up to
+# two rail links around the node, in chunks of at most 5 HP (..._RAILWAY_DAMAGE_SPILL_FACTOR) -
+# railways in the attacker's own provinces included.
+# 1 = a chunk that falls on a railway in a province controlled by a country the attacker is not at
+#     war with is withheld (spent, not dealt). Enemy railways take exactly their vanilla damage and
+#     the game's random draws stay the same.
+# 0 = vanilla
+protect_railways = 1
+
+# Log: 0 = start-up and errors only, 1 = + 30-day totals and the first events of each kind (default),
+#      2 = + every event (debug)
+log_level = 1
+
+# Log file name (next to the DLL, or a full path)
+log_file = logistics_guard.log

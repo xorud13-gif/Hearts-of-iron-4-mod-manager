@@ -1,0 +1,161 @@
+###########################################################################
+# Auto Trade (auto_trade_hoi4) - on actions
+#
+# on_daily / on_weekly fire once per country with that country in scope.
+# The engine (DLL) runs inside atm_daily_tick through log = "ATM:TICK".
+# Relation changes mark the partner scores dirty; they are recomputed at the
+# next run (scores also refresh weekly).
+###########################################################################
+on_actions = {
+	on_daily = {
+		effect = {
+			if = {
+				limit = {
+					is_ai = no
+					has_country_flag = atm_initialized
+				}
+				atm_daily_tick = yes
+			}
+		}
+	}
+
+	on_weekly = {
+		effect = {
+			if = {
+				limit = {
+					is_ai = no
+					has_country_flag = atm_initialized
+				}
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_declare_war = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_war_relation_added = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_peace = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_capitulation = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_join_faction = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_leave_faction = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_puppet = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_subject_free = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_annex = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_government_change = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	# ruling party ideology ("same ideology" rule) - not covered by on_government_change
+	on_ruling_party_change = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	# new countries have no score / ban yet
+	on_release_as_free = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_release_as_puppet = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+
+	on_civil_war_end = {
+		effect = {
+			every_country = {
+				limit = { is_ai = no has_country_flag = atm_initialized }
+				set_country_flag = atm_dirty
+			}
+		}
+	}
+}

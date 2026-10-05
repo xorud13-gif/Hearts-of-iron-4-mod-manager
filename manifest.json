@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "revision": "234328ebcebc5f6a",
+  "generated": "2026-10-05T12:19:42Z",
+  "app": {
+    "path": "HOI4ModManager.exe",
+    "sha256": "514a7899fd4fa14b607b499d205c6b6c6e6ca19c4a2a711ca215a1c238d979d6",
+    "size": 149504,
+    "version": "1.0.0"
+  },
+  "loader": {
+    "path": "loader/version.dll",
+    "sha256": "bc233771cbfa5215fae736dd8acc9af7df6a4c5f0df2bcc1d4940492c0e99ae6",
+    "size": 79360
+  },
+  "mods": [
+    {
+      "id": "auto_ace_pilot_hoi4",
+      "name": "에이스 조종사 자동 배치",
+      "version": "2.4",
+      "updated": "2026-10-04",
+      "files": [
+        {
+          "path": "mods/auto_ace_pilot_hoi4/mod.json",
+          "sha256": "451d2b4ad4324d7161fd4bd318c42d4eb00c834836a2c9863ca11cfc8735285a",
+          "size": 1106
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
+          "sha256": "56f267455c55803aa107df3e106eb98b969349eeea9bf81adeebf0f90631ae9a",
+          "size": 314368
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/ace_auto_assign_decisions.txt",
+          "sha256": "5fc482ddccd39830f7f92d479fcff35bcb87f433dcbee1e0ae3942acdb1cfc53",
+          "size": 1424
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/categories/ace_auto_assign_categories.txt",
+          "sha256": "0eba1bd7c3febb84d711929ed9d3d41f63362719668a99407f7bf4dddc3a2b7c",
+          "size": 97
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/common/on_actions/ace_auto_assign_on_actions.txt",
+          "sha256": "38ca1d0eea1f6c3369776634addca47a0a004e47ddd299293f9d4213f37e9726",
+          "size": 1512
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/localisation/english/ace_auto_assign_l_english.yml",
+          "sha256": "77fbbbcf54aa946262469f5f703daec84b14fae7e811b0df6b85e3c06e16d384",
+          "size": 957
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/localisation/korean/ace_auto_assign_l_korean.yml",
+          "sha256": "5bcc361c7d295634c42768c560af2c3962b6313a7ee397663a50e8f9c0e90371",
+          "size": 1361
+        }
+      ]
+    },
+    {
+      "id": "manual_frontline_hoi4",
+      "name": "수동 정밀 전선 드래그",
+      "version": "1.0",
+      "updated": "2026-09-18",
+      "files": [
+        {
+          "path": "mods/manual_frontline_hoi4/mod.json",
+          "sha256": "ce4d97771723e0d00f34acaa6ea5dea5688e6df3b5ad5465891845b8922d8188",
+          "size": 650
+        },
+        {
+          "path": "mods/manual_frontline_hoi4/files/version.dll",
+          "sha256": "cf6ae21b36a71c7723e9d9ad87dd92b474bf0e459993855274344390daeaaefa",
+          "size": 355840
+        }
+      ]
+    },
+    {
+      "id": "cas_ace_hoi4",
+      "name": "비행단 에이스 생성 확장",
+      "version": "2.0 (2026-10-04)",
+      "updated": "2026-10-04",
+      "files": [
+        {
+          "path": "mods/cas_ace_hoi4/mod.json",
+          "sha256": "d506dfde69f36541f3a06a88ab6cfa558d6ca80d2fd3114af181ba1a3039781f",
+          "size": 1086
+        },
+        {
+          "path": "mods/cas_ace_hoi4/files/cas_ace.txt",
+          "sha256": "08e35299b799a4e71533d4c9a0c64b9cd9e27d39344ffcbfa01ac0695367f6a8",
+          "size": 2628
+        },
+        {
+          "path": "mods/cas_ace_hoi4/files/version.dll",
+          "sha256": "987a0a793749fe624d7593188bd8da0c30e26b47c017bc00c629bf2258700bb3",
+          "size": 437248
+        }
+      ]
+    },
+    {
+      "id": "logistics_guard_hoi4",
+      "name": "병참 타격 아군 피해 방지",
+      "version": "1.0 (2026-10-05)",
+      "updated": "2026-10-05",
+      "files": [
+        {
+          "path": "mods/logistics_guard_hoi4/mod.json",
+          "sha256": "e54311fa8be36b9765187157227ee22bc700b02a6e21817752d26a4bd4ec22c4",
+          "size": 1105
+        },
+        {
+          "path": "mods/logistics_guard_hoi4/files/logistics_guard.txt",
+          "sha256": "5b0aee9b466169d14739516d9d1e238076f373b0b83280e732223d79ece2dac8",
+          "size": 1688
+        },
+        {
+          "path": "mods/logistics_guard_hoi4/files/version.dll",
+          "sha256": "2cde3618e97716a257670f5035623c52579f6252be686077c7d15066d7d8efb3",
+          "size": 397824
+        }
+      ]
+    },
+    {
+      "id": "auto_trade_hoi4",
+      "name": "자동 무역",
+      "version": "0.3d",
+      "updated": "2026-10-05",
+      "files": [
+        {
+          "path": "mods/auto_trade_hoi4/mod.json",
+          "sha256": "74d9178e6bc666d060bb67fee8eac0690b853c9828a9df7991fe3ae2da7ebe0f",
+          "size": 1794
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/version.dll",
+          "sha256": "d010807ce661c380de8bdfc4c330396d2c5984a81fabb071e8c11da383ba5c89",
+          "size": 466944
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
+          "sha256": "5bd0dc740e404bda23fbb87a807fc03692c42ab9a378b219f7c0ddffe67a6c5e",
+          "size": 820
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/decisions/categories/atm_categories.txt",
+          "sha256": "9d8aaa487d5ba054d28c65315f1b789a01fa5ea2885f6bfdad193dda637be722",
+          "size": 451
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/on_actions/atm_on_actions.txt",
+          "sha256": "9e621e54e2ae4d637db940fe11734b5fe74a1948bc8518e7998d715ba7ae9764",
+          "size": 3204
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/scripted_effects/atm_effects.txt",
+          "sha256": "719d246047ba6fe9b21ef26003d2c281ba93d038a971110132b7d1cd755ede43",
+          "size": 33984
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/scripted_guis/atm_scripted_guis.txt",
+          "sha256": "236d622e2c05562d8511b13c0bbb6511568e75ded5527d035f35ec892d263290",
+          "size": 105533
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/scripted_localisation/atm_scripted_loc.txt",
+          "sha256": "c7569676ba27b0b9ba323572b3929e8fb2f37cac19c9b1508c89623d948b41c6",
+          "size": 43053
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/common/scripted_triggers/atm_triggers.txt",
+          "sha256": "d4217fee16f5c448e02f780e6bd531ffcd33e8dc69da17f0580fa9ebbed221a2",
+          "size": 1035
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/interface/atm_window.gui",
+          "sha256": "a95d8767106cf14927ecf94f78ad5ce88eac7250c76fb47b02e0e11f4ec69bb0",
+          "size": 64514
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/localisation/english/atm_l_english.yml",
+          "sha256": "0d12b00365b1c15bcea742b27b6111f967322a551c589456769e9a1e4df0104c",
+          "size": 33355
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/localisation/korean/atm_l_korean.yml",
+          "sha256": "4467b11d1fb0287296e96e8a12fa13ffb5c97c238abec047b25c5feda0f26b45",
+          "size": 35543
+        }
+      ]
+    }
+  ]
+}

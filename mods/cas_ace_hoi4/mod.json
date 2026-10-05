@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "id": "cas_ace_hoi4",
+  "name": "비행단 에이스 생성 확장",
+  "version": "2.0 (2026-10-04)",
+  "author": "",
+  "description": "피해를 주는 모든 비행단 작전(근접항공지원, 전략폭격의 건물·철도포·정박 함선, 병참 타격의 열차·트럭·철도/인프라 번짐, 스크립트 공습)이 해전과 같은 에이스 판정을 출격마다 받게 합니다. 에이스가 있는 비행단도 계속 판정하고(해전 포함) 새 에이스는 국가 예비 풀로 가서, 에이스 자동 배치 모드가 빈 비행단에 배치합니다.\n기본 배율은 100대 비행단이 쉬지 않고 출격할 때 약 1달에 한 명이 되도록 맞췄습니다. 게임 폴더의 cas_ace.txt 에서 작전별 배율·roll_chance·keep_rolling_with_ace 로 조절하고, v1 설정 파일은 처음 실행할 때 자동 변환됩니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "cas_ace.txt"
+  ],
+  "cleanup": [
+    "cas_ace.log*",
+    "cas_ace.txt.tmp"
+  ],
+  "conflicts": [],
+  "updated": "2026-10-04"
+}

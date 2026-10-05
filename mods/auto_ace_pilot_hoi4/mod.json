@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "id": "auto_ace_pilot_hoi4",
+  "name": "에이스 조종사 자동 배치",
+  "version": "2.4",
+  "author": "",
+  "description": "빈 비행단에 대기 중인 에이스를 자동으로 배치하고, 에이스가 전사하거나 새로 진급하면 즉시 교체·투입합니다.\n인게임 [결정] 메뉴의 '공군 참모본부: 에이스 조종사 관리'에서 즉시 배치와 자동 배치 켜기/끄기를 할 수 있습니다.",
+  "native_dll": "version.dll",
+  "files": [
+    "common/decisions/ace_auto_assign_decisions.txt",
+    "common/decisions/categories/ace_auto_assign_categories.txt",
+    "common/on_actions/ace_auto_assign_on_actions.txt",
+    "localisation/english/ace_auto_assign_l_english.yml",
+    "localisation/korean/ace_auto_assign_l_korean.yml"
+  ],
+  "config_files": [],
+  "cleanup": [
+    "ace_assigner.log*",
+    "common/decisions/categories/ace_auto_assign_*.txt",
+    "common/decisions/ace_auto_assign_*.txt",
+    "common/on_actions/ace_auto_assign_*.txt",
+    "localisation/*/ace_auto_assign_l_*.yml"
+  ],
+  "conflicts": [],
+  "updated": "2026-10-04"
+}
