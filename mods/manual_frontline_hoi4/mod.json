@@ -14,5 +14,7 @@
     "manual_frontline.log*"
   ],
   "conflicts": [],
-  "updated": "2026-09-18"
+  "updated": "2026-09-18",
+  "name_en": "Manual Precision Front Drag",
+  "description_en": "When you draw a front by right-click dragging along a border, prevents the front from flipping to the other side when it crosses a state boundary or a river, and creates the front exactly over the dragged range only.\nAlt+drag is the vanilla behavior; Shift+drag creates a single field marshal front."
 }

@@ -15,5 +15,7 @@
     "cas_ace.txt.tmp"
   ],
   "conflicts": [],
-  "updated": "2026-10-04"
+  "updated": "2026-10-04",
+  "name_en": "Air Wing Ace Generation Expansion",
+  "description_en": "Makes every air wing operation that deals damage (close air support, strategic bombing of buildings, rail guns and docked ships, logistics strikes on trains, trucks and rail/infrastructure spread, scripted air raids) get the same ace roll as naval combat on every sortie. Wings that already have an ace keep rolling too (naval combat included), and new aces go to the country's reserve pool, from where the Auto Ace Pilot Assignment mod places them into empty air wings.\nThe default multiplier is tuned so that a 100-plane wing sortieing without rest produces about one ace a month. Tune per-operation multipliers, roll_chance and keep_rolling_with_ace in cas_ace.txt in the game folder; v1 settings files are converted automatically on first run."
 }

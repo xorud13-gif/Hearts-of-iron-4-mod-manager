@@ -15,5 +15,7 @@
     "logistics_guard.txt.tmp"
   ],
   "conflicts": [],
-  "updated": "2026-10-05"
+  "updated": "2026-10-05",
+  "name_en": "Logistics Strike Friendly-Fire Guard",
+  "description_en": "Stops the spread damage of logistics strikes from landing on the infrastructure and railways of countries that are not at war with the attacker (yourself, allies, neutrals). In states shared with the enemy the infrastructure spread is skipped (infrastructure is one per state, so the enemy's side of that state gets none either), and spread pieces that would hit railways in your own provinces are discarded. Damage to enemy railways, trucks, train destruction and the number of random rolls are the same as vanilla, and the same rule applies to AI attacks.\nTune protect_infrastructure, protect_railways and log_level in logistics_guard.txt in the game folder. Only for hoi4.exe v1.19.3.0.c01a - with a different executable it is not installed and the game behaves like vanilla."
 }

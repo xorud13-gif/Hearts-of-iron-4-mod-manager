@@ -35,5 +35,7 @@
     "interface/atm_*.gui",
     "localisation/*/atm_l_*.yml"
   ],
-  "conflicts": []
+  "conflicts": [],
+  "name_en": "Auto Trade",
+  "description_en": "Automatically imports resource shortfalls through trade, and cleans up over-imports, blocked routes and inefficient deals. In the settings window under the 'Auto Trade' decision tab you can tune per-resource targets, caps and priorities, partner classes, continent and per-country priorities and bans, partial deals, the fuel target (% or absolute amount) and the trade factory budget (settings are stored in the save game).\nScript (settings window) + DLL (trade engine). Single-player only, and only for hoi4.exe v1.19.3.0.c01a - with a different executable the engine is not installed and the settings window shows a warning. Do not enable it together with the Workshop 'Auto Trade' mod."
 }

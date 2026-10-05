@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "revision": "234328ebcebc5f6a",
-  "generated": "2026-10-05T12:19:42Z",
+  "revision": "ee29edf51c1cb33e",
+  "generated": "2026-10-05T12:57:02Z",
   "app": {
     "path": "HOI4ModManager.exe",
-    "sha256": "514a7899fd4fa14b607b499d205c6b6c6e6ca19c4a2a711ca215a1c238d979d6",
-    "size": 149504,
+    "sha256": "9cee7cdec29a8b34262ac88a29210f724d4d8235624609b0e2dea2f8681edba4",
+    "size": 190464,
     "version": "1.0.0"
   },
   "loader": {
@@ -17,13 +17,14 @@
     {
       "id": "auto_ace_pilot_hoi4",
       "name": "에이스 조종사 자동 배치",
+      "name_en": "Auto Ace Pilot Assignment",
       "version": "2.4",
       "updated": "2026-10-04",
       "files": [
         {
           "path": "mods/auto_ace_pilot_hoi4/mod.json",
-          "sha256": "451d2b4ad4324d7161fd4bd318c42d4eb00c834836a2c9863ca11cfc8735285a",
-          "size": 1106
+          "sha256": "47c5beaff81a0fa34d175f0c00192da2d0d201aa4958ad9e7b6f3446c4daf486",
+          "size": 1467
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
@@ -60,13 +61,14 @@
     {
       "id": "manual_frontline_hoi4",
       "name": "수동 정밀 전선 드래그",
+      "name_en": "Manual Precision Front Drag",
       "version": "1.0",
       "updated": "2026-09-18",
       "files": [
         {
           "path": "mods/manual_frontline_hoi4/mod.json",
-          "sha256": "ce4d97771723e0d00f34acaa6ea5dea5688e6df3b5ad5465891845b8922d8188",
-          "size": 650
+          "sha256": "cd5f6e33a841c4abf1f39399155c6c83933eac09196a70730dd46a57063b1f30",
+          "size": 1018
         },
         {
           "path": "mods/manual_frontline_hoi4/files/version.dll",
@@ -78,13 +80,14 @@
     {
       "id": "cas_ace_hoi4",
       "name": "비행단 에이스 생성 확장",
+      "name_en": "Air Wing Ace Generation Expansion",
       "version": "2.0 (2026-10-04)",
       "updated": "2026-10-04",
       "files": [
         {
           "path": "mods/cas_ace_hoi4/mod.json",
-          "sha256": "d506dfde69f36541f3a06a88ab6cfa558d6ca80d2fd3114af181ba1a3039781f",
-          "size": 1086
+          "sha256": "0dd74afca0a30281cdac2c7bfbd4348b68d0f1a76204d9cdde06b209d091d2ac",
+          "size": 1908
         },
         {
           "path": "mods/cas_ace_hoi4/files/cas_ace.txt",
@@ -101,13 +104,14 @@
     {
       "id": "logistics_guard_hoi4",
       "name": "병참 타격 아군 피해 방지",
+      "name_en": "Logistics Strike Friendly-Fire Guard",
       "version": "1.0 (2026-10-05)",
       "updated": "2026-10-05",
       "files": [
         {
           "path": "mods/logistics_guard_hoi4/mod.json",
-          "sha256": "e54311fa8be36b9765187157227ee22bc700b02a6e21817752d26a4bd4ec22c4",
-          "size": 1105
+          "sha256": "be9d06b5e2a1b08ab2a24a35de7dd57aed37bef4f43ca8fd762e9f0ae843f596",
+          "size": 1961
         },
         {
           "path": "mods/logistics_guard_hoi4/files/logistics_guard.txt",
@@ -124,13 +128,14 @@
     {
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
+      "name_en": "Auto Trade",
       "version": "0.3d",
       "updated": "2026-10-05",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "74d9178e6bc666d060bb67fee8eac0690b853c9828a9df7991fe3ae2da7ebe0f",
-          "size": 1794
+          "sha256": "faba92b7e99478dee4de657d04de49c591e97ca24d391f64426925a18dafd762",
+          "size": 2535
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",

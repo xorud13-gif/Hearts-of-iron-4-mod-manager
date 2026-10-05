@@ -22,5 +22,7 @@
     "localisation/*/ace_auto_assign_l_*.yml"
   ],
   "conflicts": [],
-  "updated": "2026-10-04"
+  "updated": "2026-10-04",
+  "name_en": "Auto Ace Pilot Assignment",
+  "description_en": "Automatically assigns waiting ace pilots to empty air wings, and immediately replaces and reassigns them when an ace is killed or a new one is promoted.\nIn the in-game [Decisions] menu, under 'Air Staff: Ace Pilot Management', you can assign immediately and turn automatic assignment on or off."
 }
