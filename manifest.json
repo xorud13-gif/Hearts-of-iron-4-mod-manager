@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "ee29edf51c1cb33e",
-  "generated": "2026-10-05T12:57:02Z",
+  "revision": "6c57c895572dff56",
+  "generated": "2026-10-05T16:07:40Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "9cee7cdec29a8b34262ac88a29210f724d4d8235624609b0e2dea2f8681edba4",
@@ -191,6 +191,70 @@
           "path": "mods/auto_trade_hoi4/files/localisation/korean/atm_l_korean.yml",
           "sha256": "4467b11d1fb0287296e96e8a12fa13ffb5c97c238abec047b25c5feda0f26b45",
           "size": 35543
+        }
+      ]
+    },
+    {
+      "id": "auto_medal_hoi4",
+      "name": "자동 훈장 부여",
+      "name_en": "Auto Medal Award",
+      "version": "0.2 (2026-10-06)",
+      "updated": "2026-10-06",
+      "files": [
+        {
+          "path": "mods/auto_medal_hoi4/mod.json",
+          "sha256": "070505e857b8cb562b3a25499b7ccef3337a40335769ba1156ef33ee2c1a00eb",
+          "size": 2761
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/version.dll",
+          "sha256": "035a7636e0366251b96a33c3273977f549135b979971f22e07fb6b985a2e6d75",
+          "size": 455680
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/decisions/amd_decisions.txt",
+          "sha256": "04a09ac86881c103ceb5cecc8f4f6e84430e9140aedb73d7bada8c5f762acc64",
+          "size": 820
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/decisions/categories/amd_categories.txt",
+          "sha256": "6d073503b7805048f64f61df22f74ce86dca01d11754b012ca9a4560bbcc5bc8",
+          "size": 469
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/on_actions/amd_on_actions.txt",
+          "sha256": "f301b22a8922716ed35f03af8a10629ef97d7f671136c0ba44f10381e97dbbc7",
+          "size": 515
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/scripted_effects/amd_effects.txt",
+          "sha256": "61fb4107a53ed407e7933cd643fb154c9f40073c7141924190c318b94a4c2e5d",
+          "size": 52196
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/scripted_guis/amd_scripted_guis.txt",
+          "sha256": "c5bb211484e247198447664deb3ffa119a07dfc0bbec1378c339046d8f8cacad",
+          "size": 334198
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/common/scripted_localisation/amd_scripted_loc.txt",
+          "sha256": "2df37e1113deed824240d14e60dae9695a7aa6cd4bdc0eaff6347ff033dc9953",
+          "size": 622492
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/interface/amd_window.gui",
+          "sha256": "810339a8b66af015c7818842d029f17fd3fcd52cf9f2628043542f1346cb75cc",
+          "size": 172206
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/localisation/english/amd_l_english.yml",
+          "sha256": "b778f0f765307e92ac2d549bc42a8f2a1dde3d841f41acbace671decd45100ef",
+          "size": 34284
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
+          "sha256": "0fee863ae1e42fd4519e4ab1084f60a835e59c6d71f908984694b085d0298730",
+          "size": 34981
         }
       ]
     }

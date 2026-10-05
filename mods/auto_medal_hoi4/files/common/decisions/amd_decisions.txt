@@ -1,0 +1,42 @@
+###########################################################################
+# Auto Medal (auto_medal_hoi4) - decisions
+# The root key is the category id from categories/amd_categories.txt.
+###########################################################################
+amd_category = {
+
+	amd_open_settings = {
+		icon = generic_military
+		cost = 0
+		fire_only_once = no
+		days_re_enable = 0
+
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+		}
+
+		available = {
+			always = yes
+		}
+
+		complete_effect = {
+			# hidden: the window helpers would otherwise list dozens of variable changes in the tooltip
+			hidden_effect = {
+				if = {
+					limit = { has_country_flag = amd_gui_open }
+					amd_close_window = yes
+				}
+				else = {
+					amd_open_window = yes
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

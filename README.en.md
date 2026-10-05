@@ -49,4 +49,13 @@ Mod config files you have adjusted (for example `cas_ace.txt`) **keep your setti
 
 ## Included mods
 
-The `Mod list` button in the program shows the description of every mod.
+The `Mod list` button in the program shows the full description of every mod. Below are the titles and a short summary of the mods this repository provides.
+
+| Mod | Summary |
+| :--- | :--- |
+| **Auto Ace Pilot Assignment** | Automatically assigns waiting ace pilots to empty air wings, and immediately replaces and reassigns them when an ace is killed or a new one is promoted. |
+| **Manual Precision Front Drag** | When you draw a front by right-click dragging along a border, stops the front from flipping to the other side at state boundaries or rivers, and creates it exactly over the dragged range. |
+| **Air Wing Ace Generation Expansion** | Makes every damaging air wing operation (close air support, strategic bombing, logistics strikes, ...) get the same ace roll as naval combat on every sortie. |
+| **Logistics Strike Friendly-Fire Guard** | Stops the spread damage of logistics strikes from landing on the infrastructure and railways of yourself, allies and neutrals. |
+| **Auto Trade** | Automatically imports resource shortfalls through trade and cleans up over-imports, blocked routes and inefficient deals. Per-resource targets, priorities and bans are tuned in a settings window under the decisions tab. |
+| **Auto Medal Award** | Automatically awards medals (field citations) to division officers with political power. A settings window under the decisions tab tunes the political power floor, ranks and bans per division template name and per general / field marshal, the medal priority order (with each medal's bonuses shown) and the division order. |

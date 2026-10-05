@@ -1,0 +1,19 @@
+###########################################################################
+# Auto Medal (auto_medal_hoi4) - on actions
+#
+# on_daily fires once per country with that country in scope. The engine
+# (DLL) runs inside amd_daily_tick through log = "AMED:TICK" for the player.
+###########################################################################
+on_actions = {
+	on_daily = {
+		effect = {
+			if = {
+				limit = {
+					is_ai = no
+					has_country_flag = amd_initialized
+				}
+				amd_daily_tick = yes
+			}
+		}
+	}
+}

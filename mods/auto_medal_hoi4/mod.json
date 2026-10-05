@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "id": "auto_medal_hoi4",
+  "name": "자동 훈장 부여",
+  "version": "0.2 (2026-10-06)",
+  "author": "",
+  "description": "사단 지휘관에게 정치력으로 훈장(야전 표창)을 자동으로 부여합니다. 결정 탭 '자동 훈장 부여'의 설정 창에서 정치력 하한선(부여 후 잔여 기준), 사단 편제 이름별 우선순위·금지, 장군(군단 지휘관)·원수(집단군 지휘관) 개인별 우선순위·금지, 훈장 우선순위(사용 가능한 훈장이 바뀌면 자동 갱신), 부대 순서(보유·부여 가능 훈장이 적은/많은 부대부터)를 정합니다(설정은 세이브에 저장).\n스크립트(설정 창) + DLL(부여 엔진). 싱글플레이 전용, hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 엔진이 설치되지 않고 설정 창에 경고가 뜹니다. 자동 무역 모드와 같이 켤 수 있습니다.",
+  "native_dll": "version.dll",
+  "files": [
+    "common/decisions/amd_decisions.txt",
+    "common/decisions/categories/amd_categories.txt",
+    "common/on_actions/amd_on_actions.txt",
+    "common/scripted_effects/amd_effects.txt",
+    "common/scripted_guis/amd_scripted_guis.txt",
+    "common/scripted_localisation/amd_scripted_loc.txt",
+    "interface/amd_window.gui",
+    "localisation/english/amd_l_english.yml",
+    "localisation/korean/amd_l_korean.yml"
+  ],
+  "config_files": [
+    "auto_medal.txt"
+  ],
+  "cleanup": [
+    "auto_medal.log*",
+    "auto_medal.txt.tmp",
+    "common/decisions/amd_*.txt",
+    "common/decisions/categories/amd_*.txt",
+    "common/on_actions/amd_*.txt",
+    "common/scripted_effects/amd_*.txt",
+    "common/scripted_triggers/amd_*.txt",
+    "common/scripted_guis/amd_*.txt",
+    "common/scripted_localisation/amd_*.txt",
+    "interface/amd_*.gui",
+    "localisation/*/amd_l_*.yml"
+  ],
+  "conflicts": [],
+  "updated": "2026-10-06",
+  "name_en": "Auto Medal Award",
+  "description_en": "Automatically awards medals (field citations) to division officers with political power. In the settings window under the 'Auto Medal' decision tab you can tune the political power floor (kept after each award), a rank or ban for every division template name, a rank or ban for every general (corps commander) and field marshal (army group commander), the medal priority order (each medal's bonuses are shown; the list follows the medals currently available) and the division order (fewest or most medals held or grantable first). Settings are stored in the save game.\nScript (settings window) + DLL (award engine). Single-player only, and only for hoi4.exe v1.19.3.0.c01a - with a different executable the engine is not installed and the settings window shows a warning. It can be enabled together with Auto Trade."
+}
