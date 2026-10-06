@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "subject_build_fix_hoi4",
+  "name": "종속국 합병 건설 정지 수정",
+  "version": "1.0 (2026-10-06)",
+  "author": "",
+  "description": "종속국의 주에 건물을 짓던 중 그 종속국을 합병하면 건설 진도는 오르지 않는데 민수공장만 계속 묶여 있는 버그를 막습니다. 남의 주에 짓는 건설은 게임 안에서 종속국 쪽 줄(일하는 쪽)과 내 쪽 줄(공장만 잡고 기다리는 쪽)의 짝인데, 합병·주 소유 변경은 종속국 쪽 줄만 취소하고 내 줄의 연결은 끊지 않습니다. 이 모드는 엔진이 생산 줄을 옮긴 직후 짝을 잃은 내 건설 줄의 연결을 끊어 일반 건설로 바꿉니다(진행·공장 유지). 그 밖의 건설·생산은 그대로입니다.\n게임 폴더의 subject_build_fix.txt 에서 enabled·log_level 로 조절하고, 수리는 subject_build_fix.log 의 [FIX] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "subject_build_fix.txt"
+  ],
+  "cleanup": [
+    "subject_build_fix.log*",
+    "subject_build_fix.txt.tmp"
+  ],
+  "conflicts": [],
+  "updated": "2026-10-06",
+  "name_en": "Subject Annexation Construction Fix",
+  "description_en": "Fixes the bug where buildings you were constructing in a subject's states stop progressing after you annex the subject while their civilian factories stay tied up. A construction in someone else's state is a pair of lines in the game (the subject's line does the work, yours only holds the factories and waits); annexation or a state owner change cancels the subject's line but leaves yours linked to it. Right after the engine moves the production lines, this mod unlinks your orphaned construction lines so they continue as ordinary constructions (progress and factories kept). Everything else about construction and production is unchanged.\nTune enabled and log_level in subject_build_fix.txt in the game folder; repairs are listed as [FIX] lines in subject_build_fix.log. Only for hoi4.exe v1.19.3.0.c01a - with a different executable it is not installed and the game behaves like vanilla."
+}

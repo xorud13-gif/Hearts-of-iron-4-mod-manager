@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "6c57c895572dff56",
-  "generated": "2026-10-05T16:07:40Z",
+  "revision": "2f4d47cc93871a1f",
+  "generated": "2026-10-06T12:32:35Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "9cee7cdec29a8b34262ac88a29210f724d4d8235624609b0e2dea2f8681edba4",
@@ -255,6 +255,25 @@
           "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
           "sha256": "0fee863ae1e42fd4519e4ab1084f60a835e59c6d71f908984694b085d0298730",
           "size": 34981
+        }
+      ]
+    },
+    {
+      "id": "subject_build_fix_hoi4",
+      "name": "종속국 합병 건설 정지 수정",
+      "name_en": "Subject Annexation Construction Fix",
+      "version": "1.0 (2026-10-06)",
+      "updated": "2026-10-06",
+      "files": [
+        {
+          "path": "mods/subject_build_fix_hoi4/mod.json",
+          "sha256": "6ee48d46c6c772d3160b7ec3a1cc3603efc7b4c1dc77956e12b11856ffb00cee",
+          "size": 2254
+        },
+        {
+          "path": "mods/subject_build_fix_hoi4/files/version.dll",
+          "sha256": "f231fe741406a19dcd0cedd491ccd5bba17487016160cd7222e61eb6931a1751",
+          "size": 394240
         }
       ]
     }
