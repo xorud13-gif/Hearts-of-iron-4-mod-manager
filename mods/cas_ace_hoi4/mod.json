@@ -3,6 +3,7 @@
   "id": "cas_ace_hoi4",
   "name": "비행단 에이스 생성 확장",
   "version": "2.0 (2026-10-04)",
+  "updated": "2026-10-07",
   "author": "",
   "description": "피해를 주는 모든 비행단 작전(근접항공지원, 전략폭격의 건물·철도포·정박 함선, 병참 타격의 열차·트럭·철도/인프라 번짐, 스크립트 공습)이 해전과 같은 에이스 판정을 출격마다 받게 합니다. 에이스가 있는 비행단도 계속 판정하고(해전 포함) 새 에이스는 국가 예비 풀로 가서, 에이스 자동 배치 모드가 빈 비행단에 배치합니다.\n기본 배율은 100대 비행단이 쉬지 않고 출격할 때 약 1달에 한 명이 되도록 맞췄습니다. 게임 폴더의 cas_ace.txt 에서 작전별 배율·roll_chance·keep_rolling_with_ace 로 조절하고, v1 설정 파일은 처음 실행할 때 자동 변환됩니다.",
   "native_dll": "version.dll",
@@ -15,7 +16,6 @@
     "cas_ace.txt.tmp"
   ],
   "conflicts": [],
-  "updated": "2026-10-04",
   "name_en": "Air Wing Ace Generation Expansion",
   "description_en": "Makes every air wing operation that deals damage (close air support, strategic bombing of buildings, rail guns and docked ships, logistics strikes on trains, trucks and rail/infrastructure spread, scripted air raids) get the same ace roll as naval combat on every sortie. Wings that already have an ace keep rolling too (naval combat included), and new aces go to the country's reserve pool, from where the Auto Ace Pilot Assignment mod places them into empty air wings.\nThe default multiplier is tuned so that a 100-plane wing sortieing without rest produces about one ace a month. Tune per-operation multipliers, roll_chance and keep_rolling_with_ace in cas_ace.txt in the game folder; v1 settings files are converted automatically on first run."
 }

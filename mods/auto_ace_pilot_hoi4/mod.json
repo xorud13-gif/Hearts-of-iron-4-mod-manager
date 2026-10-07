@@ -3,6 +3,7 @@
   "id": "auto_ace_pilot_hoi4",
   "name": "에이스 조종사 자동 배치",
   "version": "2.4",
+  "updated": "2026-10-07",
   "author": "",
   "description": "빈 비행단에 대기 중인 에이스를 자동으로 배치하고, 에이스가 전사하거나 새로 진급하면 즉시 교체·투입합니다.\n인게임 [결정] 메뉴의 '공군 참모본부: 에이스 조종사 관리'에서 즉시 배치와 자동 배치 켜기/끄기를 할 수 있습니다.",
   "native_dll": "version.dll",
@@ -22,7 +23,6 @@
     "localisation/*/ace_auto_assign_l_*.yml"
   ],
   "conflicts": [],
-  "updated": "2026-10-04",
   "name_en": "Auto Ace Pilot Assignment",
   "description_en": "Automatically assigns waiting ace pilots to empty air wings, and immediately replaces and reassigns them when an ace is killed or a new one is promoted.\nIn the in-game [Decisions] menu, under 'Air Staff: Ace Pilot Management', you can assign immediately and turn automatic assignment on or off."
 }

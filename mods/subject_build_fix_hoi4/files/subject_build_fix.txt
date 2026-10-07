@@ -1,0 +1,19 @@
+# Subject construction fix (subject_build_fix_hoi4) configuration
+# Edit and save, then restart the game. In multiplayer every player needs the same DLL and values.
+
+# When you build in a subject's state, the game keeps two linked construction lines: the subject's
+# line does the work and yours only holds the civilian factories. Annexing the subject (or taking
+# the state) cancels the subject's line but leaves yours linked to it, so it never progresses
+# while its factories stay busy.
+# 1 = after the engine moves a country's production lines to the new owner, unlink every line of
+#     the new owner that was waiting for a cancelled or vanished partner, so it keeps building
+#     the buildings it already had (progress kept) as an ordinary construction.
+# 0 = vanilla (install nothing, restart required)
+enabled = 1
+
+# Log: 0 = start-up and errors only, 1 = + the first repairs and the totals (default),
+#      2 = + every repair (debug)
+log_level = 1
+
+# Log file name (next to the DLL, or a full path)
+log_file = subject_build_fix.log

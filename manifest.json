@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "2f4d47cc93871a1f",
-  "generated": "2026-10-06T12:32:35Z",
+  "revision": "d0a3364b93e2e553",
+  "generated": "2026-10-07T14:05:38Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "9cee7cdec29a8b34262ac88a29210f724d4d8235624609b0e2dea2f8681edba4",
@@ -19,17 +19,17 @@
       "name": "에이스 조종사 자동 배치",
       "name_en": "Auto Ace Pilot Assignment",
       "version": "2.4",
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/auto_ace_pilot_hoi4/mod.json",
-          "sha256": "47c5beaff81a0fa34d175f0c00192da2d0d201aa4958ad9e7b6f3446c4daf486",
+          "sha256": "5ef93c46bff70e227c98909d8ddc8102ab4f6c267d1b20d5cc5e06bb3e498ad9",
           "size": 1467
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
-          "sha256": "56f267455c55803aa107df3e106eb98b969349eeea9bf81adeebf0f90631ae9a",
-          "size": 314368
+          "sha256": "2cc29605f5ffe339404acde14c0af68182bd347b34d625156f4b971307973f8d",
+          "size": 315904
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/ace_auto_assign_decisions.txt",
@@ -63,17 +63,17 @@
       "name": "수동 정밀 전선 드래그",
       "name_en": "Manual Precision Front Drag",
       "version": "1.0",
-      "updated": "2026-09-18",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/manual_frontline_hoi4/mod.json",
-          "sha256": "cd5f6e33a841c4abf1f39399155c6c83933eac09196a70730dd46a57063b1f30",
+          "sha256": "f1574d0a3cf494b605a9419bf7a524345057a019bfabeed30a47a73d91f6083c",
           "size": 1018
         },
         {
           "path": "mods/manual_frontline_hoi4/files/version.dll",
-          "sha256": "cf6ae21b36a71c7723e9d9ad87dd92b474bf0e459993855274344390daeaaefa",
-          "size": 355840
+          "sha256": "41b757a8175739e464100a6d7a6775e451fb4978737e4c9a392362add90f8217",
+          "size": 357376
         }
       ]
     },
@@ -82,11 +82,11 @@
       "name": "비행단 에이스 생성 확장",
       "name_en": "Air Wing Ace Generation Expansion",
       "version": "2.0 (2026-10-04)",
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/cas_ace_hoi4/mod.json",
-          "sha256": "0dd74afca0a30281cdac2c7bfbd4348b68d0f1a76204d9cdde06b209d091d2ac",
+          "sha256": "9f59c96164074798d43f6a31202503f807fd36b31dbb3ae29e71938267853086",
           "size": 1908
         },
         {
@@ -96,8 +96,8 @@
         },
         {
           "path": "mods/cas_ace_hoi4/files/version.dll",
-          "sha256": "987a0a793749fe624d7593188bd8da0c30e26b47c017bc00c629bf2258700bb3",
-          "size": 437248
+          "sha256": "65119378e6cbc4090de4ed0652cba17a8f9afd2ee9b8d5c1d5d09808806dd243",
+          "size": 438784
         }
       ]
     },
@@ -106,11 +106,11 @@
       "name": "병참 타격 아군 피해 방지",
       "name_en": "Logistics Strike Friendly-Fire Guard",
       "version": "1.0 (2026-10-05)",
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/logistics_guard_hoi4/mod.json",
-          "sha256": "be9d06b5e2a1b08ab2a24a35de7dd57aed37bef4f43ca8fd762e9f0ae843f596",
+          "sha256": "f82af4fee44225678ce6535b4b670ccff9e1bd8ced8d2b0be90ecb5baad44108",
           "size": 1961
         },
         {
@@ -120,8 +120,8 @@
         },
         {
           "path": "mods/logistics_guard_hoi4/files/version.dll",
-          "sha256": "2cde3618e97716a257670f5035623c52579f6252be686077c7d15066d7d8efb3",
-          "size": 397824
+          "sha256": "5999e1e15e4f1531e47c2cd107a4822be95437a8f2caa78c06bbff25871ecc84",
+          "size": 399360
         }
       ]
     },
@@ -130,17 +130,17 @@
       "name": "자동 무역",
       "name_en": "Auto Trade",
       "version": "0.3d",
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "faba92b7e99478dee4de657d04de49c591e97ca24d391f64426925a18dafd762",
+          "sha256": "9ac553452ca37f02bfb5597cc9fd2725eefc8fea7f3ac96d2c6a8ee6c629c1b9",
           "size": 2535
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "d010807ce661c380de8bdfc4c330396d2c5984a81fabb071e8c11da383ba5c89",
-          "size": 466944
+          "sha256": "421bb8efc5eb22c97f1b76f9914df6d52f26d458b9ffe71a0599b690a3313dd4",
+          "size": 467968
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
@@ -199,17 +199,17 @@
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
       "version": "0.2 (2026-10-06)",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "070505e857b8cb562b3a25499b7ccef3337a40335769ba1156ef33ee2c1a00eb",
+          "sha256": "b3a504820de7a99b33005e7bc62332adf170053600a82dcbbfa3c1a9a22ed2eb",
           "size": 2761
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
-          "sha256": "035a7636e0366251b96a33c3273977f549135b979971f22e07fb6b985a2e6d75",
-          "size": 455680
+          "sha256": "257002497d41ff6377080142da0eb4ce057f8f59d7db7e77fdc9f1613ad1018e",
+          "size": 456704
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/decisions/amd_decisions.txt",
@@ -263,16 +263,40 @@
       "name": "종속국 합병 건설 정지 수정",
       "name_en": "Subject Annexation Construction Fix",
       "version": "1.0 (2026-10-06)",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "files": [
         {
           "path": "mods/subject_build_fix_hoi4/mod.json",
-          "sha256": "6ee48d46c6c772d3160b7ec3a1cc3603efc7b4c1dc77956e12b11856ffb00cee",
+          "sha256": "a7f9e4f805bd9b7fd36a8e7297d7e7a33132b45d290fcf77a9f6bbe62ffa016e",
           "size": 2254
         },
         {
+          "path": "mods/subject_build_fix_hoi4/files/subject_build_fix.txt",
+          "sha256": "56cec05e3ee32f609ebc31f1dbc482fb26d8378af31140d6babd121b6e69fa3a",
+          "size": 1044
+        },
+        {
           "path": "mods/subject_build_fix_hoi4/files/version.dll",
-          "sha256": "f231fe741406a19dcd0cedd491ccd5bba17487016160cd7222e61eb6931a1751",
+          "sha256": "cada631b7b057af86c1533ee605776511c5a63f4b6d4d6fd576c7c4643b806e7",
+          "size": 395776
+        }
+      ]
+    },
+    {
+      "id": "border_war_guard_hoi4",
+      "name": "국경 분쟁 무전투 패배 방지",
+      "name_en": "Border Conflict No-Combat Defeat Guard",
+      "version": "1.2 (2026-10-07)",
+      "updated": "2026-10-07",
+      "files": [
+        {
+          "path": "mods/border_war_guard_hoi4/mod.json",
+          "sha256": "f7f12c4da8b92e7788dab21c2ea02015792570c7cca5749828906d815f5a7702",
+          "size": 2619
+        },
+        {
+          "path": "mods/border_war_guard_hoi4/files/version.dll",
+          "sha256": "2707eec2cd9961b8a26d1cbb247038419b51c027d18f3902ab67c684b1cdfbf3",
           "size": 394240
         }
       ]

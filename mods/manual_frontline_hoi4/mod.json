@@ -3,6 +3,7 @@
   "id": "manual_frontline_hoi4",
   "name": "수동 정밀 전선 드래그",
   "version": "1.0",
+  "updated": "2026-10-07",
   "author": "",
   "description": "국경을 우클릭 드래그해 전선을 그릴 때 주(State) 경계나 강을 지나며 전선이 반대편으로 뒤집히는 현상을 막고, 드래그한 범위에만 정확히 전선을 만듭니다.\nAlt+드래그는 바닐라 동작, Shift+드래그는 야전원수 단일 전선입니다.",
   "native_dll": "version.dll",
@@ -14,7 +15,6 @@
     "manual_frontline.log*"
   ],
   "conflicts": [],
-  "updated": "2026-09-18",
   "name_en": "Manual Precision Front Drag",
   "description_en": "When you draw a front by right-click dragging along a border, prevents the front from flipping to the other side when it crosses a state boundary or a river, and creates the front exactly over the dragged range only.\nAlt+drag is the vanilla behavior; Shift+drag creates a single field marshal front."
 }
