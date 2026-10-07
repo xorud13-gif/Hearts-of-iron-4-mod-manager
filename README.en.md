@@ -22,7 +22,7 @@ This repository contains **only the mods the developer has judged stable**, and 
 | Automatic check | While the program is open it checks the repository for changes **once a day**. To turn it off, clear the `Check automatically once a day` box. It only checks - you still click to download. |
 | Manual check | The `Check for updates` button. If there are changes it shows the new and changed mods, and after you confirm it downloads and installs **only the changed files**. |
 | Safety | Every downloaded file is checked against the hash in the repository's `manifest.json`. If even one does not match, nothing is changed. |
-| Mods that are on | If an update changes a mod that is turned on, it is applied to the game folder right away (if the game is running, click `Reapply` after closing it). |
+| Mods that are on | When you install an update, the mods that were on are remembered, then **all mods are turned off and the remembered ones turned on again**, so the changes reach the game folder automatically. If the game is running, this continues as soon as you close the game (or the next time the program starts). |
 | The program itself | When a new version exists, it asks whether to replace itself and restart. |
 
 Mod config files you have adjusted (for example `cas_ace.txt`) **keep your settings** across updates.
@@ -30,7 +30,10 @@ Mod config files you have adjusted (for example `cas_ace.txt`) **keep your setti
 ## Main features
 
 - **Turn mods on/off**: clicking the switch installs/removes the mod in the game folder immediately. If something fails it automatically returns to the previous state.
-- **Several DLL mods at once**: the loader is set up automatically.
+- **Turn all on / Turn all off**: turns every mod on or off at once (when turning on, mods that cannot be used together are left out).
+- **Save setup / Load setup**: saves the combination of mods that are on now under a name and loads it again later (for example: before multiplayer use `Reset all` to get back to the original state, and when you return to single-player restore everything with one `Load setup`). In the pop-up you type the name to save under, pick a saved setup, or delete the ones you no longer need. Saved setups are kept in `data\settings.json`.
+- **Several DLL mods at once**: the loader is set up automatically. Only the loader `version.dll` goes in the game folder; everything else is kept in the `mods` folder inside the game folder, split into **`mod`** (mod DLLs, config files) and **`log`** (logs).
+- **Logs are kept for one week**: each mod writes its log straight to `mods\log` (every line starts with a date and time), and the manager automatically cuts the lines older than 7 days off the start of each log. It does not cut while the game is running.
 - **Reset all (restore originals)**: turns every mod off, restores the original files that were overwritten, and cleans up mod files that were installed outside the manager. `version.dll` does not exist in the original game, so it is deleted without a backup.
 - **Scan folder**: finds and cleans up mod files and logs in the game folder that were installed outside the manager.
 - **Launch game**: starts HOI4 through Steam.

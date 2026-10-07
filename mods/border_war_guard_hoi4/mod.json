@@ -3,6 +3,7 @@
   "id": "border_war_guard_hoi4",
   "name": "국경 분쟁 무전투 패배 방지",
   "version": "1.2 (2026-10-07)",
+  "updated": "2026-10-08",
   "author": "",
   "description": "국경 분쟁(중국 군벌의 Waking the Tiger 분쟁과 다른 모드가 추가한 start_border_war 분쟁 모두)이 시작하자마자 전투 없이 끝나는 일을 막습니다. 엔진은 분쟁을 시작할 때 한쪽에 '쓸 수 있는 사단'이 없으면(사단 선택의 길 찾기 검사 탈락) 전쟁을 만들지 않고 그 자리에서 병력 없는 쪽을 패배 처리하는데, 병력이 올 시간으로 주는 14일 규칙은 전쟁이 있어야만 돌아서 쓰이지도 못합니다. 이 모드는 사단이 하나도 안 골라졌을 때만 길 찾기 검사 없이 한 번 더 골라 전쟁이 시작되게 하고(병력은 국경으로 이동 명령을 받고, 못 오면 엔진의 14일 규칙이 그대로 적용), 나라에 사단이 아예 없으면 바닐라대로 즉시 판정(건 쪽 승리)합니다.\n게임 폴더의 border_war_guard.txt 에서 enabled·log_level 로 조절하고, 동작은 border_war_guard.log 의 [RETRY] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
   "native_dll": "version.dll",
@@ -15,7 +16,6 @@
     "border_war_guard.txt.tmp"
   ],
   "conflicts": [],
-  "updated": "2026-10-07",
   "name_en": "Border Conflict No-Combat Defeat Guard",
   "description_en": "Stops border wars (the Waking the Tiger conflicts between Chinese warlords and the ones other mods add with start_border_war) from ending the moment they start without a battle. When a side has no 'usable division' at the start (the division selection's path test to the border fails) the game does not create the war but declares that side the loser on the spot - and the 14 days it normally gives units to arrive never run, because they only run once the war exists. This mod selects once more without the path test when no division at all was picked, so the war starts, the divisions are ordered to the border and the game's own 14-day rule applies to the ones that do not arrive. A country with no division at all is decided at once as in vanilla (the side that started the conflict wins).\nTune enabled and log_level in border_war_guard.txt in the game folder; what it did is listed as [RETRY] lines in border_war_guard.log. Only for hoi4.exe v1.19.3.0.c01a - with a different executable it is not installed and the game behaves like vanilla."
 }

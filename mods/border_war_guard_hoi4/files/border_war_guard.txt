@@ -1,0 +1,20 @@
+# Border conflict no-combat defeat guard (border_war_guard_hoi4) configuration
+# Edit and save, then restart the game.
+
+# Waking the Tiger border conflicts between Chinese warlords can end at once without a battle: when
+# the game finds no usable division for a side at the start (its path test to the border fails), it
+# never starts the war and gives that side the defeat (state transfer or annexation) on the spot.
+# The 14 days the game normally gives units to arrive are never used.
+# 1 = when the game's unit selection finds no division for a side, it selects again without the
+#     path test, so the war starts and the units get the normal 14 days to arrive. Only when the
+#     country has no free division at all, the conflict ends as cancelled for both sides.
+#     Border wars of other scripts keep the vanilla rules.
+# 0 = vanilla (install nothing, restart required)
+enabled = 1
+
+# Log: 0 = start-up and errors only, 1 = + every retry / cancelled start and the totals (default),
+#      2 = same (debug)
+log_level = 1
+
+# Log file name (next to the DLL, or a full path)
+log_file = border_war_guard.log

@@ -3,7 +3,7 @@
   "id": "logistics_guard_hoi4",
   "name": "병참 타격 아군 피해 방지",
   "version": "1.0 (2026-10-05)",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "author": "",
   "description": "병참 타격의 번짐 피해가 공격자와 전쟁 중이 아닌 나라(자신·동맹·중립)의 인프라·철도에 떨어지지 않게 합니다. 적과 나눠 가진 주는 인프라 번짐을 건너뛰고(인프라는 주마다 하나라 그 주의 적 쪽도 번짐 없음), 내 쪽 프로빈스 철도에 떨어질 번짐 조각은 버립니다. 적 철도 피해·트럭·열차 파괴·무작위 추첨 횟수는 바닐라와 같고 AI 공격에도 같은 규칙입니다.\n게임 폴더의 logistics_guard.txt 에서 protect_infrastructure·protect_railways·log_level 로 조절합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
   "native_dll": "version.dll",
