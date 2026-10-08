@@ -5567,17 +5567,4 @@ scripted_gui = {
 		}
 	}
 
-	amd_decision_gui = {
-		context_type = decision_category
-		window_name = "amd_decision_panel"
-		ai_enabled = { always = no }
-		effects = {
-			amd_panel_open_click = {
-				hidden_effect = {
-					if = { limit = { has_country_flag = amd_gui_open } amd_close_window = yes }
-					else = { amd_open_window = yes }
-				}
-			}
-		}
-	}
 }

@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "id": "non_seperate_frontline_hoi4",
+  "name": "전선 분리/증발 방지",
+  "version": "통합 (2026-10-06)",
+  "updated": "2026-10-08",
+  "author": "",
+  "description": "전선이 바뀔 때 생기는 두 가지 문제를 한 모드로 막습니다.\n① 분리 방지: 우리와 평화인 제3국이 적 영토를 점령하는 등 전선이 바뀔 때, 기존 전선 명령이 평화 중인 나라의 전선으로 갈라지거나 옮겨 가는 것을 막습니다. 평화국 국경에는 언제든 전선을 그을 수 있습니다.\n② 증발 방지: 전선이 쪼개져 새로 생긴 조각에 명령이 하나도 없을 때(손으로 그은 내 전선이 통째로 사라지는 문제), 그 조각을 맡고 있던 군에 새 명령을 입양시킵니다. 내 나라 전선만 대상이고, 평화국만 마주한 조각은 입양하지 않습니다.\n게임 폴더의 non_separate_frontline.txt 에서 peace_front_mode(0 = 바닐라, 1 = 분리 방지(기본), 2 = 평화국 전선 전부 차단)와 orphan_adopt(1 = 증발 방지 켜짐(기본), 0 = 끔)로 조절합니다. 이미 있는 설정 파일에는 새 키가 없어도 기본값이 쓰입니다. 싱글플레이 기준으로 만든 모드입니다. hoi4.exe v1.19.3.0.c01a 전용 - 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "non_separate_frontline.txt",
+    "non_separate_frontline_phase0.txt"
+  ],
+  "cleanup": [
+    "non_separate_frontline*.log*",
+    "common/decisions/categories/non_separate_frontline_*.txt",
+    "common/decisions/non_separate_frontline_*.txt",
+    "localisation/*/non_separate_frontline_l_*.yml"
+  ],
+  "conflicts": [
+    "non_dissapear_frontline_hoi4"
+  ],
+  "name_en": "Front Split / Vanish Guard",
+  "description_en": "One mod for two problems that appear when fronts change.\n1. Split guard: when the front changes (for example a third country at peace with you occupies enemy territory), your existing front order no longer splits off onto, or moves to, the front of a country you are at peace with. You can still draw a front on a peaceful country's border at any time.\n2. Vanish guard: when a front is cut up and a new piece has no order at all (your hand-drawn front vanishing entirely), the army that held that piece is given a new adopted order. Only your own country's fronts are handled, and a piece that faces only countries at peace is not adopted.\nTune it in non_separate_frontline.txt in the game folder: peace_front_mode (0 = vanilla, 1 = split guard (default), 2 = block every front against countries at peace) and orphan_adopt (1 = vanish guard on (default), 0 = off). An existing settings file without the new keys uses the defaults. Made for single-player. Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}

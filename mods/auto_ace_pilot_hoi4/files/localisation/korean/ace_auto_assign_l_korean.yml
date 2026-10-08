@@ -1,6 +1,4 @@
 ﻿l_korean:
- ace_auto_assign_category: "공군 참모본부: 에이스 조종사 관리"
- ace_auto_assign_category_desc: "비행단에 배치되지 않고 대기 중인 에이스 조종사들을 자동으로 관리하고 적절한 비행단에 배치합니다."
  ace_assign_once: "에이스 즉시 자동 배치 (1회)"
  ace_assign_once_desc: "현재 대기 풀에 있는 모든 에이스 조종사들을 기종에 맞는 빈 비행단에 즉시 자동 배치합니다."
  ace_assign_once_tt: "§G대기 중인 에이스 조종사들이 빈 비행단으로 즉시 자동 배치됩니다.§!"

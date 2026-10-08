@@ -1,8 +1,8 @@
 ###########################################################################
 # Auto Medal (auto_medal_hoi4) - decisions
-# The root key is the category id from categories/amd_categories.txt.
+# The root key is the shared mod settings tab (categories/mod_settings_categories.txt).
 ###########################################################################
-amd_category = {
+mod_settings_category = {
 
 	amd_open_settings = {
 		icon = generic_military

@@ -1,0 +1,72 @@
+# front split / evaporation guard configuration (non-separate + non-disappear frontline, merged 2026-10-06)
+# Edit and save, then restart the game.
+
+# 1 = install the native patches, 0 = do nothing (restart required)
+enabled = 1
+
+# Frontlines toward countries we are NOT at war with:
+#   0 = vanilla (nothing is patched)
+#   1 = split guard (default). Frontlines toward peace countries can always be drawn. When the
+#       front changes (e.g. a third country takes enemy provinces on your front), an existing
+#       front order is never split or moved onto a peace country it was not already facing.
+#   2 = block all: no frontlines toward peace countries at all (the old block_peace_fronts = 1)
+peace_front_mode = 1
+
+# Virtual key code that cycles peace_front_mode 0 -> 1 -> 2 -> 0 in-game
+# (0 = disabled, e.g. 0xDD = ']', 0x77 = F8). Takes effect on the next frontline rebuild.
+toggle_key = 0
+
+# Split guard, when a peace country's front is the ONLY place an order could go (e.g. an ally took the
+# whole stretch in front of it): 1 = do not move the order there (default) - the engine then re-homes it
+# by its enemy area or removes it; 0 = vanilla, the order moves onto the peace country's front.
+split_guard_last_section = 1
+
+# Split-guard log lines: 0 = off, 1 = your own country only (default), 2 = every country
+log_split_guard = 1
+
+# 1 = log every border-pair decision of mode 2 (debug only - tens of thousands of lines per rebuild)
+log_decisions = 0
+
+# >0 = every N seconds, log counters and cost (0 = off)
+stats_interval_sec = 0
+
+# Front evaporation prevention (orphan-section adoption, formerly the separate non_dissapear mod).
+# When a front splits and a piece of it is left without any order (your own country only), that piece
+# gets an order of its own, held by the army that holds the rest of that front. A piece in front of a
+# country at peace with you is never adopted. 1 = on (default), 0 = off (restart required).
+# Details of what it did are written to non_separate_frontline_phase0.log ([RH] lines).
+orphan_adopt = 1
+
+# How a split army-group front is repaired (only with orphan_adopt = 1):
+#   0 = hand the piece to a subordinate army, 1 = army-group front without child fronts,
+#   2 = a second army-group front with its own divisions (leaves the original line empty),
+#   3 = a child front under the EXISTING army-group front, no division moves (default).
+# A step whose engine anchors do not match falls back to the one below it.
+armygroup_mode = 3
+
+# Extra milliseconds a front must stay unchanged before a gap on it is adopted (0 = none, default).
+# A front that was just rebuilt is never adopted into, whatever this says.
+front_settle_ms = 0
+
+# A gap that is more than this percent of its whole front is NOT adopted: that is a front you never drew
+# (e.g. the border that appears right after you conquer a country), not a piece of one that was lost.
+# 1..100, default 50; 100 = no limit.
+adopt_max_gap_percent = 50
+
+# 1 = adopt a gap only where an order of yours was FACING that stretch (your line advanced into it);
+# never on a guess such as 'the same army holds the rest of that front'. 0 = also guess (the old behaviour,
+# which drew fronts you never asked for, e.g. toward Yugoslavia and Greece).
+adopt_strict_parent = 1
+
+# 1 = an order that the adoption drew for a lost piece of a front is merged back into the order next to it
+# as soon as the two are contiguous again (the engine never merges two separate front orders by itself, so
+# they would stay side by side as separate fronts). Only orders this mod created are ever merged - fronts
+# you drew yourself are left alone. 0 = never merge (only with orphan_adopt = 1).
+merge_adopted_fronts = 1
+
+# Log file name
+log_file = non_separate_frontline.log
+
+# Self-test diagnostics on load (country tags, -1 = disabled)
+test_country_a = -1
+test_country_b = -1

@@ -1,0 +1,20 @@
+###########################################################################
+# Mod settings tab - ONE decision tab shared by every mod that has settings buttons.
+# This file, localisation/*/mod_settings_l_*.yml are byte-identical in each such mod
+# (auto_ace_pilot, auto_trade, auto_medal, border_war_commander); the mod manager
+# installs identical copies once. Change all copies together.
+# Root level on purpose: wrapping it in decision_categories = { } breaks it
+# (AGENTS.md 2.1).
+###########################################################################
+mod_settings_category = {
+	icon = generic_political_actions
+	priority = 100
+
+	allowed = {
+		always = yes
+	}
+
+	visible = {
+		is_ai = no
+	}
+}

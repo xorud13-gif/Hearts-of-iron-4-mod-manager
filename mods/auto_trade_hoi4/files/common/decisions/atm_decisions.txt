@@ -1,8 +1,8 @@
 ###########################################################################
 # Auto Trade (auto_trade_hoi4) - decisions
-# The root key is the category id from categories/atm_categories.txt.
+# The root key is the shared mod settings tab (categories/mod_settings_categories.txt).
 ###########################################################################
-atm_category = {
+mod_settings_category = {
 
 	atm_open_settings = {
 		icon = generic_industry

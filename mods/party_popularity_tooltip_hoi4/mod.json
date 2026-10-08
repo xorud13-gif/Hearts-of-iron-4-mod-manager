@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "id": "party_popularity_tooltip_hoi4",
+  "name": "정당 지지도 툴팁 출처 표시",
+  "version": "1.0 (2026-10-09)",
+  "updated": "2026-10-09",
+  "author": "",
+  "description": "정치 화면에서 정당 지지도에 마우스를 올렸을 때 '매일 변화' 아래의 보장(독립보장) 드리프트 줄이 이름 없이 숫자(+0.08+0.08)만 이어 붙어 나오던 것을 '보장으로 인한 타국의 민주주의 증가: +0.08' 처럼 이름과 함께 한 줄씩 보이게 합니다. 엔진은 각 줄의 이름을 그 줄의 출처 객체가 가진 이름 문자열에서 가져오는데 보장 관계에는 그 이름이 없어 값만 나옵니다. 이 모드는 그 줄을 쓰는 엔진 함수의 인자 하나를 바꿔 modifier 표시명을 쓰게 하고 줄바꿈을 넣습니다. 텍스트만 바꾸며 게임 상태는 건드리지 않습니다.\n게임 폴더의 party_popularity_tooltip.txt 에서 enabled·log_level 로 조절하고, 동작은 party_popularity_tooltip.log 의 [TIP] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "party_popularity_tooltip.txt"
+  ],
+  "cleanup": [
+    "party_popularity_tooltip.log*",
+    "party_popularity_tooltip.txt.tmp",
+    "localisation/*/pp_tooltip_l_*.yml"
+  ],
+  "conflicts": [],
+  "name_en": "Party Popularity Tooltip Sources",
+  "description_en": "In the politics view, the tooltip of a party's popularity listed the guarantee (independence guarantee) drift under 'daily change' as bare numbers run together (+0.08+0.08). This mod shows each of them on its own line with its name, e.g. 'Democratic drift from guarantees: +0.08'. The game takes the name of each line from the object the line comes from, and guarantee relations have no name, so only the value was shown. The mod changes one argument of the game function that writes the line so it uses the modifier's display name, and adds the line break. It only changes the text and never touches the game state.\nTune it with enabled and log_level in party_popularity_tooltip.txt in the game folder and check it in party_popularity_tooltip.log ([TIP] lines). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}

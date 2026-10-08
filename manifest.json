@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "f3656b30d7965464",
-  "generated": "2026-10-07T15:21:45Z",
+  "revision": "f6aeb0774d206769",
+  "generated": "2026-10-08T21:17:09Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "25c470c13ef75ffade9688c224a1ba18fbabf15130da5d181a7b99a9ce4260d4",
@@ -19,12 +19,12 @@
       "name": "에이스 조종사 자동 배치",
       "name_en": "Auto Ace Pilot Assignment",
       "version": "2.4",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/auto_ace_pilot_hoi4/mod.json",
-          "sha256": "242aef4cc3cfe22dd922d8a02c984f98ba9581f2f1972a7b4d051b98c5c7a664",
-          "size": 1467
+          "sha256": "60d0689ebc83ce9249d331a274f5ebe5a48370cd86b0870f853f7ab29a6fb003",
+          "size": 1649
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
@@ -33,13 +33,13 @@
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/ace_auto_assign_decisions.txt",
-          "sha256": "5fc482ddccd39830f7f92d479fcff35bcb87f433dcbee1e0ae3942acdb1cfc53",
-          "size": 1424
+          "sha256": "d6993946c8ea58e6c7e198067285c4833c532dbe98ac3c0dcbf8fb440ed69c0f",
+          "size": 1503
         },
         {
-          "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/categories/ace_auto_assign_categories.txt",
-          "sha256": "0eba1bd7c3febb84d711929ed9d3d41f63362719668a99407f7bf4dddc3a2b7c",
-          "size": 97
+          "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/categories/mod_settings_categories.txt",
+          "sha256": "9a48190f85c4e6997e4d0af334daed04aee137981dcdf91c197499f21ab52417",
+          "size": 701
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/common/on_actions/ace_auto_assign_on_actions.txt",
@@ -48,13 +48,23 @@
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/localisation/english/ace_auto_assign_l_english.yml",
-          "sha256": "77fbbbcf54aa946262469f5f703daec84b14fae7e811b0df6b85e3c06e16d384",
-          "size": 957
+          "sha256": "5b4e929af010ba6236d2c859634b556f3eb0214ec950baec4f4405b18f8b8c58",
+          "size": 780
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/localisation/english/mod_settings_l_english.yml",
+          "sha256": "e069d9fb02bb28f98a0393916fb3f2f2dbc2712a5c10eafd1f6c5ef9640ddc35",
+          "size": 87
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/localisation/korean/ace_auto_assign_l_korean.yml",
-          "sha256": "5bcc361c7d295634c42768c560af2c3962b6313a7ee397663a50e8f9c0e90371",
-          "size": 1361
+          "sha256": "121cab8391864c88245b814111fa7ce0c0318198a74d5400b93bc1dd04c1b30b",
+          "size": 1109
+        },
+        {
+          "path": "mods/auto_ace_pilot_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
+          "sha256": "62bd2bec9519a4ad4ddefbae588f358cdd1af17057dfd93ee9a0d264a46846b1",
+          "size": 97
         }
       ]
     },
@@ -74,6 +84,30 @@
           "path": "mods/manual_frontline_hoi4/files/version.dll",
           "sha256": "81437420303b51f0986be7db96418e76b8568c05ac6d9b2e320f1dd5581efdea",
           "size": 357376
+        }
+      ]
+    },
+    {
+      "id": "non_seperate_frontline_hoi4",
+      "name": "전선 분리/증발 방지",
+      "name_en": "Front Split / Vanish Guard",
+      "version": "통합 (2026-10-06)",
+      "updated": "2026-10-08",
+      "files": [
+        {
+          "path": "mods/non_seperate_frontline_hoi4/mod.json",
+          "sha256": "3bbcb8b41597993fa13a56aa1019abac3396962384a37216e7bebfbf01906932",
+          "size": 2916
+        },
+        {
+          "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
+          "sha256": "f04030fd3eb4c1d2e8bd251a35ba813f99f4f55af7dee9faf2551d413e674ff0",
+          "size": 3917
+        },
+        {
+          "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
+          "sha256": "2dc7f7a0401f1fdc67bb1d55da660b02bc83224c35dc794f0473aff845e3ce41",
+          "size": 618496
         }
       ]
     },
@@ -129,28 +163,28 @@
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
       "name_en": "Auto Trade",
-      "version": "0.3d",
-      "updated": "2026-10-08",
+      "version": "0.4a",
+      "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "7124b629ecabfa524ebb09860bc2620541f0759ded8ff29dc53172a1d5ca871c",
-          "size": 2535
+          "sha256": "cd60a5cc41e56525762804876f16944cfd9b0bc1dd8d602504527d48fab4dd90",
+          "size": 2820
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "bfc5a1e54778457d292f46607e1904cbeb4a68c55e64d8a9fc00d478deb2decf",
-          "size": 468480
+          "sha256": "bf71f0cb5a3b337e858801ef5ec348d4f2be9d67058f002d6d6650dee0c0b99a",
+          "size": 475136
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
-          "sha256": "5bd0dc740e404bda23fbb87a807fc03692c42ab9a378b219f7c0ddffe67a6c5e",
-          "size": 820
+          "sha256": "d78b8383fe2a0a3eb532aed282c0fd872d907be0e980e4a1fc02b7a588a8aac5",
+          "size": 847
         },
         {
-          "path": "mods/auto_trade_hoi4/files/common/decisions/categories/atm_categories.txt",
-          "sha256": "9d8aaa487d5ba054d28c65315f1b789a01fa5ea2885f6bfdad193dda637be722",
-          "size": 451
+          "path": "mods/auto_trade_hoi4/files/common/decisions/categories/mod_settings_categories.txt",
+          "sha256": "9a48190f85c4e6997e4d0af334daed04aee137981dcdf91c197499f21ab52417",
+          "size": 701
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/on_actions/atm_on_actions.txt",
@@ -159,18 +193,18 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_effects/atm_effects.txt",
-          "sha256": "719d246047ba6fe9b21ef26003d2c281ba93d038a971110132b7d1cd755ede43",
-          "size": 33984
+          "sha256": "f02297722833bcd3cd6e8d33fd56a8889c0c4038cccb1dc8a0522a2d3d4d239b",
+          "size": 34296
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_guis/atm_scripted_guis.txt",
-          "sha256": "236d622e2c05562d8511b13c0bbb6511568e75ded5527d035f35ec892d263290",
-          "size": 105533
+          "sha256": "f744aaa3d91d667bf0ce9c18568ff88eae8f77eb1c8a1cb86f6b51417b4b5c4f",
+          "size": 105207
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_localisation/atm_scripted_loc.txt",
-          "sha256": "c7569676ba27b0b9ba323572b3929e8fb2f37cac19c9b1508c89623d948b41c6",
-          "size": 43053
+          "sha256": "861064068b268dd3eb65d66661e084f406051a2a1ae02ff8bb5b9390660d94d1",
+          "size": 42866
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_triggers/atm_triggers.txt",
@@ -179,18 +213,28 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/interface/atm_window.gui",
-          "sha256": "a95d8767106cf14927ecf94f78ad5ce88eac7250c76fb47b02e0e11f4ec69bb0",
-          "size": 64514
+          "sha256": "87059c81f703fb94d5150c820909c0b2408a987533a1127363dac25e63fae009",
+          "size": 63932
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/english/atm_l_english.yml",
-          "sha256": "0d12b00365b1c15bcea742b27b6111f967322a551c589456769e9a1e4df0104c",
-          "size": 33355
+          "sha256": "109fd582fb3cdba46a0f03dc11241c86a40bdbac2e9a30cb04b917a60cc660f8",
+          "size": 33178
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/localisation/english/mod_settings_l_english.yml",
+          "sha256": "e069d9fb02bb28f98a0393916fb3f2f2dbc2712a5c10eafd1f6c5ef9640ddc35",
+          "size": 87
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/korean/atm_l_korean.yml",
-          "sha256": "4467b11d1fb0287296e96e8a12fa13ffb5c97c238abec047b25c5feda0f26b45",
-          "size": 35543
+          "sha256": "33d298898456ba309f5572a0a05c916aa057cb4e8e1742a9bfe08464eefd1a7f",
+          "size": 35301
+        },
+        {
+          "path": "mods/auto_trade_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
+          "sha256": "62bd2bec9519a4ad4ddefbae588f358cdd1af17057dfd93ee9a0d264a46846b1",
+          "size": 97
         }
       ]
     },
@@ -199,12 +243,12 @@
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
       "version": "0.2 (2026-10-06)",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "75afee4078678f4e82131da43ee06a1de23c20340216183c3e3df4188d686e8b",
-          "size": 2761
+          "sha256": "c86864deed67c0fb305b2e0db92fa5630d34978161aa2bee68e7db32dcfc4132",
+          "size": 3039
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
@@ -213,13 +257,13 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/decisions/amd_decisions.txt",
-          "sha256": "04a09ac86881c103ceb5cecc8f4f6e84430e9140aedb73d7bada8c5f762acc64",
-          "size": 820
+          "sha256": "b53bd83dfa42d483aa8c94e2c33e16640eeec7f4003dd46e6303b38dfc634676",
+          "size": 847
         },
         {
-          "path": "mods/auto_medal_hoi4/files/common/decisions/categories/amd_categories.txt",
-          "sha256": "6d073503b7805048f64f61df22f74ce86dca01d11754b012ca9a4560bbcc5bc8",
-          "size": 469
+          "path": "mods/auto_medal_hoi4/files/common/decisions/categories/mod_settings_categories.txt",
+          "sha256": "9a48190f85c4e6997e4d0af334daed04aee137981dcdf91c197499f21ab52417",
+          "size": 701
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/on_actions/amd_on_actions.txt",
@@ -233,28 +277,38 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_guis/amd_scripted_guis.txt",
-          "sha256": "c5bb211484e247198447664deb3ffa119a07dfc0bbec1378c339046d8f8cacad",
-          "size": 334198
+          "sha256": "183178775b2183f89ff0d1c2e7da6cdf70235a62adfea354240052995bb3b907",
+          "size": 333872
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_localisation/amd_scripted_loc.txt",
-          "sha256": "2df37e1113deed824240d14e60dae9695a7aa6cd4bdc0eaff6347ff033dc9953",
-          "size": 622492
+          "sha256": "e528fea1df392d17706d3a62ddefa1b94f859893d587c01b2858a003a456592b",
+          "size": 622305
         },
         {
           "path": "mods/auto_medal_hoi4/files/interface/amd_window.gui",
-          "sha256": "810339a8b66af015c7818842d029f17fd3fcd52cf9f2628043542f1346cb75cc",
-          "size": 172206
+          "sha256": "d016ba5bdf7b24c8ce0ce0e1798b0f30c3408431d3926d89c722cc436865d1f5",
+          "size": 171624
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/amd_l_english.yml",
-          "sha256": "b778f0f765307e92ac2d549bc42a8f2a1dde3d841f41acbace671decd45100ef",
-          "size": 34284
+          "sha256": "35d079153cce35502d2e6258d27b6b35b59c7505d2ae08833b373e5811635808",
+          "size": 33944
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/localisation/english/mod_settings_l_english.yml",
+          "sha256": "e069d9fb02bb28f98a0393916fb3f2f2dbc2712a5c10eafd1f6c5ef9640ddc35",
+          "size": 87
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
-          "sha256": "0fee863ae1e42fd4519e4ab1084f60a835e59c6d71f908984694b085d0298730",
-          "size": 34981
+          "sha256": "7828a59b7f7e4324147389632e60f7ad60756ec266fd9fa23b68baebb029d332",
+          "size": 34620
+        },
+        {
+          "path": "mods/auto_medal_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
+          "sha256": "62bd2bec9519a4ad4ddefbae588f358cdd1af17057dfd93ee9a0d264a46846b1",
+          "size": 97
         }
       ]
     },
@@ -301,8 +355,153 @@
         },
         {
           "path": "mods/border_war_guard_hoi4/files/version.dll",
-          "sha256": "5ffd0a358ae26b3eb0fe8f8a09b78397f4d2caae5d8756958a37273b9037396e",
-          "size": 394752
+          "sha256": "78d12a64313bb95546a4802d1c7f0756d30d0b6acc51c2f56865ce5f31b2032b",
+          "size": 403968
+        }
+      ]
+    },
+    {
+      "id": "border_war_commander_hoi4",
+      "name": "국경 분쟁 전문 지휘관",
+      "name_en": "Border Conflict Commander",
+      "version": "1.0 (2026-10-08)",
+      "updated": "2026-10-09",
+      "files": [
+        {
+          "path": "mods/border_war_commander_hoi4/mod.json",
+          "sha256": "ec55a01c18a6755c36af1a78449fcd29c0b08c8c52fa8cac12947a0cf45fb019",
+          "size": 3299
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/version.dll",
+          "sha256": "ee355df9c41526101d817cb09ef5a235f8688a769c1bcbd112f5fbe3ca213dee",
+          "size": 399872
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/common/decisions/bwc_decisions.txt",
+          "sha256": "57595b1b3f7620b0e59751b1c109da6868ef8eae4ac68a56d3bc32de04df4a2b",
+          "size": 882
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/common/decisions/categories/mod_settings_categories.txt",
+          "sha256": "9a48190f85c4e6997e4d0af334daed04aee137981dcdf91c197499f21ab52417",
+          "size": 701
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/common/scripted_effects/bwc_effects.txt",
+          "sha256": "57fe06ad1cdc8881379e508b78b61efd76edf03dbf1e3b97fe3ecafe3745a269",
+          "size": 47288
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/common/scripted_guis/bwc_scripted_guis.txt",
+          "sha256": "ac740cfb51ced8737c075792d96457c3264480a60fa7214b8b432a7fd25c243f",
+          "size": 54021
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/common/scripted_localisation/bwc_scripted_loc.txt",
+          "sha256": "ad47e19b4c9a30aa5e995dd4d2f1e59f58c70508ae1c5263affbd634cae7cc1e",
+          "size": 15660
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/interface/bwc_window.gui",
+          "sha256": "fbc1e2d1652865a8c83d7e1f0eb32b65adbcde80e986de3e836817e6807d985b",
+          "size": 80949
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/localisation/english/bwc_l_english.yml",
+          "sha256": "4bc5573b0b38b6590ca2b18c981493daab2491fd94eb7c819ab8b5a6f2146ea1",
+          "size": 10045
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/localisation/english/mod_settings_l_english.yml",
+          "sha256": "e069d9fb02bb28f98a0393916fb3f2f2dbc2712a5c10eafd1f6c5ef9640ddc35",
+          "size": 87
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/localisation/korean/bwc_l_korean.yml",
+          "sha256": "1ec5ac09ccf6a9501e72e51ed4dfa4fe2478d36eee709152496632ba165ff7c7",
+          "size": 10518
+        },
+        {
+          "path": "mods/border_war_commander_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
+          "sha256": "62bd2bec9519a4ad4ddefbae588f358cdd1af17057dfd93ee9a0d264a46846b1",
+          "size": 97
+        }
+      ]
+    },
+    {
+      "id": "faction_front_hoi4",
+      "name": "평시 세력 단일 전선",
+      "name_en": "Single Faction Front in Peacetime",
+      "version": "1.1 (2026-10-09)",
+      "updated": "2026-10-09",
+      "files": [
+        {
+          "path": "mods/faction_front_hoi4/mod.json",
+          "sha256": "8aa27994d63b11b246b390e8bd4b38640fe50e492d314c0a5086490d894fe2db",
+          "size": 3409
+        },
+        {
+          "path": "mods/faction_front_hoi4/files/version.dll",
+          "sha256": "4c58e03efb9f15b3afe56adcc210bb2f4dc85311382560cd88f0c7bb6126910d",
+          "size": 398848
+        }
+      ]
+    },
+    {
+      "id": "party_popularity_tooltip_hoi4",
+      "name": "정당 지지도 툴팁 출처 표시",
+      "name_en": "Party Popularity Tooltip Sources",
+      "version": "1.0 (2026-10-09)",
+      "updated": "2026-10-09",
+      "files": [
+        {
+          "path": "mods/party_popularity_tooltip_hoi4/mod.json",
+          "sha256": "8622160f0b84e39f4a1df3ee50bcc39c259c05b3bd13f61e5497581fa2e3d20d",
+          "size": 2377
+        },
+        {
+          "path": "mods/party_popularity_tooltip_hoi4/files/version.dll",
+          "sha256": "ae53fa33c50e7fe9d82b8da8709de09252dedcac6926720da1ad21e323ee1ca0",
+          "size": 393216
+        }
+      ]
+    },
+    {
+      "id": "railway_step_hoi4",
+      "name": "철도 레벨 단계별 건설",
+      "name_en": "Level-by-Level Railway Construction",
+      "version": "1.0 (2026-10-09)",
+      "updated": "2026-10-09",
+      "files": [
+        {
+          "path": "mods/railway_step_hoi4/mod.json",
+          "sha256": "f3381e196eb102c55971aee05bc6b2ec5905e384750db7008870773c7dc7d20b",
+          "size": 2632
+        },
+        {
+          "path": "mods/railway_step_hoi4/files/version.dll",
+          "sha256": "5cba1667d626316594084ffe0b332ef37ce143b57e7204c95586e6425bf8e3d7",
+          "size": 390656
+        }
+      ]
+    },
+    {
+      "id": "core_resistance_clear_hoi4",
+      "name": "핵심주 저항·순응 즉시 정리",
+      "name_en": "Core State Resistance Clear",
+      "version": "1.0 (2026-10-09)",
+      "updated": "2026-10-09",
+      "files": [
+        {
+          "path": "mods/core_resistance_clear_hoi4/mod.json",
+          "sha256": "681ff822bb8fd122604f099252ce4462b12d6297891f13eaabcd31e627a0be9c",
+          "size": 2558
+        },
+        {
+          "path": "mods/core_resistance_clear_hoi4/files/version.dll",
+          "sha256": "471a5562bc42b0a5ee5d162540a46f399cfb3651e54c2ece36e43fc01f82131c",
+          "size": 392704
         }
       ]
     }

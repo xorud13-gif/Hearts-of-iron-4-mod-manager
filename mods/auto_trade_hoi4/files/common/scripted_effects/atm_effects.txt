@@ -46,7 +46,7 @@ atm_set_defaults = {
 	set_variable = { atm_budget_val = 20 }
 	set_variable = { atm_block_days = 3 }
 	set_variable = { atm_min_eff = 50 }
-	set_variable = { atm_cooldown = 5 }
+	set_variable = { atm_cooldown = 1 }
 	set_variable = { atm_rebalance = 1 }
 	set_variable = { atm_w_faction = 0 }
 	set_variable = { atm_w_subject = 0 }
@@ -114,7 +114,7 @@ atm_fill_missing = {
 	if = { limit = { NOT = { has_variable = atm_budget_val } } set_variable = { atm_budget_val = 20 } }
 	if = { limit = { NOT = { has_variable = atm_block_days } } set_variable = { atm_block_days = 3 } }
 	if = { limit = { NOT = { has_variable = atm_min_eff } } set_variable = { atm_min_eff = 50 } }
-	if = { limit = { NOT = { has_variable = atm_cooldown } } set_variable = { atm_cooldown = 5 } }
+	if = { limit = { NOT = { has_variable = atm_cooldown } } set_variable = { atm_cooldown = 1 } }
 	if = { limit = { NOT = { has_variable = atm_rebalance } } set_variable = { atm_rebalance = 1 } }
 	if = { limit = { NOT = { has_variable = atm_w_faction } } set_variable = { atm_w_faction = 0 } }
 	if = { limit = { NOT = { has_variable = atm_w_subject } } set_variable = { atm_w_subject = 0 } }
@@ -137,7 +137,7 @@ atm_fill_missing = {
 	if = { limit = { NOT = { has_variable = atm_wc_middle_east } } set_variable = { atm_wc_middle_east = 0 } }
 	if = { limit = { NOT = { has_variable = atm_tab } } set_variable = { atm_tab = 1 } }
 	if = { limit = { NOT = { has_variable = atm_filter } } set_variable = { atm_filter = 0 } }
-	set_variable = { atm_version = 3 }
+	set_variable = { atm_version = 4 }
 }
 
 # Version 1 -> 2: every priority is a rank 1..9 now (stored as points = 10 - rank, 0 unset, -99 banned).
@@ -248,6 +248,11 @@ atm_migrate_v3 = {
 	set_country_flag = atm_dirty   # the stored scores were summed the old way: recompute
 }
 
+# Version 3 -> 4: the cut / move interval is 1 day by default now (it was 5, with the DLL enforcing at least 3).
+atm_migrate_v4 = {
+	if = { limit = { check_variable = { atm_cooldown = 5 } } set_variable = { atm_cooldown = 1 } }
+}
+
 # First use on this country; afterwards only what a newer version added is filled in.
 atm_init = {
 	if = {
@@ -255,13 +260,14 @@ atm_init = {
 		atm_set_defaults = yes
 		set_variable = { atm_tab = 1 }
 		set_variable = { atm_filter = 0 }
-		set_variable = { atm_version = 3 }
+		set_variable = { atm_version = 4 }
 		set_country_flag = atm_initialized
 	}
 	else_if = {
-		limit = { NOT = { check_variable = { atm_version = 3 } } }
+		limit = { NOT = { check_variable = { atm_version = 4 } } }
 		if = { limit = { check_variable = { atm_version < 2 } } atm_migrate_v2 = yes }
 		if = { limit = { check_variable = { atm_version < 3 } } atm_migrate_v3 = yes }
+		if = { limit = { check_variable = { atm_version < 4 } } atm_migrate_v4 = yes }
 		atm_fill_missing = yes
 	}
 }

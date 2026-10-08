@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "faction_front_hoi4",
+  "name": "평시 세력 단일 전선",
+  "version": "1.1 (2026-10-09)",
+  "updated": "2026-10-09",
+  "author": "",
+  "description": "평시에 같은 세력(진영)의 나라들 국경을 하나의 전선으로 묶습니다. 바닐라에서는 전쟁 중인 적국들의 영토만 하나의 '적 영역'(= 전선 하나)으로 묶이고, 평시에는 종주국과 속국만 묶이므로 같은 세력의 이웃 나라마다 전선이 따로 생겨 전선 긋기 도구로 나라 수만큼 선을 그어야 했습니다. 이 모드는 내가 속하지 않았고 나와 전쟁 중이 아닌 하나의 세력에 속한 나라들의 영토를 평시에도 하나의 적 영역으로 묶어, 그 세력 국경을 한 번에 따라 사단을 배치할 수 있게 합니다(세력 구성원끼리 영토가 맞닿아야 하나로 묶이고, 세력에 가입·탈퇴하면 엔진이 영역을 다시 계산하므로 전선이 따라 바뀝니다).\nv1.1: 한 세력(또는 종주국·속국 묶음)의 일부 나라와만 전쟁을 시작해도, 전쟁 전에 하나였던 전선이 쪼개져 전쟁 중이 아닌 나라 쪽 구간이 사라지지 않도록, 전쟁 중이 아닌 같은 세력·종속 관계 나라를 전쟁 중인 나라와 같은 적 영역에 계속 둡니다(예: 소련의 속국 몽골과만 전쟁해도 몽골-소련 국경 전체가 한 전선).\n게임 폴더의 faction_front.txt 에서 enabled·join_war_members·log_level 로 조절하고, 동작은 faction_front.log 의 [LINK]·[CANDIDATE]·[WARJOIN] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "faction_front.txt"
+  ],
+  "cleanup": [
+    "faction_front.log*",
+    "faction_front.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Single Faction Front in Peacetime",
+  "description_en": "Merges the borders of the countries of one faction into a single front, also in peacetime. In vanilla only the territory of enemies you are at war with forms one 'enemy area' (= one front), and in peacetime only an overlord and its subjects are merged, so every neighbouring country of the same faction gets its own front and you have to draw one line per country with the front line tool. This mod treats the territory of the countries of one faction you do not belong to and are not at war with as one enemy area in peacetime too, so you can deploy divisions along that faction's whole border at once (members' territories must touch to merge; when a country joins or leaves the faction the game recalculates the areas and the fronts follow).\nv1.1: when you start a war with only some countries of a faction (or of an overlord-subject group), the front that was one before the war no longer splits and loses the part facing the countries not at war: those countries of the same faction or subject group stay in the same enemy area as the ones at war (e.g. at war only with Mongolia, a Soviet subject, the whole Mongolia-Soviet border is one front).\nTune it with enabled, join_war_members and log_level in faction_front.txt in the game folder and check it in faction_front.log ([LINK], [CANDIDATE] and [WARJOIN] lines). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}

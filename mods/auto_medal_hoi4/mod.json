@@ -3,20 +3,22 @@
   "id": "auto_medal_hoi4",
   "name": "자동 훈장 부여",
   "version": "0.2 (2026-10-06)",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "author": "",
-  "description": "사단 지휘관에게 정치력으로 훈장(야전 표창)을 자동으로 부여합니다. 결정 탭 '자동 훈장 부여'의 설정 창에서 정치력 하한선(부여 후 잔여 기준), 사단 편제 이름별 우선순위·금지, 장군(군단 지휘관)·원수(집단군 지휘관) 개인별 우선순위·금지, 훈장 우선순위(사용 가능한 훈장이 바뀌면 자동 갱신), 부대 순서(보유·부여 가능 훈장이 적은/많은 부대부터)를 정합니다(설정은 세이브에 저장).\n스크립트(설정 창) + DLL(부여 엔진). 싱글플레이 전용, hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 엔진이 설치되지 않고 설정 창에 경고가 뜹니다. 자동 무역 모드와 같이 켤 수 있습니다.",
+  "description": "사단 지휘관에게 정치력으로 훈장(야전 표창)을 자동으로 부여합니다. 결정 탭 '모드 설정 제어용'의 '자동 훈장 설정 창 열기/닫기' 버튼으로 여는 설정 창에서 정치력 하한선(부여 후 잔여 기준), 사단 편제 이름별 우선순위·금지, 장군(군단 지휘관)·원수(집단군 지휘관) 개인별 우선순위·금지, 훈장 우선순위(사용 가능한 훈장이 바뀌면 자동 갱신), 부대 순서(보유·부여 가능 훈장이 적은/많은 부대부터)를 정합니다(설정은 세이브에 저장).\n스크립트(설정 창) + DLL(부여 엔진). 싱글플레이 전용, hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 엔진이 설치되지 않고 설정 창에 경고가 뜹니다. 자동 무역 모드와 같이 켤 수 있습니다.",
   "native_dll": "version.dll",
   "files": [
     "common/decisions/amd_decisions.txt",
-    "common/decisions/categories/amd_categories.txt",
+    "common/decisions/categories/mod_settings_categories.txt",
     "common/on_actions/amd_on_actions.txt",
     "common/scripted_effects/amd_effects.txt",
     "common/scripted_guis/amd_scripted_guis.txt",
     "common/scripted_localisation/amd_scripted_loc.txt",
     "interface/amd_window.gui",
     "localisation/english/amd_l_english.yml",
-    "localisation/korean/amd_l_korean.yml"
+    "localisation/english/mod_settings_l_english.yml",
+    "localisation/korean/amd_l_korean.yml",
+    "localisation/korean/mod_settings_l_korean.yml"
   ],
   "config_files": [
     "auto_medal.txt"
@@ -32,7 +34,9 @@
     "common/scripted_guis/amd_*.txt",
     "common/scripted_localisation/amd_*.txt",
     "interface/amd_*.gui",
-    "localisation/*/amd_l_*.yml"
+    "localisation/*/amd_l_*.yml",
+    "common/decisions/categories/mod_settings_*.txt",
+    "localisation/*/mod_settings_l_*.yml"
   ],
   "conflicts": [],
   "name_en": "Auto Medal Award",

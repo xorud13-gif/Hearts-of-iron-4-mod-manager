@@ -1,0 +1,42 @@
+###########################################################################
+# Border conflict specialist commander (border_war_commander_hoi4) - decisions
+# The root key is the shared mod settings tab (categories/mod_settings_categories.txt).
+###########################################################################
+mod_settings_category = {
+
+	bwc_open_settings = {
+		icon = generic_military
+		cost = 0
+		fire_only_once = no
+		days_re_enable = 0
+
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+		}
+
+		available = {
+			always = yes
+		}
+
+		complete_effect = {
+			# hidden: the list builder would otherwise put dozens of variable changes into the tooltip
+			hidden_effect = {
+				if = {
+					limit = { has_country_flag = bwc_gui_open }
+					bwc_close_window = yes
+				}
+				else = {
+					bwc_open_window = yes
+				}
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

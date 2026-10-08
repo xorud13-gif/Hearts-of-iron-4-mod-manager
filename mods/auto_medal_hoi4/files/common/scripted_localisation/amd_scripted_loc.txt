@@ -7122,9 +7122,3 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_ml_24 = 103 } } localization_key = AMD_MEDFX_103 }
 	text = { localization_key = AMD_MEDFX_UNKNOWN }
 }
-
-defined_text = {
-	name = amd_txt_dry_short
-	text = { trigger = { check_variable = { amd_dry = 1 } } localization_key = AMD_DRY_SHORT_1 }
-	text = { localization_key = AMD_DRY_SHORT_0 }
-}

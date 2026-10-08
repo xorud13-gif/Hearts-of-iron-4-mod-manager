@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "core_resistance_clear_hoi4",
+  "name": "핵심주 저항·순응 즉시 정리",
+  "version": "1.0 (2026-10-09)",
+  "updated": "2026-10-09",
+  "author": "",
+  "description": "점령한 주를 핵심주로 만들면 그 주의 저항도·순응도를 다음 날 바로 없애, F6(저항)·F7(순응) 맵 모드에서 핵심주가 곧장 빠지게 합니다. 바닐라에서는 핵심주가 되면 저항은 멈추지만(주 창에는 안 보임) 저항 기록이 저항 값이 서서히 0 으로 줄 때까지 며칠 남고, 맵 모드는 그 기록을 보고 칠해서 핵심주가 어디까지인지 한눈에 안 보입니다. 이 모드는 엔진의 일일 점령 갱신에서 저항이 멈췄고 통제국의 핵심주인 주의 기록을 엔진 함수(cancel_resistance 효과가 부르는 것과 같은 함수)로 정리합니다. 통제국의 핵심이 아닌 점령주는 바닐라 그대로입니다(AI 나라에도 적용).\n게임 폴더의 core_resistance_clear.txt 에서 enabled·log_level 로 조절하고, 동작은 core_resistance_clear.log 의 [CLEAR] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "core_resistance_clear.txt"
+  ],
+  "cleanup": [
+    "core_resistance_clear.log*",
+    "core_resistance_clear.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Core State Resistance Clear",
+  "description_en": "When you make an occupied state a core state, its resistance and compliance are removed the very next day, so the state leaves the resistance (F6) and compliance (F7) map modes at once. In vanilla resistance stops when the state becomes a core (the state window no longer shows it), but the resistance record stays until the resistance value has slowly decayed to 0, and the map modes paint from that record, so you cannot see at a glance how far your core states reach. In the game's daily occupation update this mod clears the record of a state whose resistance has stopped and which is a core of its controller, with the game's own function (the one the cancel_resistance effect calls). Occupied states that are not cores of their controller stay vanilla (also applies to AI countries).\nTune it with enabled and log_level in core_resistance_clear.txt in the game folder and check it in core_resistance_clear.log ([CLEAR] lines). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}

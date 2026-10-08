@@ -1942,17 +1942,4 @@ scripted_gui = {
 		}
 	}
 
-	atm_decision_gui = {
-		context_type = decision_category
-		window_name = "atm_decision_panel"
-		ai_enabled = { always = no }
-		effects = {
-			atm_panel_open_click = {
-				hidden_effect = {
-					if = { limit = { has_country_flag = atm_gui_open } atm_close_window = yes }
-					else = { atm_open_window = yes }
-				}
-			}
-		}
-	}
 }
