@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "revision": "2086389b56aad105",
-  "generated": "2026-10-09T04:47:32Z",
+  "revision": "bd33752dd86ac1b7",
+  "generated": "2026-10-09T04:54:21Z",
   "app": {
     "path": "HOI4ModManager.exe",
-    "sha256": "25c470c13ef75ffade9688c224a1ba18fbabf15130da5d181a7b99a9ce4260d4",
+    "sha256": "a2346a1afdf74f007b662c456a4dde4e444ff187fcb9e23fe2aefd7b24e66016",
     "size": 210944,
     "version": "1.0.0"
   },
