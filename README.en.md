@@ -1,4 +1,4 @@
-# HOI4 Mod Manager (shared edition)
+# HOI4 Mod Manager
 
 [한국어](README.md) | **English**
 
