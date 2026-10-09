@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "f6aeb0774d206769",
-  "generated": "2026-10-08T21:17:09Z",
+  "revision": "2086389b56aad105",
+  "generated": "2026-10-09T04:47:32Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "25c470c13ef75ffade9688c224a1ba18fbabf15130da5d181a7b99a9ce4260d4",
@@ -369,8 +369,8 @@
       "files": [
         {
           "path": "mods/border_war_commander_hoi4/mod.json",
-          "sha256": "ec55a01c18a6755c36af1a78449fcd29c0b08c8c52fa8cac12947a0cf45fb019",
-          "size": 3299
+          "sha256": "8380f5fa18645eedead3a11c28462004b062a9234d8cc3ddb0b89095c0e0597b",
+          "size": 3312
         },
         {
           "path": "mods/border_war_commander_hoi4/files/version.dll",
@@ -476,8 +476,8 @@
       "files": [
         {
           "path": "mods/railway_step_hoi4/mod.json",
-          "sha256": "f3381e196eb102c55971aee05bc6b2ec5905e384750db7008870773c7dc7d20b",
-          "size": 2632
+          "sha256": "9e6fabc3ab91623055e53dbab314e3e72d248348b88f9e7e62779dad1981b592",
+          "size": 2801
         },
         {
           "path": "mods/railway_step_hoi4/files/version.dll",
