@@ -1,4 +1,4 @@
-# HOI4 모드 관리자 (공유용)
+# HOI4 모드 관리자
 
 **한국어** | [English](README.en.md)
 
