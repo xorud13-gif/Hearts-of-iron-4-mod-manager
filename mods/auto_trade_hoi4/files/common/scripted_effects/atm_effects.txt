@@ -137,7 +137,7 @@ atm_fill_missing = {
 	if = { limit = { NOT = { has_variable = atm_wc_middle_east } } set_variable = { atm_wc_middle_east = 0 } }
 	if = { limit = { NOT = { has_variable = atm_tab } } set_variable = { atm_tab = 1 } }
 	if = { limit = { NOT = { has_variable = atm_filter } } set_variable = { atm_filter = 0 } }
-	set_variable = { atm_version = 4 }
+	set_variable = { atm_version = 5 }
 }
 
 # Version 1 -> 2: every priority is a rank 1..9 now (stored as points = 10 - rank, 0 unset, -99 banned).
@@ -253,6 +253,39 @@ atm_migrate_v4 = {
 	if = { limit = { check_variable = { atm_cooldown = 5 } } set_variable = { atm_cooldown = 1 } }
 }
 
+# Version 4 -> 5: no separate "unset" step any more; the 5th rank (5 points) is stored as 0 like the default,
+# so a country set to the 5th rank is no longer an assignment (lifts no ban, not listed as assigned).
+atm_migrate_v5 = {
+	if = { limit = { check_variable = { atm_w_faction = 5 } } set_variable = { atm_w_faction = 0 } }
+	if = { limit = { check_variable = { atm_w_subject = 5 } } set_variable = { atm_w_subject = 0 } }
+	if = { limit = { check_variable = { atm_w_overlord = 5 } } set_variable = { atm_w_overlord = 0 } }
+	if = { limit = { check_variable = { atm_w_guarantee = 5 } } set_variable = { atm_w_guarantee = 0 } }
+	if = { limit = { check_variable = { atm_w_ideology = 5 } } set_variable = { atm_w_ideology = 0 } }
+	if = { limit = { check_variable = { atm_w_neighbor = 5 } } set_variable = { atm_w_neighbor = 0 } }
+	if = { limit = { check_variable = { atm_w_samecont = 5 } } set_variable = { atm_w_samecont = 0 } }
+	if = { limit = { check_variable = { atm_w_major = 5 } } set_variable = { atm_w_major = 0 } }
+	if = { limit = { check_variable = { atm_w_atwar = 5 } } set_variable = { atm_w_atwar = 0 } }
+	if = { limit = { check_variable = { atm_w_enemyally = 5 } } set_variable = { atm_w_enemyally = 0 } }
+	if = { limit = { check_variable = { atm_w_sea = 5 } } set_variable = { atm_w_sea = 0 } }
+	if = { limit = { check_variable = { atm_w_land = 5 } } set_variable = { atm_w_land = 0 } }
+	if = { limit = { check_variable = { atm_wc_europe = 5 } } set_variable = { atm_wc_europe = 0 } }
+	if = { limit = { check_variable = { atm_wc_north_america = 5 } } set_variable = { atm_wc_north_america = 0 } }
+	if = { limit = { check_variable = { atm_wc_south_america = 5 } } set_variable = { atm_wc_south_america = 0 } }
+	if = { limit = { check_variable = { atm_wc_africa = 5 } } set_variable = { atm_wc_africa = 0 } }
+	if = { limit = { check_variable = { atm_wc_asia = 5 } } set_variable = { atm_wc_asia = 0 } }
+	if = { limit = { check_variable = { atm_wc_australia = 5 } } set_variable = { atm_wc_australia = 0 } }
+	if = { limit = { check_variable = { atm_wc_middle_east = 5 } } set_variable = { atm_wc_middle_east = 0 } }
+	every_country = {
+		limit = { check_variable = { atm_pin = 5 } }
+		set_variable = { atm_pin = 0 }
+	}
+	every_country = {
+		limit = { check_variable = { atm_fpin = 5 } }
+		set_variable = { atm_fpin = 0 }
+	}
+	set_country_flag = atm_dirty
+}
+
 # First use on this country; afterwards only what a newer version added is filled in.
 atm_init = {
 	if = {
@@ -260,14 +293,15 @@ atm_init = {
 		atm_set_defaults = yes
 		set_variable = { atm_tab = 1 }
 		set_variable = { atm_filter = 0 }
-		set_variable = { atm_version = 4 }
+		set_variable = { atm_version = 5 }
 		set_country_flag = atm_initialized
 	}
 	else_if = {
-		limit = { NOT = { check_variable = { atm_version = 4 } } }
+		limit = { NOT = { check_variable = { atm_version = 5 } } }
 		if = { limit = { check_variable = { atm_version < 2 } } atm_migrate_v2 = yes }
 		if = { limit = { check_variable = { atm_version < 3 } } atm_migrate_v3 = yes }
 		if = { limit = { check_variable = { atm_version < 4 } } atm_migrate_v4 = yes }
+		if = { limit = { check_variable = { atm_version < 5 } } atm_migrate_v5 = yes }
 		atm_fill_missing = yes
 	}
 }

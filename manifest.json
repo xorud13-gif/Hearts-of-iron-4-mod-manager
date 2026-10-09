@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "bd33752dd86ac1b7",
-  "generated": "2026-10-09T04:54:21Z",
+  "revision": "15b9a685e8c95ed5",
+  "generated": "2026-10-09T05:33:04Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "a2346a1afdf74f007b662c456a4dde4e444ff187fcb9e23fe2aefd7b24e66016",
@@ -163,17 +163,17 @@
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
       "name_en": "Auto Trade",
-      "version": "0.4a",
+      "version": "0.5",
       "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "cd60a5cc41e56525762804876f16944cfd9b0bc1dd8d602504527d48fab4dd90",
-          "size": 2820
+          "sha256": "b42d659db4faa85c28d837ac94a02ba8196eb0b77d85771aef83ff58bf14fc49",
+          "size": 2819
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "bf71f0cb5a3b337e858801ef5ec348d4f2be9d67058f002d6d6650dee0c0b99a",
+          "sha256": "f5e183db450ce014cd0897037808ee1b57c8bcd94f2683efa4af405726c0aeba",
           "size": 475136
         },
         {
@@ -193,18 +193,18 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_effects/atm_effects.txt",
-          "sha256": "f02297722833bcd3cd6e8d33fd56a8889c0c4038cccb1dc8a0522a2d3d4d239b",
-          "size": 34296
+          "sha256": "2d624a9a9c12f379df8177f535465da334eedd1d21bf822c872b6339147e454e",
+          "size": 36743
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_guis/atm_scripted_guis.txt",
-          "sha256": "f744aaa3d91d667bf0ce9c18568ff88eae8f77eb1c8a1cb86f6b51417b4b5c4f",
-          "size": 105207
+          "sha256": "540b4a898ee54ff080235175b3347a3612b8960f3de5f383541b4da187e67047",
+          "size": 100689
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_localisation/atm_scripted_loc.txt",
-          "sha256": "861064068b268dd3eb65d66661e084f406051a2a1ae02ff8bb5b9390660d94d1",
-          "size": 42866
+          "sha256": "c29d874b9f4c22316406989f3e1fc2c984eaa6757de1b2f1ec80a398af0e1b13",
+          "size": 40729
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_triggers/atm_triggers.txt",
@@ -218,8 +218,8 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/english/atm_l_english.yml",
-          "sha256": "109fd582fb3cdba46a0f03dc11241c86a40bdbac2e9a30cb04b917a60cc660f8",
-          "size": 33178
+          "sha256": "c4f2e2853dbea2d290f0133f744831a34d9803571f0410118711897af77da298",
+          "size": 32617
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/english/mod_settings_l_english.yml",
@@ -228,8 +228,8 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/korean/atm_l_korean.yml",
-          "sha256": "33d298898456ba309f5572a0a05c916aa057cb4e8e1742a9bfe08464eefd1a7f",
-          "size": 35301
+          "sha256": "e8c6dd30747e57c953520562e53dc525b3e3f22509ba4d6f6f048a28528f30ac",
+          "size": 34639
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
@@ -242,17 +242,17 @@
       "id": "auto_medal_hoi4",
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
-      "version": "0.2 (2026-10-06)",
+      "version": "0.3 (2026-10-09)",
       "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "c86864deed67c0fb305b2e0db92fa5630d34978161aa2bee68e7db32dcfc4132",
+          "sha256": "9a23b090822426190cc516b43b246092a7294a33126e29ee025006b9961d0d49",
           "size": 3039
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
-          "sha256": "66746a4f870e68d52c9d4349b4be300335d3d86412f72716f3d104a288caf5e1",
+          "sha256": "ba14ef1ed588a1185a0ead31b31642189993f1187e2b0294ba782cb8f8c484b3",
           "size": 457216
         },
         {
@@ -272,18 +272,18 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_effects/amd_effects.txt",
-          "sha256": "61fb4107a53ed407e7933cd643fb154c9f40073c7141924190c318b94a4c2e5d",
-          "size": 52196
+          "sha256": "6fa18cc3bac3ccf18ef86328060552818a7dfaa6fc1a98faa4eca8d28bb0cb86",
+          "size": 52206
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_guis/amd_scripted_guis.txt",
-          "sha256": "183178775b2183f89ff0d1c2e7da6cdf70235a62adfea354240052995bb3b907",
+          "sha256": "e8804beca001dfd7ebe087bc42cfa410d602079db57e56559fe927244ecdf5f0",
           "size": 333872
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_localisation/amd_scripted_loc.txt",
-          "sha256": "e528fea1df392d17706d3a62ddefa1b94f859893d587c01b2858a003a456592b",
-          "size": 622305
+          "sha256": "809323ed05ebc94cd762be93394810cd3e961d9012c131c5e3bb32fa9a9a5549",
+          "size": 610156
         },
         {
           "path": "mods/auto_medal_hoi4/files/interface/amd_window.gui",
@@ -292,8 +292,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/amd_l_english.yml",
-          "sha256": "35d079153cce35502d2e6258d27b6b35b59c7505d2ae08833b373e5811635808",
-          "size": 33944
+          "sha256": "d2c7f7f867aaaf269d6855ec26fee70f8ac6b3047594214d4211169c8b26b518",
+          "size": 33913
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/mod_settings_l_english.yml",
@@ -302,8 +302,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
-          "sha256": "7828a59b7f7e4324147389632e60f7ad60756ec266fd9fa23b68baebb029d332",
-          "size": 34620
+          "sha256": "71db077db6952ea30b49be6ea3ed54e5817b387449fbfb63efbb1ca015ecf24d",
+          "size": 34562
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/mod_settings_l_korean.yml",

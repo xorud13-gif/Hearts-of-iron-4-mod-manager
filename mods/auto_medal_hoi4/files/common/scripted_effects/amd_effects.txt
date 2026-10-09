@@ -186,7 +186,7 @@ amd_settings_changed = {
 
 # Row list of the generals tab: row i = the i-th army leader (is_field_marshal = no); the character is saved as the
 # global event target amd_gen_<i> so the window can print its name and set `amd_rank` on it (its rank points:
-# 0 unset, 1..9 = 10 - rank, -99 banned; read by the engine). amd_<key>_pts_<i> mirrors it for the window.
+# 0 = 5th rank, 1..9 = 10 - rank, -99 banned; read by the engine). amd_<key>_pts_<i> mirrors it for the window.
 amd_build_gen_list = {
 	set_variable = { amd_gen_on_1 = 0 }
 	set_variable = { amd_gen_on_2 = 0 }
@@ -1039,7 +1039,7 @@ amd_build_gen_list = {
 
 # Row list of the field marshals tab: row i = the i-th army leader (is_field_marshal = yes); the character is saved as the
 # global event target amd_fm_<i> so the window can print its name and set `amd_rank` on it (its rank points:
-# 0 unset, 1..9 = 10 - rank, -99 banned; read by the engine). amd_<key>_pts_<i> mirrors it for the window.
+# 0 = 5th rank, 1..9 = 10 - rank, -99 banned; read by the engine). amd_<key>_pts_<i> mirrors it for the window.
 amd_build_fm_list = {
 	set_variable = { amd_fm_on_1 = 0 }
 	set_variable = { amd_fm_on_2 = 0 }

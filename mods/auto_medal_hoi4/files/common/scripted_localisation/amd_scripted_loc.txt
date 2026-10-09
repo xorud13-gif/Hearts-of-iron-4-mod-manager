@@ -24,12 +24,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_1 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_1 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_1 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_1 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_1 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_1 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_1 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_1 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_1 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_1 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_1 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_1 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -39,12 +38,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_2 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_2 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_2 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_2 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_2 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_2 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_2 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_2 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_2 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_2 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_2 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_2 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -54,12 +52,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_3 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_3 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_3 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_3 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_3 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_3 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_3 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_3 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_3 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_3 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_3 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_3 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -69,12 +66,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_4 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_4 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_4 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_4 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_4 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_4 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_4 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_4 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_4 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_4 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_4 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_4 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -84,12 +80,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_5 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_5 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_5 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_5 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_5 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_5 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_5 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_5 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_5 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_5 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_5 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_5 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -99,12 +94,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_6 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_6 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_6 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_6 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_6 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_6 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_6 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_6 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_6 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_6 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_6 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_6 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -114,12 +108,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_7 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_7 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_7 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_7 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_7 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_7 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_7 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_7 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_7 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_7 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_7 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_7 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -129,12 +122,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_8 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_8 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_8 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_8 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_8 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_8 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_8 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_8 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_8 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_8 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_8 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_8 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -144,12 +136,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_9 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_9 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_9 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_9 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_9 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_9 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_9 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_9 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_9 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_9 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_9 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_9 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -159,12 +150,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_10 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_10 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_10 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_10 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_10 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_10 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_10 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_10 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_10 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_10 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_10 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_10 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -174,12 +164,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_11 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_11 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_11 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_11 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_11 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_11 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_11 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_11 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_11 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_11 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_11 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_11 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -189,12 +178,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_12 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_12 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_12 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_12 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_12 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_12 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_12 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_12 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_12 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_12 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_12 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_12 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -204,12 +192,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_13 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_13 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_13 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_13 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_13 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_13 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_13 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_13 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_13 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_13 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_13 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_13 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -219,12 +206,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_14 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_14 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_14 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_14 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_14 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_14 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_14 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_14 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_14 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_14 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_14 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_14 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -234,12 +220,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_15 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_15 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_15 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_15 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_15 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_15 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_15 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_15 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_15 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_15 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_15 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_15 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -249,12 +234,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_16 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_16 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_16 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_16 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_16 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_16 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_16 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_16 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_16 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_16 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_16 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_16 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -264,12 +248,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_17 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_17 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_17 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_17 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_17 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_17 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_17 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_17 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_17 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_17 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_17 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_17 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -279,12 +262,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_18 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_18 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_18 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_18 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_18 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_18 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_18 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_18 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_18 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_18 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_18 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_18 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -294,12 +276,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_19 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_19 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_19 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_19 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_19 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_19 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_19 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_19 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_19 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_19 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_19 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_19 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -309,12 +290,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_20 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_20 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_20 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_20 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_20 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_20 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_20 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_20 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_20 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_20 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_20 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_20 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -324,12 +304,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_21 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_21 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_21 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_21 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_21 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_21 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_21 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_21 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_21 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_21 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_21 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_21 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -339,12 +318,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_22 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_22 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_22 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_22 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_22 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_22 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_22 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_22 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_22 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_22 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_22 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_22 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -354,12 +332,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_23 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_23 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_23 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_23 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_23 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_23 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_23 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_23 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_23 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_23 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_23 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_23 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -369,12 +346,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_24 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_24 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_24 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_24 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_24 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_24 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_24 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_24 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_24 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_24 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_24 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_24 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -384,12 +360,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_25 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_25 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_25 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_25 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_25 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_25 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_25 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_25 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_25 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_25 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_25 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_25 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -399,12 +374,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_26 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_26 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_26 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_26 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_26 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_26 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_26 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_26 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_26 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_26 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_26 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_26 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -414,12 +388,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_27 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_27 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_27 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_27 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_27 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_27 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_27 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_27 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_27 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_27 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_27 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_27 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -429,12 +402,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_28 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_28 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_28 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_28 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_28 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_28 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_28 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_28 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_28 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_28 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_28 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_28 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -444,12 +416,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_29 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_29 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_29 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_29 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_29 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_29 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_29 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_29 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_29 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_29 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_29 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_29 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -459,12 +430,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_30 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_30 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_30 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_30 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_30 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_30 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_30 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_30 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_30 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_30 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_30 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_30 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -474,12 +444,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_31 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_31 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_31 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_31 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_31 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_31 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_31 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_31 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_31 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_31 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_31 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_31 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -489,12 +458,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_32 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_32 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_32 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_32 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_32 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_32 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_32 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_32 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_32 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_32 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_32 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_32 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -504,12 +472,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_33 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_33 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_33 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_33 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_33 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_33 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_33 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_33 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_33 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_33 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_33 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_33 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -519,12 +486,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_34 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_34 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_34 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_34 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_34 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_34 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_34 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_34 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_34 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_34 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_34 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_34 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -534,12 +500,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_35 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_35 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_35 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_35 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_35 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_35 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_35 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_35 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_35 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_35 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_35 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_35 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -549,12 +514,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_36 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_36 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_36 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_36 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_36 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_36 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_36 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_36 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_36 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_36 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_36 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_36 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -564,12 +528,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_37 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_37 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_37 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_37 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_37 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_37 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_37 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_37 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_37 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_37 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_37 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_37 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -579,12 +542,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_38 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_38 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_38 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_38 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_38 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_38 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_38 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_38 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_38 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_38 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_38 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_38 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -594,12 +556,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_39 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_39 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_39 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_39 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_39 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_39 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_39 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_39 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_39 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_39 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_39 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_39 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -609,12 +570,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_tp_40 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_tp_40 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_tp_40 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_tp_40 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_tp_40 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_tp_40 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_tp_40 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_tp_40 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_tp_40 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_tp_40 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_tp_40 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_tp_40 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -624,12 +584,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_1 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_1 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_1 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_1 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_1 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_1 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_1 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_1 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_1 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_1 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_1 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_1 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -639,12 +598,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_2 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_2 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_2 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_2 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_2 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_2 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_2 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_2 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_2 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_2 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_2 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_2 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -654,12 +612,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_3 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_3 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_3 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_3 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_3 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_3 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_3 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_3 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_3 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_3 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_3 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_3 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -669,12 +626,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_4 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_4 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_4 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_4 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_4 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_4 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_4 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_4 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_4 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_4 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_4 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_4 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -684,12 +640,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_5 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_5 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_5 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_5 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_5 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_5 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_5 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_5 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_5 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_5 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_5 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_5 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -699,12 +654,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_6 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_6 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_6 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_6 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_6 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_6 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_6 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_6 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_6 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_6 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_6 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_6 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -714,12 +668,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_7 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_7 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_7 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_7 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_7 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_7 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_7 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_7 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_7 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_7 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_7 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_7 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -729,12 +682,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_8 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_8 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_8 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_8 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_8 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_8 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_8 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_8 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_8 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_8 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_8 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_8 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -744,12 +696,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_9 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_9 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_9 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_9 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_9 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_9 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_9 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_9 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_9 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_9 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_9 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_9 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -759,12 +710,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_10 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_10 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_10 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_10 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_10 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_10 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_10 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_10 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_10 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_10 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_10 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_10 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -774,12 +724,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_11 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_11 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_11 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_11 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_11 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_11 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_11 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_11 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_11 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_11 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_11 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_11 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -789,12 +738,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_12 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_12 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_12 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_12 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_12 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_12 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_12 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_12 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_12 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_12 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_12 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_12 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -804,12 +752,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_13 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_13 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_13 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_13 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_13 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_13 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_13 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_13 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_13 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_13 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_13 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_13 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -819,12 +766,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_14 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_14 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_14 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_14 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_14 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_14 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_14 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_14 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_14 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_14 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_14 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_14 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -834,12 +780,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_15 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_15 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_15 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_15 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_15 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_15 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_15 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_15 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_15 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_15 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_15 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_15 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -849,12 +794,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_16 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_16 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_16 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_16 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_16 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_16 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_16 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_16 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_16 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_16 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_16 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_16 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -864,12 +808,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_17 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_17 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_17 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_17 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_17 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_17 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_17 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_17 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_17 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_17 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_17 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_17 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -879,12 +822,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_18 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_18 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_18 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_18 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_18 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_18 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_18 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_18 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_18 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_18 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_18 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_18 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -894,12 +836,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_19 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_19 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_19 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_19 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_19 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_19 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_19 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_19 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_19 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_19 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_19 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_19 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -909,12 +850,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_20 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_20 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_20 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_20 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_20 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_20 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_20 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_20 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_20 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_20 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_20 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_20 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -924,12 +864,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_21 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_21 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_21 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_21 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_21 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_21 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_21 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_21 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_21 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_21 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_21 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_21 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -939,12 +878,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_22 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_22 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_22 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_22 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_22 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_22 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_22 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_22 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_22 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_22 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_22 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_22 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -954,12 +892,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_23 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_23 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_23 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_23 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_23 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_23 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_23 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_23 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_23 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_23 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_23 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_23 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -969,12 +906,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_24 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_24 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_24 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_24 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_24 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_24 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_24 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_24 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_24 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_24 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_24 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_24 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -984,12 +920,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_25 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_25 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_25 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_25 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_25 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_25 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_25 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_25 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_25 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_25 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_25 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_25 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -999,12 +934,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_26 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_26 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_26 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_26 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_26 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_26 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_26 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_26 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_26 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_26 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_26 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_26 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1014,12 +948,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_27 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_27 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_27 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_27 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_27 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_27 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_27 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_27 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_27 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_27 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_27 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_27 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1029,12 +962,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_28 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_28 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_28 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_28 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_28 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_28 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_28 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_28 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_28 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_28 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_28 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_28 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1044,12 +976,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_29 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_29 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_29 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_29 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_29 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_29 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_29 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_29 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_29 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_29 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_29 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_29 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1059,12 +990,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_30 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_30 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_30 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_30 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_30 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_30 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_30 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_30 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_30 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_30 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_30 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_30 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1074,12 +1004,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_31 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_31 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_31 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_31 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_31 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_31 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_31 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_31 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_31 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_31 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_31 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_31 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1089,12 +1018,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_32 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_32 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_32 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_32 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_32 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_32 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_32 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_32 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_32 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_32 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_32 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_32 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1104,12 +1032,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_33 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_33 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_33 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_33 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_33 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_33 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_33 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_33 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_33 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_33 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_33 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_33 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1119,12 +1046,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_34 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_34 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_34 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_34 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_34 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_34 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_34 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_34 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_34 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_34 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_34 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_34 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1134,12 +1060,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_35 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_35 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_35 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_35 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_35 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_35 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_35 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_35 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_35 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_35 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_35 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_35 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1149,12 +1074,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_36 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_36 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_36 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_36 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_36 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_36 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_36 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_36 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_36 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_36 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_36 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_36 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1164,12 +1088,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_37 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_37 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_37 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_37 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_37 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_37 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_37 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_37 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_37 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_37 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_37 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_37 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1179,12 +1102,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_38 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_38 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_38 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_38 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_38 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_38 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_38 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_38 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_38 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_38 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_38 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_38 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1194,12 +1116,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_39 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_39 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_39 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_39 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_39 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_39 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_39 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_39 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_39 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_39 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_39 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_39 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1209,12 +1130,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_40 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_40 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_40 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_40 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_40 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_40 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_40 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_40 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_40 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_40 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_40 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_40 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1224,12 +1144,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_41 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_41 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_41 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_41 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_41 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_41 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_41 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_41 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_41 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_41 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_41 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_41 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1239,12 +1158,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_42 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_42 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_42 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_42 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_42 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_42 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_42 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_42 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_42 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_42 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_42 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_42 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1254,12 +1172,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_43 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_43 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_43 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_43 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_43 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_43 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_43 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_43 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_43 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_43 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_43 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_43 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1269,12 +1186,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_44 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_44 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_44 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_44 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_44 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_44 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_44 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_44 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_44 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_44 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_44 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_44 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1284,12 +1200,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_45 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_45 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_45 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_45 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_45 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_45 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_45 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_45 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_45 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_45 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_45 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_45 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1299,12 +1214,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_46 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_46 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_46 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_46 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_46 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_46 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_46 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_46 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_46 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_46 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_46 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_46 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1314,12 +1228,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_47 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_47 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_47 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_47 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_47 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_47 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_47 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_47 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_47 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_47 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_47 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_47 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1329,12 +1242,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_48 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_48 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_48 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_48 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_48 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_48 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_48 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_48 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_48 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_48 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_48 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_48 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1344,12 +1256,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_49 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_49 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_49 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_49 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_49 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_49 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_49 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_49 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_49 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_49 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_49 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_49 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1359,12 +1270,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_50 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_50 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_50 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_50 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_50 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_50 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_50 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_50 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_50 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_50 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_50 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_50 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1374,12 +1284,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_51 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_51 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_51 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_51 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_51 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_51 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_51 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_51 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_51 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_51 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_51 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_51 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1389,12 +1298,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_52 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_52 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_52 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_52 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_52 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_52 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_52 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_52 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_52 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_52 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_52 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_52 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1404,12 +1312,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_53 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_53 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_53 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_53 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_53 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_53 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_53 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_53 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_53 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_53 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_53 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_53 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1419,12 +1326,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_54 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_54 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_54 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_54 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_54 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_54 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_54 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_54 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_54 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_54 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_54 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_54 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1434,12 +1340,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_55 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_55 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_55 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_55 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_55 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_55 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_55 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_55 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_55 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_55 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_55 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_55 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1449,12 +1354,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_56 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_56 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_56 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_56 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_56 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_56 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_56 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_56 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_56 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_56 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_56 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_56 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1464,12 +1368,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_57 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_57 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_57 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_57 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_57 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_57 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_57 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_57 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_57 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_57 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_57 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_57 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1479,12 +1382,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_58 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_58 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_58 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_58 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_58 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_58 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_58 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_58 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_58 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_58 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_58 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_58 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1494,12 +1396,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_59 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_59 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_59 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_59 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_59 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_59 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_59 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_59 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_59 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_59 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_59 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_59 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1509,12 +1410,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_gen_pts_60 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_gen_pts_60 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_gen_pts_60 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_gen_pts_60 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_gen_pts_60 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_gen_pts_60 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_gen_pts_60 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_gen_pts_60 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_gen_pts_60 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_gen_pts_60 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_gen_pts_60 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_gen_pts_60 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1524,12 +1424,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_1 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_1 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_1 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_1 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_1 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_1 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_1 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_1 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_1 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_1 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_1 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_1 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1539,12 +1438,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_2 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_2 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_2 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_2 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_2 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_2 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_2 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_2 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_2 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_2 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_2 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_2 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1554,12 +1452,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_3 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_3 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_3 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_3 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_3 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_3 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_3 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_3 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_3 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_3 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_3 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_3 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1569,12 +1466,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_4 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_4 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_4 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_4 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_4 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_4 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_4 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_4 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_4 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_4 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_4 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_4 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1584,12 +1480,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_5 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_5 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_5 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_5 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_5 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_5 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_5 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_5 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_5 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_5 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_5 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_5 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1599,12 +1494,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_6 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_6 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_6 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_6 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_6 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_6 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_6 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_6 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_6 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_6 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_6 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_6 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1614,12 +1508,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_7 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_7 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_7 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_7 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_7 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_7 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_7 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_7 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_7 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_7 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_7 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_7 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1629,12 +1522,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_8 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_8 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_8 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_8 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_8 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_8 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_8 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_8 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_8 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_8 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_8 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_8 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1644,12 +1536,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_9 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_9 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_9 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_9 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_9 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_9 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_9 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_9 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_9 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_9 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_9 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_9 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1659,12 +1550,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_10 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_10 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_10 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_10 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_10 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_10 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_10 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_10 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_10 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_10 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_10 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_10 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1674,12 +1564,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_11 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_11 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_11 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_11 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_11 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_11 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_11 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_11 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_11 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_11 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_11 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_11 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1689,12 +1578,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_12 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_12 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_12 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_12 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_12 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_12 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_12 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_12 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_12 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_12 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_12 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_12 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1704,12 +1592,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_13 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_13 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_13 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_13 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_13 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_13 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_13 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_13 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_13 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_13 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_13 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_13 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1719,12 +1606,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_14 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_14 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_14 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_14 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_14 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_14 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_14 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_14 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_14 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_14 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_14 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_14 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1734,12 +1620,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_15 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_15 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_15 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_15 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_15 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_15 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_15 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_15 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_15 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_15 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_15 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_15 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1749,12 +1634,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_16 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_16 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_16 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_16 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_16 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_16 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_16 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_16 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_16 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_16 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_16 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_16 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1764,12 +1648,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_17 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_17 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_17 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_17 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_17 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_17 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_17 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_17 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_17 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_17 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_17 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_17 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1779,12 +1662,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_18 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_18 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_18 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_18 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_18 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_18 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_18 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_18 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_18 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_18 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_18 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_18 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1794,12 +1676,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_19 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_19 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_19 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_19 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_19 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_19 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_19 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_19 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_19 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_19 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_19 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_19 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1809,12 +1690,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_20 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_20 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_20 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_20 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_20 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_20 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_20 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_20 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_20 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_20 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_20 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_20 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1824,12 +1704,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_21 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_21 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_21 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_21 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_21 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_21 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_21 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_21 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_21 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_21 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_21 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_21 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1839,12 +1718,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_22 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_22 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_22 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_22 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_22 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_22 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_22 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_22 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_22 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_22 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_22 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_22 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1854,12 +1732,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_23 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_23 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_23 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_23 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_23 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_23 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_23 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_23 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_23 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_23 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_23 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_23 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
@@ -1869,12 +1746,11 @@ defined_text = {
 	text = { trigger = { check_variable = { amd_fm_pts_24 = 8 } } localization_key = AMD_RANKTXT_2 }
 	text = { trigger = { check_variable = { amd_fm_pts_24 = 7 } } localization_key = AMD_RANKTXT_3 }
 	text = { trigger = { check_variable = { amd_fm_pts_24 = 6 } } localization_key = AMD_RANKTXT_4 }
-	text = { trigger = { check_variable = { amd_fm_pts_24 = 5 } } localization_key = AMD_RANKTXT_5 }
-	text = { trigger = { check_variable = { amd_fm_pts_24 = 4 } } localization_key = AMD_RANKTXT_6 }
-	text = { trigger = { check_variable = { amd_fm_pts_24 = 3 } } localization_key = AMD_RANKTXT_7 }
-	text = { trigger = { check_variable = { amd_fm_pts_24 = 2 } } localization_key = AMD_RANKTXT_8 }
-	text = { trigger = { check_variable = { amd_fm_pts_24 = 1 } } localization_key = AMD_RANKTXT_9 }
-	text = { localization_key = AMD_RANKTXT_10 }
+	text = { trigger = { check_variable = { amd_fm_pts_24 = 4 } } localization_key = AMD_RANKTXT_5 }
+	text = { trigger = { check_variable = { amd_fm_pts_24 = 3 } } localization_key = AMD_RANKTXT_6 }
+	text = { trigger = { check_variable = { amd_fm_pts_24 = 2 } } localization_key = AMD_RANKTXT_7 }
+	text = { trigger = { check_variable = { amd_fm_pts_24 = 1 } } localization_key = AMD_RANKTXT_8 }
+	text = { localization_key = AMD_RANKTXT_9 }
 }
 
 defined_text = {
