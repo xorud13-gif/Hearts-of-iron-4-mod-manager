@@ -578,6 +578,206 @@ defined_text = {
 }
 
 defined_text = {
+	name = amd_txt_tpl_1
+	text = { localization_key = AMD_TPL_NAME_01 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_2
+	text = { localization_key = AMD_TPL_NAME_02 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_3
+	text = { localization_key = AMD_TPL_NAME_03 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_4
+	text = { localization_key = AMD_TPL_NAME_04 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_5
+	text = { localization_key = AMD_TPL_NAME_05 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_6
+	text = { localization_key = AMD_TPL_NAME_06 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_7
+	text = { localization_key = AMD_TPL_NAME_07 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_8
+	text = { localization_key = AMD_TPL_NAME_08 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_9
+	text = { localization_key = AMD_TPL_NAME_09 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_10
+	text = { localization_key = AMD_TPL_NAME_10 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_11
+	text = { localization_key = AMD_TPL_NAME_11 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_12
+	text = { localization_key = AMD_TPL_NAME_12 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_13
+	text = { localization_key = AMD_TPL_NAME_13 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_14
+	text = { localization_key = AMD_TPL_NAME_14 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_15
+	text = { localization_key = AMD_TPL_NAME_15 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_16
+	text = { localization_key = AMD_TPL_NAME_16 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_17
+	text = { localization_key = AMD_TPL_NAME_17 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_18
+	text = { localization_key = AMD_TPL_NAME_18 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_19
+	text = { localization_key = AMD_TPL_NAME_19 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_20
+	text = { localization_key = AMD_TPL_NAME_20 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_21
+	text = { localization_key = AMD_TPL_NAME_21 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_22
+	text = { localization_key = AMD_TPL_NAME_22 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_23
+	text = { localization_key = AMD_TPL_NAME_23 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_24
+	text = { localization_key = AMD_TPL_NAME_24 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_25
+	text = { localization_key = AMD_TPL_NAME_25 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_26
+	text = { localization_key = AMD_TPL_NAME_26 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_27
+	text = { localization_key = AMD_TPL_NAME_27 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_28
+	text = { localization_key = AMD_TPL_NAME_28 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_29
+	text = { localization_key = AMD_TPL_NAME_29 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_30
+	text = { localization_key = AMD_TPL_NAME_30 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_31
+	text = { localization_key = AMD_TPL_NAME_31 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_32
+	text = { localization_key = AMD_TPL_NAME_32 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_33
+	text = { localization_key = AMD_TPL_NAME_33 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_34
+	text = { localization_key = AMD_TPL_NAME_34 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_35
+	text = { localization_key = AMD_TPL_NAME_35 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_36
+	text = { localization_key = AMD_TPL_NAME_36 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_37
+	text = { localization_key = AMD_TPL_NAME_37 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_38
+	text = { localization_key = AMD_TPL_NAME_38 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_39
+	text = { localization_key = AMD_TPL_NAME_39 }
+}
+
+defined_text = {
+	name = amd_txt_tpl_40
+	text = { localization_key = AMD_TPL_NAME_40 }
+}
+
+defined_text = {
 	name = amd_txt_gen_pts_1
 	text = { trigger = { check_variable = { amd_gen_pts_1 = -99 } } localization_key = AMD_RANKTXT_0 }
 	text = { trigger = { check_variable = { amd_gen_pts_1 = 9 } } localization_key = AMD_RANKTXT_1 }

@@ -352,7 +352,7 @@ guiTypes = {
 			position = { x = 8 y = 10 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_01"
+			text = "AMD_TPL_ROW_NAME_1"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -399,7 +399,7 @@ guiTypes = {
 			position = { x = 8 y = 46 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_02"
+			text = "AMD_TPL_ROW_NAME_2"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -446,7 +446,7 @@ guiTypes = {
 			position = { x = 8 y = 82 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_03"
+			text = "AMD_TPL_ROW_NAME_3"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -493,7 +493,7 @@ guiTypes = {
 			position = { x = 8 y = 118 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_04"
+			text = "AMD_TPL_ROW_NAME_4"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -540,7 +540,7 @@ guiTypes = {
 			position = { x = 8 y = 154 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_05"
+			text = "AMD_TPL_ROW_NAME_5"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -587,7 +587,7 @@ guiTypes = {
 			position = { x = 8 y = 190 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_06"
+			text = "AMD_TPL_ROW_NAME_6"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -634,7 +634,7 @@ guiTypes = {
 			position = { x = 8 y = 226 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_07"
+			text = "AMD_TPL_ROW_NAME_7"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -681,7 +681,7 @@ guiTypes = {
 			position = { x = 8 y = 262 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_08"
+			text = "AMD_TPL_ROW_NAME_8"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -728,7 +728,7 @@ guiTypes = {
 			position = { x = 8 y = 298 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_09"
+			text = "AMD_TPL_ROW_NAME_9"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -775,7 +775,7 @@ guiTypes = {
 			position = { x = 8 y = 334 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_10"
+			text = "AMD_TPL_ROW_NAME_10"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -822,7 +822,7 @@ guiTypes = {
 			position = { x = 8 y = 370 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_11"
+			text = "AMD_TPL_ROW_NAME_11"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -869,7 +869,7 @@ guiTypes = {
 			position = { x = 8 y = 406 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_12"
+			text = "AMD_TPL_ROW_NAME_12"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -916,7 +916,7 @@ guiTypes = {
 			position = { x = 8 y = 442 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_13"
+			text = "AMD_TPL_ROW_NAME_13"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -963,7 +963,7 @@ guiTypes = {
 			position = { x = 8 y = 478 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_14"
+			text = "AMD_TPL_ROW_NAME_14"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1010,7 +1010,7 @@ guiTypes = {
 			position = { x = 8 y = 514 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_15"
+			text = "AMD_TPL_ROW_NAME_15"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1057,7 +1057,7 @@ guiTypes = {
 			position = { x = 8 y = 550 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_16"
+			text = "AMD_TPL_ROW_NAME_16"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1104,7 +1104,7 @@ guiTypes = {
 			position = { x = 8 y = 586 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_17"
+			text = "AMD_TPL_ROW_NAME_17"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1151,7 +1151,7 @@ guiTypes = {
 			position = { x = 8 y = 622 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_18"
+			text = "AMD_TPL_ROW_NAME_18"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1198,7 +1198,7 @@ guiTypes = {
 			position = { x = 8 y = 658 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_19"
+			text = "AMD_TPL_ROW_NAME_19"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1245,7 +1245,7 @@ guiTypes = {
 			position = { x = 8 y = 694 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_20"
+			text = "AMD_TPL_ROW_NAME_20"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1292,7 +1292,7 @@ guiTypes = {
 			position = { x = 8 y = 730 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_21"
+			text = "AMD_TPL_ROW_NAME_21"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1339,7 +1339,7 @@ guiTypes = {
 			position = { x = 8 y = 766 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_22"
+			text = "AMD_TPL_ROW_NAME_22"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1386,7 +1386,7 @@ guiTypes = {
 			position = { x = 8 y = 802 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_23"
+			text = "AMD_TPL_ROW_NAME_23"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1433,7 +1433,7 @@ guiTypes = {
 			position = { x = 8 y = 838 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_24"
+			text = "AMD_TPL_ROW_NAME_24"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1480,7 +1480,7 @@ guiTypes = {
 			position = { x = 8 y = 874 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_25"
+			text = "AMD_TPL_ROW_NAME_25"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1527,7 +1527,7 @@ guiTypes = {
 			position = { x = 8 y = 910 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_26"
+			text = "AMD_TPL_ROW_NAME_26"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1574,7 +1574,7 @@ guiTypes = {
 			position = { x = 8 y = 946 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_27"
+			text = "AMD_TPL_ROW_NAME_27"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1621,7 +1621,7 @@ guiTypes = {
 			position = { x = 8 y = 982 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_28"
+			text = "AMD_TPL_ROW_NAME_28"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1668,7 +1668,7 @@ guiTypes = {
 			position = { x = 8 y = 1018 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_29"
+			text = "AMD_TPL_ROW_NAME_29"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1715,7 +1715,7 @@ guiTypes = {
 			position = { x = 8 y = 1054 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_30"
+			text = "AMD_TPL_ROW_NAME_30"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1762,7 +1762,7 @@ guiTypes = {
 			position = { x = 8 y = 1090 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_31"
+			text = "AMD_TPL_ROW_NAME_31"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1809,7 +1809,7 @@ guiTypes = {
 			position = { x = 8 y = 1126 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_32"
+			text = "AMD_TPL_ROW_NAME_32"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1856,7 +1856,7 @@ guiTypes = {
 			position = { x = 8 y = 1162 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_33"
+			text = "AMD_TPL_ROW_NAME_33"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1903,7 +1903,7 @@ guiTypes = {
 			position = { x = 8 y = 1198 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_34"
+			text = "AMD_TPL_ROW_NAME_34"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1950,7 +1950,7 @@ guiTypes = {
 			position = { x = 8 y = 1234 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_35"
+			text = "AMD_TPL_ROW_NAME_35"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -1997,7 +1997,7 @@ guiTypes = {
 			position = { x = 8 y = 1270 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_36"
+			text = "AMD_TPL_ROW_NAME_36"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -2044,7 +2044,7 @@ guiTypes = {
 			position = { x = 8 y = 1306 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_37"
+			text = "AMD_TPL_ROW_NAME_37"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -2091,7 +2091,7 @@ guiTypes = {
 			position = { x = 8 y = 1342 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_38"
+			text = "AMD_TPL_ROW_NAME_38"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -2138,7 +2138,7 @@ guiTypes = {
 			position = { x = 8 y = 1378 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_39"
+			text = "AMD_TPL_ROW_NAME_39"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes
@@ -2185,7 +2185,7 @@ guiTypes = {
 			position = { x = 8 y = 1414 }
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
-			text = "AMD_TPL_NAME_40"
+			text = "AMD_TPL_ROW_NAME_40"
 			maxWidth = 400
 			maxHeight = 20
 			fixedsize = yes

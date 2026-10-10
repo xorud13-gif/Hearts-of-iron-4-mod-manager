@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "15b9a685e8c95ed5",
-  "generated": "2026-10-09T05:33:04Z",
+  "revision": "dafcec29fe6c8e6d",
+  "generated": "2026-10-10T16:51:32Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "a2346a1afdf74f007b662c456a4dde4e444ff187fcb9e23fe2aefd7b24e66016",
@@ -139,23 +139,23 @@
       "id": "logistics_guard_hoi4",
       "name": "병참 타격 아군 피해 방지",
       "name_en": "Logistics Strike Friendly-Fire Guard",
-      "version": "1.0 (2026-10-05)",
-      "updated": "2026-10-08",
+      "version": "1.2.1 (2026-10-09)",
+      "updated": "2026-10-09",
       "files": [
         {
           "path": "mods/logistics_guard_hoi4/mod.json",
-          "sha256": "fb7dc56e10a0069e3ec4cdbd9420c6f5f3c9b2895c5269c40c399d005b11c6e6",
-          "size": 1961
+          "sha256": "f8af5e346847e2d852ba4414e0d51e917521f64fb02a940ceb2e4162fbf79360",
+          "size": 3252
         },
         {
           "path": "mods/logistics_guard_hoi4/files/logistics_guard.txt",
-          "sha256": "5b0aee9b466169d14739516d9d1e238076f373b0b83280e732223d79ece2dac8",
-          "size": 1688
+          "sha256": "ba68c8e785e0d8b4dcaa5a2053a2aec23e7f9081a2f9037896a9b74c12486f62",
+          "size": 2712
         },
         {
           "path": "mods/logistics_guard_hoi4/files/version.dll",
-          "sha256": "907826dcb48eaa0f94df40c1675c892d2c4be78f9706ecb522e1de227af13cb2",
-          "size": 399872
+          "sha256": "8d84988e21452766aaa788d789676da99d1b2f9615205ecb39be615f9e27a973",
+          "size": 411136
         }
       ]
     },
@@ -243,11 +243,11 @@
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
       "version": "0.3 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-10",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "9a23b090822426190cc516b43b246092a7294a33126e29ee025006b9961d0d49",
+          "sha256": "abd060520e849852de7808cc5f1509f26fa9cfd812f550be7d0e1b4d33928c0e",
           "size": 3039
         },
         {
@@ -282,18 +282,18 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_localisation/amd_scripted_loc.txt",
-          "sha256": "809323ed05ebc94cd762be93394810cd3e961d9012c131c5e3bb32fa9a9a5549",
-          "size": 610156
+          "sha256": "dddd32e29db0075277501329dcad12f6c1da419813b04086d211cac2df4bd883",
+          "size": 613747
         },
         {
           "path": "mods/auto_medal_hoi4/files/interface/amd_window.gui",
-          "sha256": "d016ba5bdf7b24c8ce0ce0e1798b0f30c3408431d3926d89c722cc436865d1f5",
-          "size": 171624
+          "sha256": "dbcc9cc67b7b035e6a6faaf9b63cc1be0e92c5f4f7357056884078b1c174f847",
+          "size": 171775
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/amd_l_english.yml",
-          "sha256": "d2c7f7f867aaaf269d6855ec26fee70f8ac6b3047594214d4211169c8b26b518",
-          "size": 33913
+          "sha256": "28f790b37ae6e084c0e40678e24bd0f16a6b7cc9e421ca6552d14b881ea4f1a5",
+          "size": 35575
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/mod_settings_l_english.yml",
@@ -302,8 +302,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
-          "sha256": "71db077db6952ea30b49be6ea3ed54e5817b387449fbfb63efbb1ca015ecf24d",
-          "size": 34562
+          "sha256": "47ce5c538a0571a72d5a7d64932ce6c20637337c82666c93d743a27190a8ff76",
+          "size": 36224
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/mod_settings_l_korean.yml",

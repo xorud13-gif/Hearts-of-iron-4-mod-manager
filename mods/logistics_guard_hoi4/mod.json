@@ -2,10 +2,10 @@
   "format": 1,
   "id": "logistics_guard_hoi4",
   "name": "병참 타격 아군 피해 방지",
-  "version": "1.0 (2026-10-05)",
-  "updated": "2026-10-08",
+  "version": "1.2.1 (2026-10-09)",
+  "updated": "2026-10-09",
   "author": "",
-  "description": "병참 타격의 번짐 피해가 공격자와 전쟁 중이 아닌 나라(자신·동맹·중립)의 인프라·철도에 떨어지지 않게 합니다. 적과 나눠 가진 주는 인프라 번짐을 건너뛰고(인프라는 주마다 하나라 그 주의 적 쪽도 번짐 없음), 내 쪽 프로빈스 철도에 떨어질 번짐 조각은 버립니다. 적 철도 피해·트럭·열차 파괴·무작위 추첨 횟수는 바닐라와 같고 AI 공격에도 같은 규칙입니다.\n게임 폴더의 logistics_guard.txt 에서 protect_infrastructure·protect_railways·log_level 로 조절합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "description": "병참 타격의 번짐 피해가 공격자와 전쟁 중이 아닌 나라(자신·동맹·중립)의 인프라·철도에 떨어지지 않게 합니다. 적과 나눠 가진 주는 인프라 번짐을 건너뛰고(인프라는 주마다 하나라 그 주의 적 쪽도 번짐 없음), 내 쪽 프로빈스 철도에 떨어질 번짐 조각은 버립니다. 적 철도 피해·트럭·열차 파괴·무작위 추첨 횟수는 바닐라와 같고 AI 공격에도 같은 규칙입니다.\nv1.2: 피해를 주지 못한 폭격 기록(요격당한 폭격기, 이미 0 단계인 건물)은 피해국의 '적 폭격' 전쟁지지도에 넣지 않습니다(모든 나라 같은 규칙, war_support_damage_only). v1.1~: 읽기 전용 측정 로그 — 플레이어의 '적 폭격' 전쟁지지도에 기록이 쌓일 때마다 누가(공격국)·어느 경로(철도 번짐·인프라 번짐·전략폭격)·얼마나(실제 피해·기체 수 × 계수) 쌓았는지와 플레이어의 주간 변화를 logistics_guard.log 의 [WARSUP] 줄에 30일마다 남깁니다(게임 동작은 바꾸지 않음).\n게임 폴더의 logistics_guard.txt 에서 protect_infrastructure·protect_railways·war_support_damage_only·measure_war_support·log_level 로 조절합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
   "native_dll": "version.dll",
   "files": [],
   "config_files": [
@@ -17,5 +17,5 @@
   ],
   "conflicts": [],
   "name_en": "Logistics Strike Friendly-Fire Guard",
-  "description_en": "Stops the spread damage of logistics strikes from landing on the infrastructure and railways of countries that are not at war with the attacker (yourself, allies, neutrals). In states shared with the enemy the infrastructure spread is skipped (infrastructure is one per state, so the enemy's side of that state gets none either), and spread pieces that would hit railways in your own provinces are discarded. Damage to enemy railways, trucks, train destruction and the number of random rolls are the same as vanilla, and the same rule applies to AI attacks.\nTune protect_infrastructure, protect_railways and log_level in logistics_guard.txt in the game folder. Only for hoi4.exe v1.19.3.0.c01a - with a different executable it is not installed and the game behaves like vanilla."
+  "description_en": "Stops the spread damage of logistics strikes from landing on the infrastructure and railways of countries that are not at war with the attacker (yourself, allies, neutrals). In states shared with the enemy the infrastructure spread is skipped (infrastructure is one per state, so the enemy's side of that state gets none either), and spread pieces that would hit railways in your own provinces are discarded. Damage to enemy railways, trucks, train destruction and the number of random rolls are the same as vanilla, and the same rule applies to AI attacks.\nv1.2: bombing records that did no damage (bombers shot down, buildings already at level 0) are not added to the victim's 'enemy bombing' war support penalty (same rule for every country, war_support_damage_only). v1.1+: read-only measurement log - every time a record is added to the player's 'enemy bombing' war support, who (attacker), which path (railway spread, infrastructure spread, strategic bombing) and how much (actual damage, planes x factor) plus the player's weekly change are written to the [WARSUP] lines of logistics_guard.log every 30 days (game behaviour unchanged).\nTune protect_infrastructure, protect_railways, war_support_damage_only, measure_war_support and log_level in logistics_guard.txt in the game folder. Only for hoi4.exe v1.19.3.0.c01a - with a different executable it is not installed and the game behaves like vanilla."
 }

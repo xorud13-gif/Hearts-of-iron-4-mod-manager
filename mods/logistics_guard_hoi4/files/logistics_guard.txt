@@ -23,6 +23,22 @@ protect_infrastructure = 1
 # 0 = vanilla
 protect_railways = 1
 
+# The engine adds a whole sortie (planes x 1.0, or x 0.5 on a non-core state) to the victim's "Enemy
+# bombing" war support penalty for every bombing record - strategic bombing, logistics strike spills -
+# even when the bombs dealt no damage (intercepted bombers, a building already at level 0).
+# 1 = a record that dealt no damage adds nothing (the same rule for every country); damage, air
+#     statistics and records that dealt damage stay vanilla.
+# 0 = vanilla
+war_support_damage_only = 1
+
+# Read-only measurement (changes nothing in the game): every time a bombing record would add to the
+# local player's "Enemy bombing" war support penalty (railway spill, infrastructure spill, strategic
+# bombing), log who attacked, from which path and how much (planes x impact). The engine counts a
+# whole sortie per record, not the damage dealt. 30-day totals per path and attacker in [WARSUP], with
+# the damage dealt and the player's weekly 'Enemy bombing' change.
+# 1 = on, 0 = off
+measure_war_support = 1
+
 # Log: 0 = start-up and errors only, 1 = + 30-day totals and the first events of each kind (default),
 #      2 = + every event (debug)
 log_level = 1
