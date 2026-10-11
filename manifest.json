@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "19159f9e8d38f80b",
-  "generated": "2026-10-11T12:14:58Z",
+  "revision": "9d1ecd7e80482e59",
+  "generated": "2026-10-11T12:18:02Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -512,6 +512,25 @@
           "path": "mods/core_resistance_clear_hoi4/files/version.dll",
           "sha256": "471a5562bc42b0a5ee5d162540a46f399cfb3651e54c2ece36e43fc01f82131c",
           "size": 392704
+        }
+      ]
+    },
+    {
+      "id": "split_nearest_hoi4",
+      "name": "전선 분리 때 가까운 사단 배정",
+      "name_en": "Nearest Divisions on Front Split",
+      "version": "1.1 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/split_nearest_hoi4/mod.json",
+          "sha256": "16f5dc1b026b74c8e4e0ffbd185bb056b4d468def5449219457b603879a048a5",
+          "size": 3130
+        },
+        {
+          "path": "mods/split_nearest_hoi4/files/version.dll",
+          "sha256": "fa1213345d91b5604cafd0899adf136cc7cc3173e6b99d48923d354ea09d3dbc",
+          "size": 414208
         }
       ]
     },

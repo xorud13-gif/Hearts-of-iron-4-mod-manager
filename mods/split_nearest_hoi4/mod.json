@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "split_nearest_hoi4",
+  "name": "전선 분리 때 가까운 사단 배정",
+  "version": "1.1 (2026-10-11)",
+  "updated": "2026-10-11",
+  "author": "",
+  "description": "제3국이 전선 앞 프로빈스를 가져가 전선 명령이 둘로 갈라지면, 게임은 새 전선에 몫(대개 적과 맞닿은 프로빈스 수 비율)만큼 사단을 '가까운 순'으로 넘깁니다. 그런데 바닐라의 거리는 지도 위 직선 거리라서 바다·호수·통행 불가 지형·적 영토 건너편 사단이 가깝다고 먼저 뽑힙니다. 이 모드는 그 거리를 아군 쪽 육지 프로빈스만 지나는 실제 경로 길이로 바꿉니다(새 전선 프로빈스에서 한 번 길 찾기, 분리 한 번에 한 번). 육로로 닿지 않는 사단은 직선 거리 순서를 지키되 닿는 사단보다 뒤로 갑니다. 몫, 원래 전선 위 사단 감점, 집단군 분배, 사단을 옮기는 방법은 모두 바닐라 그대로입니다(AI 의 전선에도 적용).\n게임 폴더의 split_nearest.txt 에서 enabled·log_level 로 조절하고, 동작은 split_nearest.log 의 [SPLIT] 줄로 확인합니다. 두 분배 경로(정렬 경로, 적과 맞닿은 칸이 없을 때 하나씩 고르는 경로) 모두 적용되고, 새 전선에 넘어간 사단마다 순위와 원래 전선에 남은 사단을 [TO-B] 줄로 남깁니다(log_level = 0 이면 시작·오류만). hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "split_nearest.txt"
+  ],
+  "cleanup": [
+    "split_nearest.log*",
+    "split_nearest.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Nearest Divisions on Front Split",
+  "description_en": "When a third country takes provinces in front of a front order and the order splits in two, the game hands the new front its share of divisions (usually by the number of provinces facing the enemy) 'nearest first'. But the vanilla distance is a straight line on the map, so divisions across a sea, a lake, impassable terrain or enemy land count as near and are taken first. This mod measures that distance as the real path length over land provinces of your own side instead (one path search from the new front's provinces per split). Divisions no land path reaches keep their straight-line order but come after every division that is reached. The share, the penalty for divisions on the original front, the army-group split and how the divisions move all stay vanilla (also applies to AI fronts).\nTune it with enabled and log_level in split_nearest.txt in the game folder and check it in split_nearest.log ([SPLIT] lines). Both ways the game hands out divisions (the sorted one, and the one-at-a-time one used when no front faces enemy provinces) are covered, and every division handed to the new front is logged with its rank and what stays behind ([TO-B] lines; log_level = 0 logs start-up and errors only). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}
