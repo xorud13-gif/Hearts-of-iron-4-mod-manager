@@ -1,0 +1,20 @@
+###########################################################################
+# MIO auto assign (mio_auto_assign_hoi4) - on actions
+#
+# on_startup fires once when a NEW game starts (not when a save is loaded).
+# The DLL attaches the design teams inside log = "MIOA:RUN". The global
+# flag is saved with the game, so the run can never happen twice.
+###########################################################################
+on_actions = {
+	on_startup = {
+		effect = {
+			if = {
+				limit = {
+					NOT = { has_global_flag = mioa_initial_done }
+				}
+				set_global_flag = mioa_initial_done
+				log = "MIOA:RUN"
+			}
+		}
+	}
+}
