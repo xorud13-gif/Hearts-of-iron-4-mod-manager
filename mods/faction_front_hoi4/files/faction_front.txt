@@ -1,0 +1,29 @@
+# Peacetime faction front (faction_front_hoi4) configuration
+# Edit and save, then restart the game.
+
+# In the vanilla game the borders of neighbouring countries at peace are separate fronts, one per
+# country, even when those countries belong to the same faction. (Only a country and its subjects
+# are drawn as one front, and in a war every country at war with you is.) This mod also joins the
+# countries of ONE faction that you are not in and are not at war with, so the border with all of
+# them is a single front you can lay your divisions along. The faction members have to touch each
+# other to form one front, and the front follows the faction as it changes (joining, leaving).
+# 1 = on
+# 0 = vanilla (install nothing, restart required)
+enabled = 1
+
+# When you are at war with SOME countries of one faction (or an overlord and its subjects) and at peace with
+# the others, the vanilla game cuts the front in two the moment the war starts: the countries at war stay one
+# front, the ones at peace become separate fronts, and the line you laid along the whole border loses the
+# part facing the countries at peace. With this on, the countries at peace that belong to the same faction
+# (or are overlord/subject) as a country at war with you stay in the same enemy area, so the front you had
+# before the war is still one front. (Needs enabled = 1; restart required.)
+# 1 = keep them together (default)
+# 0 = vanilla
+join_war_members = 1
+
+# Log: 0 = start-up and errors only, 1 = + the first links and the totals (default),
+#      2 = + every link (debug, can get large)
+log_level = 1
+
+# Log file name (next to the DLL, or a full path)
+log_file = faction_front.log

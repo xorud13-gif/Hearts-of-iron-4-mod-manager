@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "revision": "ee66ba2b0801efe1",
-  "generated": "2026-10-11T04:37:27Z",
+  "revision": "64821a60e71d4c95",
+  "generated": "2026-10-11T04:49:20Z",
   "app": {
     "path": "HOI4ModManager.exe",
-    "sha256": "3a5a4221e3f85bb310c15347fe9a859409844c9e7c131b3987233d6423c7d164",
-    "size": 215040,
+    "sha256": "352a417de79bb774893bc5fbac37d1d29c9436346202a6a0130fedb42ab068a0",
+    "size": 215552,
     "version": "1.0.0"
   },
   "loader": {
@@ -434,12 +434,17 @@
       "name": "평시 세력 단일 전선",
       "name_en": "Single Faction Front in Peacetime",
       "version": "1.1 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "files": [
         {
           "path": "mods/faction_front_hoi4/mod.json",
-          "sha256": "8aa27994d63b11b246b390e8bd4b38640fe50e492d314c0a5086490d894fe2db",
+          "sha256": "11329075cd46f912032aa12cb3709d5782f781ea30c3ee079c58173b52766ac3",
           "size": 3409
+        },
+        {
+          "path": "mods/faction_front_hoi4/files/faction_front.txt",
+          "sha256": "3700a1f3096de65e183fcc0b806f2f7d621bf4a8350346d99175ad4b4ce81f22",
+          "size": 1671
         },
         {
           "path": "mods/faction_front_hoi4/files/version.dll",
@@ -472,12 +477,17 @@
       "name": "철도 레벨 단계별 건설",
       "name_en": "Level-by-Level Railway Construction",
       "version": "1.0 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "files": [
         {
           "path": "mods/railway_step_hoi4/mod.json",
-          "sha256": "9e6fabc3ab91623055e53dbab314e3e72d248348b88f9e7e62779dad1981b592",
+          "sha256": "bc9d7b1d3659469cd434cb5804e3da9462acc59ee00fbad95ee53cf61ed25bc1",
           "size": 2801
+        },
+        {
+          "path": "mods/railway_step_hoi4/files/railway_step.txt",
+          "sha256": "2db0673599ab8a7e40213df01adb9da9c717d3a07c5c1535879632563a5aa6a1",
+          "size": 945
         },
         {
           "path": "mods/railway_step_hoi4/files/version.dll",

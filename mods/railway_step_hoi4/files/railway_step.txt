@@ -1,0 +1,17 @@
+# Level-by-level railway construction (railway_step_hoi4) configuration
+# Edit and save, then restart the game.
+
+# A railway you queue between two points is built in order along the line: the engine puts all the
+# construction into the first stretch until it reaches the target level, then goes on to the next one, so a
+# line that raises the railway by 2 or more levels only helps the supply route once its LAST stretch is done.
+# 1 = every stretch of the line is raised one level before any stretch gets the next level (a line from level 0
+#     to level 3 becomes 1 everywhere, then 2 everywhere, then 3); a one-level line is built as in vanilla
+# 0 = vanilla (install nothing, restart required)
+enabled = 1
+
+# Log: 0 = start-up and errors only, 1 = + the first decisions and the totals (default),
+#      2 = + every decision (debug, can get large)
+log_level = 1
+
+# Log file name (next to the DLL, or a full path)
+log_file = railway_step.log
