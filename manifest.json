@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "b727241ef9972d27",
-  "generated": "2026-10-11T10:38:00Z",
+  "revision": "19159f9e8d38f80b",
+  "generated": "2026-10-11T12:14:58Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -91,13 +91,13 @@
       "id": "non_seperate_frontline_hoi4",
       "name": "전선 분리/증발 방지",
       "name_en": "Front Split / Vanish Guard",
-      "version": "통합 (2026-10-06)",
-      "updated": "2026-10-08",
+      "version": "통합 (2026-10-11.5)",
+      "updated": "2026-10-11",
       "files": [
         {
           "path": "mods/non_seperate_frontline_hoi4/mod.json",
-          "sha256": "3bbcb8b41597993fa13a56aa1019abac3396962384a37216e7bebfbf01906932",
-          "size": 2916
+          "sha256": "36ca59307f4d0002677657aa2b83831d0149f5e7f4d1ea9598c87d07c1c37802",
+          "size": 3407
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
@@ -106,8 +106,8 @@
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
-          "sha256": "2dc7f7a0401f1fdc67bb1d55da660b02bc83224c35dc794f0473aff845e3ce41",
-          "size": 618496
+          "sha256": "b1895bbc91f69f59c48bb6c3e44186b1881406ab5d8e433b784a138c246af3cc",
+          "size": 644608
         }
       ]
     },
