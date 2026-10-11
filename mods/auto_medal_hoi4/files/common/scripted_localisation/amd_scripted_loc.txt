@@ -2017,6 +2017,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_1
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_01 }
 	text = { trigger = { check_variable = { amd_ml_1 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_1 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_1 = 3 } } localization_key = krigsmedaljen }
@@ -2125,6 +2126,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_1
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_01 }
 	text = { trigger = { check_variable = { amd_ml_1 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_1 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_1 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -2233,6 +2235,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_2
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_02 }
 	text = { trigger = { check_variable = { amd_ml_2 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_2 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_2 = 3 } } localization_key = krigsmedaljen }
@@ -2341,6 +2344,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_2
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_02 }
 	text = { trigger = { check_variable = { amd_ml_2 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_2 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_2 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -2449,6 +2453,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_3
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_03 }
 	text = { trigger = { check_variable = { amd_ml_3 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_3 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_3 = 3 } } localization_key = krigsmedaljen }
@@ -2557,6 +2562,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_3
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_03 }
 	text = { trigger = { check_variable = { amd_ml_3 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_3 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_3 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -2665,6 +2671,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_4
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_04 }
 	text = { trigger = { check_variable = { amd_ml_4 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_4 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_4 = 3 } } localization_key = krigsmedaljen }
@@ -2773,6 +2780,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_4
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_04 }
 	text = { trigger = { check_variable = { amd_ml_4 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_4 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_4 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -2881,6 +2889,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_5
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_05 }
 	text = { trigger = { check_variable = { amd_ml_5 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_5 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_5 = 3 } } localization_key = krigsmedaljen }
@@ -2989,6 +2998,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_5
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_05 }
 	text = { trigger = { check_variable = { amd_ml_5 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_5 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_5 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -3097,6 +3107,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_6
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_06 }
 	text = { trigger = { check_variable = { amd_ml_6 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_6 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_6 = 3 } } localization_key = krigsmedaljen }
@@ -3205,6 +3216,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_6
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_06 }
 	text = { trigger = { check_variable = { amd_ml_6 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_6 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_6 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -3313,6 +3325,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_7
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_07 }
 	text = { trigger = { check_variable = { amd_ml_7 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_7 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_7 = 3 } } localization_key = krigsmedaljen }
@@ -3421,6 +3434,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_7
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_07 }
 	text = { trigger = { check_variable = { amd_ml_7 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_7 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_7 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -3529,6 +3543,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_8
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_08 }
 	text = { trigger = { check_variable = { amd_ml_8 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_8 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_8 = 3 } } localization_key = krigsmedaljen }
@@ -3637,6 +3652,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_8
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_08 }
 	text = { trigger = { check_variable = { amd_ml_8 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_8 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_8 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -3745,6 +3761,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_9
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_09 }
 	text = { trigger = { check_variable = { amd_ml_9 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_9 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_9 = 3 } } localization_key = krigsmedaljen }
@@ -3853,6 +3870,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_9
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_09 }
 	text = { trigger = { check_variable = { amd_ml_9 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_9 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_9 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -3961,6 +3979,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_10
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_10 }
 	text = { trigger = { check_variable = { amd_ml_10 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_10 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_10 = 3 } } localization_key = krigsmedaljen }
@@ -4069,6 +4088,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_10
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_10 }
 	text = { trigger = { check_variable = { amd_ml_10 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_10 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_10 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -4177,6 +4197,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_11
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_11 }
 	text = { trigger = { check_variable = { amd_ml_11 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_11 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_11 = 3 } } localization_key = krigsmedaljen }
@@ -4285,6 +4306,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_11
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_11 }
 	text = { trigger = { check_variable = { amd_ml_11 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_11 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_11 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -4393,6 +4415,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_12
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_12 }
 	text = { trigger = { check_variable = { amd_ml_12 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_12 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_12 = 3 } } localization_key = krigsmedaljen }
@@ -4501,6 +4524,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_12
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_12 }
 	text = { trigger = { check_variable = { amd_ml_12 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_12 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_12 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -4609,6 +4633,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_13
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_13 }
 	text = { trigger = { check_variable = { amd_ml_13 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_13 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_13 = 3 } } localization_key = krigsmedaljen }
@@ -4717,6 +4742,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_13
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_13 }
 	text = { trigger = { check_variable = { amd_ml_13 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_13 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_13 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -4825,6 +4851,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_14
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_14 }
 	text = { trigger = { check_variable = { amd_ml_14 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_14 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_14 = 3 } } localization_key = krigsmedaljen }
@@ -4933,6 +4960,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_14
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_14 }
 	text = { trigger = { check_variable = { amd_ml_14 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_14 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_14 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -5041,6 +5069,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_15
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_15 }
 	text = { trigger = { check_variable = { amd_ml_15 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_15 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_15 = 3 } } localization_key = krigsmedaljen }
@@ -5149,6 +5178,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_15
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_15 }
 	text = { trigger = { check_variable = { amd_ml_15 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_15 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_15 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -5257,6 +5287,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_16
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_16 }
 	text = { trigger = { check_variable = { amd_ml_16 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_16 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_16 = 3 } } localization_key = krigsmedaljen }
@@ -5365,6 +5396,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_16
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_16 }
 	text = { trigger = { check_variable = { amd_ml_16 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_16 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_16 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -5473,6 +5505,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_17
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_17 }
 	text = { trigger = { check_variable = { amd_ml_17 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_17 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_17 = 3 } } localization_key = krigsmedaljen }
@@ -5581,6 +5614,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_17
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_17 }
 	text = { trigger = { check_variable = { amd_ml_17 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_17 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_17 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -5689,6 +5723,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_18
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_18 }
 	text = { trigger = { check_variable = { amd_ml_18 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_18 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_18 = 3 } } localization_key = krigsmedaljen }
@@ -5797,6 +5832,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_18
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_18 }
 	text = { trigger = { check_variable = { amd_ml_18 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_18 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_18 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -5905,6 +5941,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_19
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_19 }
 	text = { trigger = { check_variable = { amd_ml_19 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_19 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_19 = 3 } } localization_key = krigsmedaljen }
@@ -6013,6 +6050,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_19
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_19 }
 	text = { trigger = { check_variable = { amd_ml_19 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_19 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_19 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -6121,6 +6159,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_20
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_20 }
 	text = { trigger = { check_variable = { amd_ml_20 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_20 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_20 = 3 } } localization_key = krigsmedaljen }
@@ -6229,6 +6268,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_20
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_20 }
 	text = { trigger = { check_variable = { amd_ml_20 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_20 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_20 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -6337,6 +6377,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_21
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_21 }
 	text = { trigger = { check_variable = { amd_ml_21 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_21 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_21 = 3 } } localization_key = krigsmedaljen }
@@ -6445,6 +6486,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_21
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_21 }
 	text = { trigger = { check_variable = { amd_ml_21 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_21 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_21 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -6553,6 +6595,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_22
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_22 }
 	text = { trigger = { check_variable = { amd_ml_22 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_22 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_22 = 3 } } localization_key = krigsmedaljen }
@@ -6661,6 +6704,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_22
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_22 }
 	text = { trigger = { check_variable = { amd_ml_22 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_22 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_22 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -6769,6 +6813,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_23
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_23 }
 	text = { trigger = { check_variable = { amd_ml_23 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_23 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_23 = 3 } } localization_key = krigsmedaljen }
@@ -6877,6 +6922,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_23
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_23 }
 	text = { trigger = { check_variable = { amd_ml_23 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_23 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_23 = 3 } } localization_key = AMD_MEDFX_3 }
@@ -6985,6 +7031,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_med_24
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_NAME_24 }
 	text = { trigger = { check_variable = { amd_ml_24 = 1 } } localization_key = krigskorset }
 	text = { trigger = { check_variable = { amd_ml_24 = 2 } } localization_key = haakon_viis_frihetskors }
 	text = { trigger = { check_variable = { amd_ml_24 = 3 } } localization_key = krigsmedaljen }
@@ -7093,6 +7140,7 @@ defined_text = {
 
 defined_text = {
 	name = amd_txt_medfx_24
+	text = { trigger = { check_variable = { amd_st_mnames = 1 } } localization_key = AMD_MED_FX_24 }
 	text = { trigger = { check_variable = { amd_ml_24 = 1 } } localization_key = AMD_MEDFX_1 }
 	text = { trigger = { check_variable = { amd_ml_24 = 2 } } localization_key = AMD_MEDFX_2 }
 	text = { trigger = { check_variable = { amd_ml_24 = 3 } } localization_key = AMD_MEDFX_3 }

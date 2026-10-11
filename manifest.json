@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "revision": "dafcec29fe6c8e6d",
-  "generated": "2026-10-10T16:51:32Z",
+  "revision": "ee66ba2b0801efe1",
+  "generated": "2026-10-11T04:37:27Z",
   "app": {
     "path": "HOI4ModManager.exe",
-    "sha256": "a2346a1afdf74f007b662c456a4dde4e444ff187fcb9e23fe2aefd7b24e66016",
-    "size": 210944,
+    "sha256": "3a5a4221e3f85bb310c15347fe9a859409844c9e7c131b3987233d6423c7d164",
+    "size": 215040,
     "version": "1.0.0"
   },
   "loader": {
@@ -242,18 +242,18 @@
       "id": "auto_medal_hoi4",
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
-      "version": "0.3 (2026-10-09)",
-      "updated": "2026-10-10",
+      "version": "0.4 (2026-10-11)",
+      "updated": "2026-10-11",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "abd060520e849852de7808cc5f1509f26fa9cfd812f550be7d0e1b4d33928c0e",
-          "size": 3039
+          "sha256": "629da8d87a3516377af2f2862aaa9d8a4f55b04212da5159dab9cf96d7259563",
+          "size": 3214
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
-          "sha256": "ba14ef1ed588a1185a0ead31b31642189993f1187e2b0294ba782cb8f8c484b3",
-          "size": 457216
+          "sha256": "e3ba397226391ca0c743a37c138210937f9b47664ee46236f88edd31c50f0d0b",
+          "size": 461312
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/decisions/amd_decisions.txt",
@@ -282,8 +282,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/common/scripted_localisation/amd_scripted_loc.txt",
-          "sha256": "dddd32e29db0075277501329dcad12f6c1da419813b04086d211cac2df4bd883",
-          "size": 613747
+          "sha256": "fd9820c0ad7afde91a5ebe5f23adada1d0d8261bfd5a32fde958c62dcd6d24a1",
+          "size": 618499
         },
         {
           "path": "mods/auto_medal_hoi4/files/interface/amd_window.gui",
@@ -292,8 +292,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/amd_l_english.yml",
-          "sha256": "28f790b37ae6e084c0e40678e24bd0f16a6b7cc9e421ca6552d14b881ea4f1a5",
-          "size": 35575
+          "sha256": "e16ea45511a70cadb6ff1328b579969940143a1d4ca1be26e414529bb0589983",
+          "size": 46823
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/english/mod_settings_l_english.yml",
@@ -302,8 +302,8 @@
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/amd_l_korean.yml",
-          "sha256": "47ce5c538a0571a72d5a7d64932ce6c20637337c82666c93d743a27190a8ff76",
-          "size": 36224
+          "sha256": "bac68425f102b525690eacb249b53822b0d5c77876f92e5aad8d011a7a9add41",
+          "size": 47472
         },
         {
           "path": "mods/auto_medal_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
@@ -502,6 +502,25 @@
           "path": "mods/core_resistance_clear_hoi4/files/version.dll",
           "sha256": "471a5562bc42b0a5ee5d162540a46f399cfb3651e54c2ece36e43fc01f82131c",
           "size": 392704
+        }
+      ]
+    },
+    {
+      "id": "loc_dup_fix_hoi4",
+      "name": "번역 중복 키 바로잡기",
+      "name_en": "Translation Duplicate Key Fix",
+      "version": "1.0 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/loc_dup_fix_hoi4/mod.json",
+          "sha256": "41fe050771c556d6b769cdaaf39c595c0feb2a45eb4bf5c1d577179b22d1f30d",
+          "size": 2588
+        },
+        {
+          "path": "mods/loc_dup_fix_hoi4/files/version.dll",
+          "sha256": "bf8f0106a2d05cbe06f0f0697205b558619919116e605a2e0b6ff05b952ab1ba",
+          "size": 423936
         }
       ]
     }
