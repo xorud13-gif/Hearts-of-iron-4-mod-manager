@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "9d1ecd7e80482e59",
-  "generated": "2026-10-11T12:18:02Z",
+  "revision": "be894a268d793774",
+  "generated": "2026-10-11T13:00:06Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -512,6 +512,25 @@
           "path": "mods/core_resistance_clear_hoi4/files/version.dll",
           "sha256": "471a5562bc42b0a5ee5d162540a46f399cfb3651e54c2ece36e43fc01f82131c",
           "size": 392704
+        }
+      ]
+    },
+    {
+      "id": "call_to_arms_fix_hoi4",
+      "name": "참전 요청 수락 후 미참전 수정",
+      "name_en": "Call to Arms Fix",
+      "version": "0.3 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/call_to_arms_fix_hoi4/mod.json",
+          "sha256": "bdc2f8f4b1ed1d6548cd3f435af9e182d2ecb6c2f50a67f5618c82d45a559b1a",
+          "size": 3109
+        },
+        {
+          "path": "mods/call_to_arms_fix_hoi4/files/version.dll",
+          "sha256": "80af92d411e803575ef88c913e92402408a31cd52acd23cf64dcae163a26c788",
+          "size": 399360
         }
       ]
     },
