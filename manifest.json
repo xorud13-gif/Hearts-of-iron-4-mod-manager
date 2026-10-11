@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "3104a58f0d94b5b8",
-  "generated": "2026-10-11T14:32:00Z",
+  "revision": "3081aeb832ba27ef",
+  "generated": "2026-10-11T14:36:55Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -636,15 +636,15 @@
     },
     {
       "id": "mio_auto_assign_hoi4",
-      "name": "설계국 자동 배정",
+      "name": "설계사 자동 배정",
       "name_en": "MIO Auto Assign",
       "version": "1.3 (2026-10-11)",
       "updated": "2026-10-11",
       "files": [
         {
           "path": "mods/mio_auto_assign_hoi4/mod.json",
-          "sha256": "a88387a5f10fe600c7c1bb6cbe2d20198499e3eaf3fba941adf729eeea8cfaa2",
-          "size": 3224
+          "sha256": "ab9833255dc832c98e1a4191e4284115f2efd7706e518efd1fadf82c4d589f62",
+          "size": 3301
         },
         {
           "path": "mods/mio_auto_assign_hoi4/files/version.dll",
