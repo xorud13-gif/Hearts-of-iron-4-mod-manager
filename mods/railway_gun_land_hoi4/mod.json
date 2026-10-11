@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "railway_gun_land_hoi4",
+  "name": "열차포 육로 우선 이동",
+  "version": "1.4 (2026-10-11)",
+  "updated": "2026-10-11",
+  "author": "",
+  "description": "군에 배정된 열차포가 자동으로 이동할 때, 육로(철도)를 두고 호송선으로 바다를 건너다 침몰하는 일을 막고, 열차포가 전선에 골고루 퍼지게 합니다. 바닐라는 막 점령한 철도(점령 후 최대 10일, 핵심주 5일 동안 쓸 수 없음)에서 철도망이 끊긴 것으로 보아, 전선이 전진하면 새 전선으로 해상 수송을 고릅니다. 이 모드는 점령 중인 철도로 이어진 곳으로는 배를 타지 않게 하고, 열차포가 지금 철도로 갈 수 있는 가장 좋은 자리(점령 중인 구간 바로 앞)로 가 있다가 점령이 끝나면 따라가게 합니다. 또 엔진 버그로 한 군의 두 번째 열차포부터 후보 지역을 점점 적게 보고 결국 제자리에 멈추던 것을, 모든 열차포가 전체 후보를 보게 고칩니다. 열차포가 많을 때 서로 밀어내며 다른 열차포가 선 자리를 따라 조금씩 후방으로 번지던 것을 막아, 열차포는 군 사단 주변 지역 안에서만 자리를 고르고 지역 밖에 있던 열차포는 지역으로 돌아옵니다. 열차포가 자리보다 많으면 간격 때문에 뒤로 물러나는 대신 같은 자리를 함께 씁니다(가치가 같거나 높고 사단에서 더 멀지 않은 빈자리로 퍼지는 것은 그대로). 군 지역 안에 철도로 갈 수 있는 자리가 있으면 배를 타지 않고, 군사 통행권 국가 등의 철도로 지금 갈 수 있는 곳은 해상 대신 철도로 이동합니다. 해상 수송은 자기 나라·우방의 철도가 닿지 않는 곳(섬, 적에게 끊긴 고립 지역)으로 갈 때만 씁니다(바닐라와 같음). AI 열차포에도 똑같이 적용됩니다.\n게임 폴더의 railway_gun_land.txt 에서 enabled·log_level 로 조절하고, 막은 해상 수송은 railway_gun_land.log 의 [LAND] 줄, 남은 해상 수송은 [SEA] 줄, log_level = 2 면 열차포가 새 목표를 정한 이유는 [MOVE] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "railway_gun_land.txt"
+  ],
+  "cleanup": [
+    "railway_gun_land.log*",
+    "railway_gun_land.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Railway Guns Stay on Land",
+  "description_en": "Railway guns assigned to an army move on their own; this mod keeps them on the railway and spread along the front instead of taking convoys across the sea (where they are often sunk) or drifting to the rear. In vanilla a railway captured in the last days (up to 10, 5 on a core) cuts the railway network, so when the front advances the new front looks 'across the sea' and the gun sails there. With this mod a gun never sails to a place its railway reaches through railway still being captured: it goes to the best place it can reach by rail now (just before the captured stretch) and follows when the capture ends; a place the gun's own railway pathfinder can reach today (for example over the railway of a country it may pass) is reached by rail instead of by sea; and while any place of the army can be reached by rail, no sea transport is chosen. It also fixes a game bug where the second and later guns of an army saw fewer and fewer candidate places and finally stopped; keeps every gun within the area around the army's divisions (with many guns they used to push each other back toward the rear); and when there are more guns than places, lets guns share a place instead of moving back. Sea transport is still used for places no railway of yours or your allies reaches (islands, pockets cut off by the enemy), as in vanilla. Also applies to the AI.\nTune it with enabled and log_level in railway_gun_land.txt in the game folder; railway_gun_land.log shows [LAND] (sea routes dropped), [RAIL] (sea routes turned into rail moves), [SEA] (remaining sea transports) and, with log_level = 2, [MOVE] lines (why a gun picked a new place). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}

@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "a3abceb4ff4fe17c",
-  "generated": "2026-10-11T05:43:28Z",
+  "revision": "b727241ef9972d27",
+  "generated": "2026-10-11T10:38:00Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -531,6 +531,68 @@
           "path": "mods/loc_dup_fix_hoi4/files/version.dll",
           "sha256": "bf8f0106a2d05cbe06f0f0697205b558619919116e605a2e0b6ff05b952ab1ba",
           "size": 423936
+        }
+      ]
+    },
+    {
+      "id": "railway_gun_land_hoi4",
+      "name": "열차포 육로 우선 이동",
+      "name_en": "Railway Guns Stay on Land",
+      "version": "1.4 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/railway_gun_land_hoi4/mod.json",
+          "sha256": "4e674ff1b97afa1bfd2cb77d32d6a912c99c08dcb0223a6fd5780d52af43f631",
+          "size": 4324
+        },
+        {
+          "path": "mods/railway_gun_land_hoi4/files/version.dll",
+          "sha256": "43cf6887d4cb95cf52847f640a7a915946dd73392045cffd650db00a3beea875",
+          "size": 408576
+        }
+      ]
+    },
+    {
+      "id": "spearhead_reach_hoi4",
+      "name": "선봉선 끝까지 공격",
+      "name_en": "Spearhead Reaches the Drawn Line",
+      "version": "1.0 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/spearhead_reach_hoi4/mod.json",
+          "sha256": "13dd66459304cbd24510cd76c5bffeb64623303a5385c98039cfc19658cdb8a6",
+          "size": 2482
+        },
+        {
+          "path": "mods/spearhead_reach_hoi4/files/version.dll",
+          "sha256": "f44acfe7018e5e9e2371941ece383943d4b0e112eee26d8b50c3d5e2c8e5335c",
+          "size": 394752
+        }
+      ]
+    },
+    {
+      "id": "unlimited_mil_factories_hoi4",
+      "name": "군수공장 라인 제한 해제",
+      "name_en": "Unlimited Military Factories per Line",
+      "version": "1.0 (2026-10-11)",
+      "updated": "2026-10-11",
+      "files": [
+        {
+          "path": "mods/unlimited_mil_factories_hoi4/mod.json",
+          "sha256": "78e731c08166899c0577cc53d22129b711c722c3c5c0b3ba57d340abecd7ceac",
+          "size": 2572
+        },
+        {
+          "path": "mods/unlimited_mil_factories_hoi4/files/version.dll",
+          "sha256": "f5d8405f021c3d37808997a587df26e832c2153f478df900bcc48fe801e57aa7",
+          "size": 391168
+        },
+        {
+          "path": "mods/unlimited_mil_factories_hoi4/files/common/defines/zzz_unlimited_mil_factories.lua",
+          "sha256": "b1908c907bcd0c8da4490cd60a9d4bfcd8fa5b17eaf7caac5da6afc14daf1ffc",
+          "size": 628
         }
       ]
     }

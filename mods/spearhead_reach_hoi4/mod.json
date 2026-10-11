@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "spearhead_reach_hoi4",
+  "name": "선봉선 끝까지 공격",
+  "version": "1.0 (2026-10-11)",
+  "updated": "2026-10-11",
+  "author": "",
+  "description": "선봉선을 긋고 공격하면 부대가 선봉선 바로 앞 프로빈스까지만 점령하고 멈추던 것을, 선봉선을 그은 프로빈스까지 공격하게 합니다. 바닐라는 선봉 명령을 그릴 때 '현재 전선과 그은 선 사이' 프로빈스만 선봉 대상 목록에 넣고, 부대는 이웃 적 프로빈스가 이 목록에 있을 때만 공격하므로 그은 선 위 프로빈스는 공격하지 않습니다. 이 모드는 엔진이 목록을 만든 직후 그은 선의 프로빈스를 목록에 덧붙입니다(이미 있으면 건너뜀). 모드를 켠 뒤 새로 긋거나 고친 선봉 명령부터 적용되고, 목록은 저장 파일에 함께 저장됩니다. 공세선(일반 공격선)과 다른 명령은 바꾸지 않습니다. AI 의 선봉 명령에도 똑같이 적용됩니다.\n게임 폴더의 spearhead_reach.txt 에서 enabled·log_level 로 조절하고, 적용된 선봉 명령은 spearhead_reach.log 의 [REACH] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "spearhead_reach.txt"
+  ],
+  "cleanup": [
+    "spearhead_reach.log*",
+    "spearhead_reach.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Spearhead Reaches the Drawn Line",
+  "description_en": "When you draw a spearhead and attack, units used to stop one province short of the drawn line; with this mod they attack up to the provinces of the line you drew. In vanilla the spearhead's target list only holds the provinces between the current front and the drawn line, and units only attack a neighbouring enemy province on that list, so the line itself is never attacked. The mod adds the drawn line's provinces to the list right after the game builds it (skipping ones already there). It applies to spearheads drawn or changed after the mod is enabled, and the list is stored in the save. Offensive lines and other orders are unchanged. Also applies to the AI's spearheads.\nTune it with enabled and log_level in spearhead_reach.txt in the game folder and check it in spearhead_reach.log ([REACH] lines). Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+}
