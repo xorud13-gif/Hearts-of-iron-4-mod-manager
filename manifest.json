@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "3081aeb832ba27ef",
-  "generated": "2026-10-11T14:36:55Z",
+  "revision": "ddfcea9c7ed2f9c6",
+  "generated": "2026-10-12T17:21:57Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -91,13 +91,13 @@
       "id": "non_seperate_frontline_hoi4",
       "name": "전선 분리/증발 방지",
       "name_en": "Front Split / Vanish Guard",
-      "version": "통합 (2026-10-11.5)",
-      "updated": "2026-10-11",
+      "version": "통합 (2026-10-13.9)",
+      "updated": "2026-10-13",
       "files": [
         {
           "path": "mods/non_seperate_frontline_hoi4/mod.json",
-          "sha256": "36ca59307f4d0002677657aa2b83831d0149f5e7f4d1ea9598c87d07c1c37802",
-          "size": 3407
+          "sha256": "11c39e0607907f55903be3028c47e6d1d0b75a1261f50436c897d67a3efee959",
+          "size": 4445
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
@@ -106,8 +106,8 @@
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
-          "sha256": "b1895bbc91f69f59c48bb6c3e44186b1881406ab5d8e433b784a138c246af3cc",
-          "size": 644608
+          "sha256": "373a07b591fc2b4c2dc5b1b862461cdad935454ea20759a449b039d3d5e3bdcf",
+          "size": 672256
         }
       ]
     },
@@ -163,18 +163,18 @@
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
       "name_en": "Auto Trade",
-      "version": "0.5",
-      "updated": "2026-10-09",
+      "version": "0.5a",
+      "updated": "2026-10-13",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "b42d659db4faa85c28d837ac94a02ba8196eb0b77d85771aef83ff58bf14fc49",
-          "size": 2819
+          "sha256": "c35b5c77f2cd3cf00dee053703cc847134212f6445e9462c61ca991dbfd80e0b",
+          "size": 2820
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "f5e183db450ce014cd0897037808ee1b57c8bcd94f2683efa4af405726c0aeba",
-          "size": 475136
+          "sha256": "423f25837e4a1a54f6e893a72df27d92371e525ff97632269a19ca9199001aca",
+          "size": 476160
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
@@ -595,18 +595,18 @@
       "id": "spearhead_reach_hoi4",
       "name": "선봉선 끝까지 공격",
       "name_en": "Spearhead Reaches the Drawn Line",
-      "version": "1.0 (2026-10-11)",
-      "updated": "2026-10-11",
+      "version": "1.1 (2026-10-13)",
+      "updated": "2026-10-13",
       "files": [
         {
           "path": "mods/spearhead_reach_hoi4/mod.json",
-          "sha256": "13dd66459304cbd24510cd76c5bffeb64623303a5385c98039cfc19658cdb8a6",
-          "size": 2482
+          "sha256": "25e61fe0790c99b0734692ab8b4729ec399e88f3bab87620a27591b93616aba2",
+          "size": 3554
         },
         {
           "path": "mods/spearhead_reach_hoi4/files/version.dll",
-          "sha256": "f44acfe7018e5e9e2371941ece383943d4b0e112eee26d8b50c3d5e2c8e5335c",
-          "size": 394752
+          "sha256": "ec5e6681ceb0308b6ef114c2898a98574d0fbfb765cde163f4c2a5635b6a7a28",
+          "size": 423424
         }
       ]
     },
