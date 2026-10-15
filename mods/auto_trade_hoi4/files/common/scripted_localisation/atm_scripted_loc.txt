@@ -667,6 +667,7 @@ defined_text = {
 defined_text = {
 	name = atm_txt_fuelnote
 	text = { trigger = { check_variable = { atm_mode_oil = 2 } } localization_key = ATM_FUELNOTE_1 }
+	text = { trigger = { check_variable = { atm_mode_oil = 1 } } localization_key = ATM_FUELNOTE_2 }
 	text = { localization_key = ATM_FUELNOTE_0 }
 }
 

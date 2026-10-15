@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "ddfcea9c7ed2f9c6",
-  "generated": "2026-10-12T17:21:57Z",
+  "revision": "2a0f2eab1801c652",
+  "generated": "2026-10-15T22:32:19Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -163,18 +163,18 @@
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
       "name_en": "Auto Trade",
-      "version": "0.5a",
-      "updated": "2026-10-13",
+      "version": "0.6",
+      "updated": "2026-10-15",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "c35b5c77f2cd3cf00dee053703cc847134212f6445e9462c61ca991dbfd80e0b",
-          "size": 2820
+          "sha256": "8bfb95ae868226a47d13bc80e0c39effa02ad639650a87ce6a5a1e913a2cef42",
+          "size": 2819
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "423f25837e4a1a54f6e893a72df27d92371e525ff97632269a19ca9199001aca",
-          "size": 476160
+          "sha256": "8bba6b5d47b8a2cbaa5bd631bf5420d9221789f4df09f3185a4472c832015901",
+          "size": 477696
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
@@ -203,8 +203,8 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_localisation/atm_scripted_loc.txt",
-          "sha256": "c29d874b9f4c22316406989f3e1fc2c984eaa6757de1b2f1ec80a398af0e1b13",
-          "size": 40729
+          "sha256": "799a18571631e65f0deb328291382c121ffd70340939f921441aa8285de4d280",
+          "size": 40827
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/scripted_triggers/atm_triggers.txt",
@@ -218,8 +218,8 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/english/atm_l_english.yml",
-          "sha256": "c4f2e2853dbea2d290f0133f744831a34d9803571f0410118711897af77da298",
-          "size": 32617
+          "sha256": "f44ab0a5e3f4d688868d1aa2368a81e5d6699d19c068b47fa590bf30169425a9",
+          "size": 32947
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/english/mod_settings_l_english.yml",
@@ -228,8 +228,8 @@
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/korean/atm_l_korean.yml",
-          "sha256": "e8c6dd30747e57c953520562e53dc525b3e3f22509ba4d6f6f048a28528f30ac",
-          "size": 34639
+          "sha256": "a6ab1b73d61efbd1ab5a7c63a7c935b79511c7afa294c84a1b1ad50c2e2d369c",
+          "size": 34999
         },
         {
           "path": "mods/auto_trade_hoi4/files/localisation/korean/mod_settings_l_korean.yml",
@@ -655,6 +655,25 @@
           "path": "mods/mio_auto_assign_hoi4/files/common/on_actions/mioa_on_actions.txt",
           "sha256": "377266a45928bf2a5dfd06006ad09c185f3dafd045b1183da354574d49466ac4",
           "size": 622
+        }
+      ]
+    },
+    {
+      "id": "retreat_fix_hoi4",
+      "name": "패배 사단 후퇴 보장",
+      "name_en": "Defeated Divisions Retreat",
+      "version": "1.0 (2026-10-15)",
+      "updated": "2026-10-15",
+      "files": [
+        {
+          "path": "mods/retreat_fix_hoi4/mod.json",
+          "sha256": "dc4ee0686f4768b7568283b589f0dc152c59c35879f4fd30374d5eb6920c6132",
+          "size": 2422
+        },
+        {
+          "path": "mods/retreat_fix_hoi4/files/version.dll",
+          "sha256": "6cd9fece0d17fdcf3df23c4b2bff604adf8e32679f3f3659c79e2a081e3db42f",
+          "size": 395264
         }
       ]
     }
