@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "2a0f2eab1801c652",
-  "generated": "2026-10-15T22:32:19Z",
+  "revision": "fdebaca592fa7afa",
+  "generated": "2026-10-16T14:50:49Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -433,13 +433,13 @@
       "id": "faction_front_hoi4",
       "name": "평시 세력 단일 전선",
       "name_en": "Single Faction Front in Peacetime",
-      "version": "1.1 (2026-10-09)",
-      "updated": "2026-10-11",
+      "version": "1.2 (2026-10-16)",
+      "updated": "2026-10-16",
       "files": [
         {
           "path": "mods/faction_front_hoi4/mod.json",
-          "sha256": "11329075cd46f912032aa12cb3709d5782f781ea30c3ee079c58173b52766ac3",
-          "size": 3409
+          "sha256": "81090bc83ad1eb9f716aafff4ddd74699e4780dadd0f2e63c7576778feeb23d1",
+          "size": 4142
         },
         {
           "path": "mods/faction_front_hoi4/files/faction_front.txt",
@@ -448,8 +448,8 @@
         },
         {
           "path": "mods/faction_front_hoi4/files/version.dll",
-          "sha256": "4c58e03efb9f15b3afe56adcc210bb2f4dc85311382560cd88f0c7bb6126910d",
-          "size": 398848
+          "sha256": "bca02d55e0c52ec134fbb670ea9efda1f7b60d3715c4f6e290c2f6e6068e7141",
+          "size": 402944
         }
       ]
     },
