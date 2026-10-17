@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "aa528e0f2515a708",
-  "generated": "2026-10-17T04:39:44Z",
+  "revision": "afd9690fd0d4a4e0",
+  "generated": "2026-10-17T04:42:41Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -595,18 +595,18 @@
       "id": "spearhead_reach_hoi4",
       "name": "선봉선 끝까지 공격",
       "name_en": "Spearhead Reaches the Drawn Line",
-      "version": "1.1 (2026-10-13)",
-      "updated": "2026-10-13",
+      "version": "1.2 (2026-10-17)",
+      "updated": "2026-10-17",
       "files": [
         {
           "path": "mods/spearhead_reach_hoi4/mod.json",
-          "sha256": "25e61fe0790c99b0734692ab8b4729ec399e88f3bab87620a27591b93616aba2",
-          "size": 3554
+          "sha256": "94ee853531a1c6c2efa2bb5098ec5c9f14c25bb9d7504daf11d38d4354616fdb",
+          "size": 4334
         },
         {
           "path": "mods/spearhead_reach_hoi4/files/version.dll",
-          "sha256": "ec5e6681ceb0308b6ef114c2898a98574d0fbfb765cde163f4c2a5635b6a7a28",
-          "size": 423424
+          "sha256": "7f3ac1bc2ec7b639981805f429278b36eefbe9bacd8c62cc838065aa9d52e71f",
+          "size": 424960
         }
       ]
     },
