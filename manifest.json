@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "afd9690fd0d4a4e0",
-  "generated": "2026-10-17T04:42:41Z",
+  "revision": "bbaaf79ad58e7fec",
+  "generated": "2026-10-20T07:12:20Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -18,18 +18,18 @@
       "id": "auto_ace_pilot_hoi4",
       "name": "에이스 조종사 자동 배치",
       "name_en": "Auto Ace Pilot Assignment",
-      "version": "2.4",
-      "updated": "2026-10-09",
+      "version": "2.5",
+      "updated": "2026-10-18",
       "files": [
         {
           "path": "mods/auto_ace_pilot_hoi4/mod.json",
-          "sha256": "60d0689ebc83ce9249d331a274f5ebe5a48370cd86b0870f853f7ab29a6fb003",
-          "size": 1649
+          "sha256": "27f8c3ccb1b02587a92a2423440ac295622642972ee7a94fabdb6df626781924",
+          "size": 1763
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
-          "sha256": "5ea4ceab99c68d9e92f0b888b2b72f552ddc65319f5ec2745550bcb1836cfa9e",
-          "size": 316416
+          "sha256": "748b4b63f79b454b146025a369b007a323b0da762c32cd3554e783e6a45e3feb",
+          "size": 317952
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/common/decisions/ace_auto_assign_decisions.txt",
@@ -91,13 +91,13 @@
       "id": "non_seperate_frontline_hoi4",
       "name": "전선 분리/증발 방지",
       "name_en": "Front Split / Vanish Guard",
-      "version": "통합 (2026-10-13.9)",
-      "updated": "2026-10-13",
+      "version": "통합 (2026-10-18.1)",
+      "updated": "2026-10-18",
       "files": [
         {
           "path": "mods/non_seperate_frontline_hoi4/mod.json",
-          "sha256": "11c39e0607907f55903be3028c47e6d1d0b75a1261f50436c897d67a3efee959",
-          "size": 4445
+          "sha256": "e0b3e27f703af31ccb433f2d4590a2cc346731b9c0baf59c61c4175cc48f49c1",
+          "size": 4656
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
@@ -106,8 +106,8 @@
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
-          "sha256": "373a07b591fc2b4c2dc5b1b862461cdad935454ea20759a449b039d3d5e3bdcf",
-          "size": 672256
+          "sha256": "f1d51a3cfd8be8d1890052b32f4af26a58369ab98a25d6b14d68528d94f95a0b",
+          "size": 675840
         }
       ]
     },
@@ -538,18 +538,18 @@
       "id": "split_nearest_hoi4",
       "name": "전선 분리 때 가까운 사단 배정",
       "name_en": "Nearest Divisions on Front Split",
-      "version": "1.1 (2026-10-11)",
-      "updated": "2026-10-11",
+      "version": "1.2 (2026-10-18)",
+      "updated": "2026-10-18",
       "files": [
         {
           "path": "mods/split_nearest_hoi4/mod.json",
-          "sha256": "16f5dc1b026b74c8e4e0ffbd185bb056b4d468def5449219457b603879a048a5",
-          "size": 3130
+          "sha256": "e1161cd2ff6b5974e918f6ba0d1ca4dd6b66c8aa0a87bc5a1bafacac993004bc",
+          "size": 3412
         },
         {
           "path": "mods/split_nearest_hoi4/files/version.dll",
-          "sha256": "fa1213345d91b5604cafd0899adf136cc7cc3173e6b99d48923d354ea09d3dbc",
-          "size": 414208
+          "sha256": "f5724ecffb393811437836f80d580b8f0ad5b0c7f022ceb1366b098bd4bc1b4e",
+          "size": 428032
         }
       ]
     },
@@ -674,6 +674,55 @@
           "path": "mods/retreat_fix_hoi4/files/version.dll",
           "sha256": "6cd9fece0d17fdcf3df23c4b2bff604adf8e32679f3f3659c79e2a081e3db42f",
           "size": 395264
+        }
+      ]
+    },
+    {
+      "id": "split_ten_hoi4",
+      "name": "10분할 버튼 (해군·항공)",
+      "name_en": "Split into Ten (Navy and Air)",
+      "version": "1.1 (2026-10-20)",
+      "updated": "2026-10-20",
+      "files": [
+        {
+          "path": "mods/split_ten_hoi4/mod.json",
+          "sha256": "4621ebf896327ba1d54e079f1e45aba49261ec348d9b206c7fce05ef157a4b2d",
+          "size": 4002
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/version.dll",
+          "sha256": "ad74fffc535ae84514776ecf132372a5bda1e5fc4dd83b9486f34639237371cc",
+          "size": 403456
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/gfx/interface/naviesview/btn_split_in_ten.dds",
+          "sha256": "51f0a59e918bdfc3e09fe682e15ac9674fd1fff6c03c7f8c0f43c6b1937c431d",
+          "size": 5108
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/interface/airselectionview.gui",
+          "sha256": "2c4262bc7f2095d9faa21ebee886d671ab5490a165daadea17e9c460289ec715",
+          "size": 39494
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/interface/naviesview.gui",
+          "sha256": "76db7f818620a0aa1753be333aee7d605e67ecb13bffae26c6866d735abb3ee9",
+          "size": 63438
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/interface/split_ten.gfx",
+          "sha256": "f20bea1cacbc4140c4dc65d6c75784a7963270a3dbeb8f0059c97dc42a718004",
+          "size": 228
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/localisation/english/split_ten_l_english.yml",
+          "sha256": "74d3b55be44470f1169fbd08954da8573330cd64494bd94230f9e6514fb2938e",
+          "size": 294
+        },
+        {
+          "path": "mods/split_ten_hoi4/files/localisation/korean/split_ten_l_korean.yml",
+          "sha256": "d1e93a8e7173a2c37702e4cbd45eb2dda18514de706f1172407ebe90ad509b45",
+          "size": 316
         }
       ]
     }

@@ -1,0 +1,7 @@
+spriteTypes = {
+	# split_ten_hoi4: the split-into-10 button in the navy tool bar (interface/naviesview.gui)
+	spriteType = {
+		name = "GFX_NV_btn_split_in_ten"
+		texturefile = "gfx/interface/naviesview/btn_split_in_ten.dds"
+	}
+}
