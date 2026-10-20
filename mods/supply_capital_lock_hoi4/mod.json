@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "supply_capital_lock_hoi4",
+  "name": "보급 사령부 수도 고정",
+  "version": "1.0 (2026-10-20)",
+  "updated": "2026-10-20",
+  "author": "",
+  "description": "보급 사령부가 고립되면(사령부에서 보급이 닿는 프로빈스가 4개 미만) 게임 엔진이 명령 없이 사령부를 다른 곳으로 옮깁니다. 진영 탈퇴로 동반국 땅의 철도를 못 쓰게 됐을 때가 대표적입니다. 이 모드는 그 자동 이전을 모든 나라에서 막아, 보급 사령부가 항상 수도(수도 주의 보급 중심지)에 머물게 합니다. 플레이어가 직접 옮긴 사령부는 그대로 둡니다.\n모드를 켠 채 게임하는 중에 엔진이 이미 옮겨 둔 사령부는 다음 보급 갱신 때 수도로 돌아갑니다. 하지만 모드 없이 사령부가 옮겨진 채 저장된 세이브에서는 게임이 그 기록을 저장하지 않아 직접 옮긴 것과 구별되지 않으므로, 그 자리에 그대로 남습니다 — 이때는 사령부를 수도로 한 번 직접 옮겨 주세요.\n주의: 수도가 실제로 고립되면 나라 대부분이 보급을 못 받습니다(엔진이 원래 피하려던 상황).\n게임 폴더의 supply_capital_lock.txt 에서 enabled 로 끌 수 있습니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "native_dll": "version.dll",
+  "files": [],
+  "config_files": [
+    "supply_capital_lock.txt"
+  ],
+  "cleanup": [
+    "supply_capital_lock.log*",
+    "supply_capital_lock.txt.tmp"
+  ],
+  "conflicts": [],
+  "name_en": "Supply HQ Stays in the Capital",
+  "description_en": "When the supply HQ is cut off (supply from it reaches fewer than 4 provinces), the game engine moves the HQ somewhere else without any order. A typical case is leaving a faction, so the railways through the former partners' land can no longer be used. This mod stops that automatic move for every country, so the supply HQ always stays in the capital (the supply hub of the capital state). An HQ you moved yourself stays where you put it.\nAn HQ the engine already moved while you play with the mod goes back to the capital on the next supply update. In a save where the HQ had been moved without the mod, the game does not save that record, so it cannot be told apart from a move of your own and stays where it is - move the HQ back to the capital yourself once.\nNote: if the capital itself is really cut off, most of the country gets no supply (the situation the engine tried to avoid).\nIt can be turned off with enabled in supply_capital_lock.txt in the game folder. For hoi4.exe v1.19.3.0.c01a only - with another game version nothing is installed and the game runs vanilla."
+}

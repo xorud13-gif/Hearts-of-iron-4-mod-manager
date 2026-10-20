@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "bbaaf79ad58e7fec",
-  "generated": "2026-10-20T07:12:20Z",
+  "revision": "49f6ea1133ae7c8c",
+  "generated": "2026-10-20T10:23:08Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -723,6 +723,25 @@
           "path": "mods/split_ten_hoi4/files/localisation/korean/split_ten_l_korean.yml",
           "sha256": "d1e93a8e7173a2c37702e4cbd45eb2dda18514de706f1172407ebe90ad509b45",
           "size": 316
+        }
+      ]
+    },
+    {
+      "id": "supply_capital_lock_hoi4",
+      "name": "보급 사령부 수도 고정",
+      "name_en": "Supply HQ Stays in the Capital",
+      "version": "1.0 (2026-10-20)",
+      "updated": "2026-10-20",
+      "files": [
+        {
+          "path": "mods/supply_capital_lock_hoi4/mod.json",
+          "sha256": "b47f3eacc28d16c51163ab9c922eee2dd5d997470bf876ed6e1ae2556dbbec41",
+          "size": 2761
+        },
+        {
+          "path": "mods/supply_capital_lock_hoi4/files/version.dll",
+          "sha256": "d5fa38a805c071b51f6d1150faf98dd249518208556e9831eb658701682a261d",
+          "size": 389120
         }
       ]
     }
