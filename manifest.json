@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "4ba2d2e54387dcb8",
-  "generated": "2026-10-26T18:22:06Z",
+  "revision": "a33fc889c6b446d2",
+  "generated": "2026-10-28T18:42:14Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -19,16 +19,16 @@
       "name": "에이스 조종사 자동 배치",
       "name_en": "Auto Ace Pilot Assignment",
       "version": "2.5",
-      "updated": "2026-10-18",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/auto_ace_pilot_hoi4/mod.json",
-          "sha256": "27f8c3ccb1b02587a92a2423440ac295622642972ee7a94fabdb6df626781924",
+          "sha256": "cb742daaf20237593a44be5b18b51b89b471d1211bbe45ca2323850678363d12",
           "size": 1763
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
-          "sha256": "748b4b63f79b454b146025a369b007a323b0da762c32cd3554e783e6a45e3feb",
+          "sha256": "665ea9726caa9893bc8ef61bd135c13dd353993cd0ba9d7cc26550c3712b944d",
           "size": 317952
         },
         {
@@ -72,18 +72,18 @@
       "id": "manual_frontline_hoi4",
       "name": "수동 정밀 전선 드래그",
       "name_en": "Manual Precision Front Drag",
-      "version": "1.0",
-      "updated": "2026-10-08",
+      "version": "1.1",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/manual_frontline_hoi4/mod.json",
-          "sha256": "9956c2fb6605374b92c91c5690cc22f1cd0456aa4dd0c89a0db9db7a99d98ae1",
+          "sha256": "32f3b73ce486ebc1ff80701922ac917b36b914ee669ac9ef34077930010414f8",
           "size": 1018
         },
         {
           "path": "mods/manual_frontline_hoi4/files/version.dll",
-          "sha256": "81437420303b51f0986be7db96418e76b8568c05ac6d9b2e320f1dd5581efdea",
-          "size": 357376
+          "sha256": "0919cb6c6138730671e9188d89b904ab56510fbcf539ed972e0e5c3ac7821dfe",
+          "size": 366592
         }
       ]
     },
@@ -91,13 +91,13 @@
       "id": "non_seperate_frontline_hoi4",
       "name": "전선 분리/증발 방지",
       "name_en": "Front Split / Vanish Guard",
-      "version": "통합 (2026-10-18.1)",
-      "updated": "2026-10-18",
+      "version": "통합 (2026-10-25.1)",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/non_seperate_frontline_hoi4/mod.json",
-          "sha256": "e0b3e27f703af31ccb433f2d4590a2cc346731b9c0baf59c61c4175cc48f49c1",
-          "size": 4656
+          "sha256": "0dbb7054164b231b654e046995472e3ee34b337230ab05fc815e7c1e0644ab97",
+          "size": 4936
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
@@ -106,8 +106,8 @@
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
-          "sha256": "f1d51a3cfd8be8d1890052b32f4af26a58369ab98a25d6b14d68528d94f95a0b",
-          "size": 675840
+          "sha256": "29d3b8b7adf8a8fbb6d622166a1c0dea8f3eeb304a8c6b863ee29a2027e30a19",
+          "size": 683520
         }
       ]
     },
@@ -116,11 +116,11 @@
       "name": "비행단 에이스 생성 확장",
       "name_en": "Air Wing Ace Generation Expansion",
       "version": "2.0 (2026-10-04)",
-      "updated": "2026-10-08",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/cas_ace_hoi4/mod.json",
-          "sha256": "43c5ffaeb5ea8deb9868ec165737cf1a4764fb25a01423d666e08599d09ed224",
+          "sha256": "b61176198772c43bced15ffe758e1aebe3fa649bee8905d6d54965f824bfcc2b",
           "size": 1908
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "path": "mods/cas_ace_hoi4/files/version.dll",
-          "sha256": "f45167cd4475041b2061ebe529655e21cd617f308139b098e012f7ed3a655012",
+          "sha256": "f0bbbb3e6dc357210bba43137975ada729b9999878216f6727f33f679f9bb73e",
           "size": 439808
         }
       ]
@@ -140,11 +140,11 @@
       "name": "병참 타격 아군 피해 방지",
       "name_en": "Logistics Strike Friendly-Fire Guard",
       "version": "1.2.1 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/logistics_guard_hoi4/mod.json",
-          "sha256": "f8af5e346847e2d852ba4414e0d51e917521f64fb02a940ceb2e4162fbf79360",
+          "sha256": "06d0e7738249c384ab78f0da0ba8b8f3e31f5a0b127eee3a0d09bf5159d0e9d9",
           "size": 3252
         },
         {
@@ -154,7 +154,7 @@
         },
         {
           "path": "mods/logistics_guard_hoi4/files/version.dll",
-          "sha256": "8d84988e21452766aaa788d789676da99d1b2f9615205ecb39be615f9e27a973",
+          "sha256": "d1166b410c2d17d4bfdad709956d4e5058095da794468c2b49364bcbf912cdfe",
           "size": 411136
         }
       ]
@@ -164,17 +164,17 @@
       "name": "자동 무역",
       "name_en": "Auto Trade",
       "version": "0.6c",
-      "updated": "2026-10-17",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "c5c7f8b0261e2301e86c76d4ded76af7ff006206036dd1e00966645ab2497913",
+          "sha256": "ce2dea4990a37c6dc22863f3fecd28a01c2162bb644189c984cee5bef96c36ed",
           "size": 2820
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "83b00cbadb968bdf0acbbbd18b5697ac7bb2cc5c4508c22f57ddcded68c4f809",
-          "size": 482304
+          "sha256": "25be1d898053fc9e51824db0b00e8fd6c30c01154f7152503ec2b9f70c587599",
+          "size": 482816
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
@@ -243,16 +243,16 @@
       "name": "자동 훈장 부여",
       "name_en": "Auto Medal Award",
       "version": "0.4 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "629da8d87a3516377af2f2862aaa9d8a4f55b04212da5159dab9cf96d7259563",
+          "sha256": "c5ebd7f13f5cbf4e6ce40be94aa5fa7768c84d67fb822c5b719d948e9075873c",
           "size": 3214
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
-          "sha256": "e3ba397226391ca0c743a37c138210937f9b47664ee46236f88edd31c50f0d0b",
+          "sha256": "607c574a5d8c5fe99f2313d97b9f09ba741f163552627ada325a8d2b76304612",
           "size": 461312
         },
         {
@@ -317,11 +317,11 @@
       "name": "종속국 합병 건설 정지 수정",
       "name_en": "Subject Annexation Construction Fix",
       "version": "1.0 (2026-10-06)",
-      "updated": "2026-10-08",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/subject_build_fix_hoi4/mod.json",
-          "sha256": "e2ef40dfac752cf21178688b5e9110a34a441fa13689d8d9aa3f109cdb0070cc",
+          "sha256": "7568f430607f1b629886c84e16be5ed5da61f7de654f50e0a5f1c9cbcf5557f2",
           "size": 2254
         },
         {
@@ -331,8 +331,8 @@
         },
         {
           "path": "mods/subject_build_fix_hoi4/files/version.dll",
-          "sha256": "082efa17636d9ddd3c41f4b4c5ce5a1669e41b41037f96f0cd3c212ade57b3d0",
-          "size": 395776
+          "sha256": "e9322a6b500f177c04684c4ef9b320943ad1a4e28f05cc8bfbb39afac82b2287",
+          "size": 397312
         }
       ]
     },
@@ -341,11 +341,11 @@
       "name": "국경 분쟁 무전투 패배 방지",
       "name_en": "Border Conflict No-Combat Defeat Guard",
       "version": "1.2 (2026-10-07)",
-      "updated": "2026-10-08",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/border_war_guard_hoi4/mod.json",
-          "sha256": "786fd8867f4bf884533247bc7e91e1c5b34d4aa05f1e601eeddf57867f71d635",
+          "sha256": "07d575cebb2843b38d5f94804f6d62e89c3725511a407443a4b01b3b750422da",
           "size": 2619
         },
         {
@@ -355,7 +355,7 @@
         },
         {
           "path": "mods/border_war_guard_hoi4/files/version.dll",
-          "sha256": "78d12a64313bb95546a4802d1c7f0756d30d0b6acc51c2f56865ce5f31b2032b",
+          "sha256": "52e941a0172eb91a6adc673389562d82ea5fb39c7f61f0033623a4584f75d768",
           "size": 403968
         }
       ]
@@ -365,16 +365,16 @@
       "name": "국경 분쟁 전문 지휘관",
       "name_en": "Border Conflict Commander",
       "version": "1.0 (2026-10-08)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/border_war_commander_hoi4/mod.json",
-          "sha256": "8380f5fa18645eedead3a11c28462004b062a9234d8cc3ddb0b89095c0e0597b",
+          "sha256": "45055bceb93e302361d64635a9b8065b0e0cc8366ecc6685bce520ab4dd4b409",
           "size": 3312
         },
         {
           "path": "mods/border_war_commander_hoi4/files/version.dll",
-          "sha256": "ee355df9c41526101d817cb09ef5a235f8688a769c1bcbd112f5fbe3ca213dee",
+          "sha256": "8c94f2b8cf3dca935f2d33151f576940ca29c05c10e47d46866f1a2004adc4db",
           "size": 399872
         },
         {
@@ -434,11 +434,11 @@
       "name": "평시 세력 단일 전선",
       "name_en": "Single Faction Front in Peacetime",
       "version": "1.2 (2026-10-16)",
-      "updated": "2026-10-16",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/faction_front_hoi4/mod.json",
-          "sha256": "81090bc83ad1eb9f716aafff4ddd74699e4780dadd0f2e63c7576778feeb23d1",
+          "sha256": "603069b2e80bc7b81a564a953c0cd8a02a3257601f396dfb0f7ae02270565eeb",
           "size": 4142
         },
         {
@@ -448,7 +448,7 @@
         },
         {
           "path": "mods/faction_front_hoi4/files/version.dll",
-          "sha256": "bca02d55e0c52ec134fbb670ea9efda1f7b60d3715c4f6e290c2f6e6068e7141",
+          "sha256": "f4f49b056d986b56aad06f9920715906b21f6e045aaaa8db9909f5b66f23a414",
           "size": 402944
         }
       ]
@@ -458,16 +458,16 @@
       "name": "정당 지지도 툴팁 출처 표시",
       "name_en": "Party Popularity Tooltip Sources",
       "version": "1.0 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/party_popularity_tooltip_hoi4/mod.json",
-          "sha256": "8622160f0b84e39f4a1df3ee50bcc39c259c05b3bd13f61e5497581fa2e3d20d",
+          "sha256": "e677c7ad29097e0894dfe6816e69bbbd109d5b505141e93aac909a49168761c6",
           "size": 2377
         },
         {
           "path": "mods/party_popularity_tooltip_hoi4/files/version.dll",
-          "sha256": "ae53fa33c50e7fe9d82b8da8709de09252dedcac6926720da1ad21e323ee1ca0",
+          "sha256": "1cb90610705bedde7ef9127cf796d0908ce1b4f4782125cee27838fde7c1b03b",
           "size": 393216
         }
       ]
@@ -477,11 +477,11 @@
       "name": "철도 레벨 단계별 건설",
       "name_en": "Level-by-Level Railway Construction",
       "version": "1.0 (2026-10-09)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/railway_step_hoi4/mod.json",
-          "sha256": "bc9d7b1d3659469cd434cb5804e3da9462acc59ee00fbad95ee53cf61ed25bc1",
+          "sha256": "9c915bff86d3696ea7277a3e31d4f301953a1b5186d4486a6735b72dadff70ba",
           "size": 2801
         },
         {
@@ -491,7 +491,7 @@
         },
         {
           "path": "mods/railway_step_hoi4/files/version.dll",
-          "sha256": "5cba1667d626316594084ffe0b332ef37ce143b57e7204c95586e6425bf8e3d7",
+          "sha256": "270f98f54711f7bf29f8b91077f91b7eb868ed821ffe9a57a3ae5204b5120297",
           "size": 390656
         }
       ]
@@ -501,16 +501,16 @@
       "name": "핵심주 저항·순응 즉시 정리",
       "name_en": "Core State Resistance Clear",
       "version": "1.0 (2026-10-09)",
-      "updated": "2026-10-09",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/core_resistance_clear_hoi4/mod.json",
-          "sha256": "681ff822bb8fd122604f099252ce4462b12d6297891f13eaabcd31e627a0be9c",
+          "sha256": "7cfaa5c8ce3f710ccf2018a6237473247626287f7b9938af5f2c6f8bef2e07b9",
           "size": 2558
         },
         {
           "path": "mods/core_resistance_clear_hoi4/files/version.dll",
-          "sha256": "471a5562bc42b0a5ee5d162540a46f399cfb3651e54c2ece36e43fc01f82131c",
+          "sha256": "41211cf3471a2f9cb782a60c5009c2565c5565246a0dda816ac738ba9b095671",
           "size": 392704
         }
       ]
@@ -520,17 +520,17 @@
       "name": "참전 요청 수락 후 미참전 수정",
       "name_en": "Call to Arms Fix",
       "version": "0.3 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/call_to_arms_fix_hoi4/mod.json",
-          "sha256": "bdc2f8f4b1ed1d6548cd3f435af9e182d2ecb6c2f50a67f5618c82d45a559b1a",
+          "sha256": "cf81b619dc0d8dc75c3814db6ceee64dee2f973b6bf4f62543b5e8ffa75107bc",
           "size": 3109
         },
         {
           "path": "mods/call_to_arms_fix_hoi4/files/version.dll",
-          "sha256": "80af92d411e803575ef88c913e92402408a31cd52acd23cf64dcae163a26c788",
-          "size": 399360
+          "sha256": "096aa4540befaf02f784b95091bd23a1effd3a827e45ddac2be6a05e5e788a42",
+          "size": 401408
         }
       ]
     },
@@ -539,16 +539,16 @@
       "name": "전선 분리 때 가까운 사단 배정",
       "name_en": "Nearest Divisions on Front Split",
       "version": "1.2 (2026-10-18)",
-      "updated": "2026-10-18",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/split_nearest_hoi4/mod.json",
-          "sha256": "e1161cd2ff6b5974e918f6ba0d1ca4dd6b66c8aa0a87bc5a1bafacac993004bc",
+          "sha256": "8e948701429d850fb99b0c64c9b6b33b48e4454e4ebc79988a92de24c24c9808",
           "size": 3412
         },
         {
           "path": "mods/split_nearest_hoi4/files/version.dll",
-          "sha256": "f5724ecffb393811437836f80d580b8f0ad5b0c7f022ceb1366b098bd4bc1b4e",
+          "sha256": "161d21c494786f9a9245b0607366896201e1d5c9e84b272aaa9d375f7d8f5b98",
           "size": 428032
         }
       ]
@@ -558,16 +558,16 @@
       "name": "번역 중복 키 바로잡기",
       "name_en": "Translation Duplicate Key Fix",
       "version": "1.0 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/loc_dup_fix_hoi4/mod.json",
-          "sha256": "41fe050771c556d6b769cdaaf39c595c0feb2a45eb4bf5c1d577179b22d1f30d",
+          "sha256": "a198c0f8f304aad880d684dc6b4035afd7403c2bec5e5f4bf2c0d548ecd08879",
           "size": 2588
         },
         {
           "path": "mods/loc_dup_fix_hoi4/files/version.dll",
-          "sha256": "bf8f0106a2d05cbe06f0f0697205b558619919116e605a2e0b6ff05b952ab1ba",
+          "sha256": "3132a1e50aa78b9c553e8ee853ac5d152e8479ce76763a9a336ee64e3de458d2",
           "size": 423936
         }
       ]
@@ -577,16 +577,16 @@
       "name": "열차포 육로 우선 이동",
       "name_en": "Railway Guns Stay on Land",
       "version": "1.4 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/railway_gun_land_hoi4/mod.json",
-          "sha256": "4e674ff1b97afa1bfd2cb77d32d6a912c99c08dcb0223a6fd5780d52af43f631",
+          "sha256": "993a7b2f60e98c0f23619baa9a385ec903ec52103940e81b72a3e36bc781067e",
           "size": 4324
         },
         {
           "path": "mods/railway_gun_land_hoi4/files/version.dll",
-          "sha256": "43cf6887d4cb95cf52847f640a7a915946dd73392045cffd650db00a3beea875",
+          "sha256": "8fbca47ddff142e34255fac632e30ba5eff91bd3a9ab3a74af1a8ca492698661",
           "size": 408576
         }
       ]
@@ -596,16 +596,16 @@
       "name": "선봉선 끝까지 공격",
       "name_en": "Spearhead Reaches the Drawn Line",
       "version": "1.4 (2026-10-27)",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/spearhead_reach_hoi4/mod.json",
-          "sha256": "c18f671a2a4b5aa042759b514ba26a7214ff287762c83f31d7467242ea0f2097",
+          "sha256": "8214e602ec65ff1b3380b814f1e4f128e3cbc4e76b7f22412b3b619402adb68e",
           "size": 3103
         },
         {
           "path": "mods/spearhead_reach_hoi4/files/version.dll",
-          "sha256": "f9c03e91e0e3401915e2e8a47b83905837ae1259072f9013627fd69e38b8de4c",
+          "sha256": "8d993a1543931b7b2a457ed87b954f8737bd9adb9b7a946e583ebf44062e55ba",
           "size": 395264
         }
       ]
@@ -615,16 +615,16 @@
       "name": "군수공장 라인 제한 해제",
       "name_en": "Unlimited Military Factories per Line",
       "version": "1.0 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/unlimited_mil_factories_hoi4/mod.json",
-          "sha256": "78e731c08166899c0577cc53d22129b711c722c3c5c0b3ba57d340abecd7ceac",
+          "sha256": "a57fc29f002a2513b89a26f60bb3c16b289e119aecdb43b3105cb86c6fe63c3f",
           "size": 2572
         },
         {
           "path": "mods/unlimited_mil_factories_hoi4/files/version.dll",
-          "sha256": "f5d8405f021c3d37808997a587df26e832c2153f478df900bcc48fe801e57aa7",
+          "sha256": "82395db87c390ed12091763d82549338bbde8e58063caf9cd35df1479de143aa",
           "size": 391168
         },
         {
@@ -639,16 +639,16 @@
       "name": "설계사 자동 배정",
       "name_en": "MIO Auto Assign",
       "version": "1.3 (2026-10-11)",
-      "updated": "2026-10-11",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/mio_auto_assign_hoi4/mod.json",
-          "sha256": "ab9833255dc832c98e1a4191e4284115f2efd7706e518efd1fadf82c4d589f62",
+          "sha256": "e679198244d5fcfff1c8c2db9e0af76bf715a6f3acfe4fb927113db931f1d34f",
           "size": 3301
         },
         {
           "path": "mods/mio_auto_assign_hoi4/files/version.dll",
-          "sha256": "ee057110d271b5529ef5e8d0b8c5d2fd8f60fbea21289212b85bf76e6d2473bb",
+          "sha256": "41354ca0a0d539e1489641f9ea9c765cb0b3863ca89b4eb8d37aa6f227e01bfa",
           "size": 423936
         },
         {
@@ -663,16 +663,16 @@
       "name": "패배 사단 후퇴 보장",
       "name_en": "Defeated Divisions Retreat",
       "version": "1.0 (2026-10-15)",
-      "updated": "2026-10-15",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/retreat_fix_hoi4/mod.json",
-          "sha256": "dc4ee0686f4768b7568283b589f0dc152c59c35879f4fd30374d5eb6920c6132",
+          "sha256": "bcafda90a8245bcd95da2c17573f2194ef043c8fc3e9383eedfe67a2c6d6c3fa",
           "size": 2422
         },
         {
           "path": "mods/retreat_fix_hoi4/files/version.dll",
-          "sha256": "6cd9fece0d17fdcf3df23c4b2bff604adf8e32679f3f3659c79e2a081e3db42f",
+          "sha256": "432713e700ced95c8867338c23511c79de79bd13bf28c70affa1f5c0aee24a80",
           "size": 395264
         }
       ]
@@ -682,16 +682,16 @@
       "name": "10분할 버튼 (해군·항공)",
       "name_en": "Split into Ten (Navy and Air)",
       "version": "1.1 (2026-10-20)",
-      "updated": "2026-10-20",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/split_ten_hoi4/mod.json",
-          "sha256": "4621ebf896327ba1d54e079f1e45aba49261ec348d9b206c7fce05ef157a4b2d",
+          "sha256": "882d62edc37ffce0074ae1fa192b03ed3426b1472ac66f1bd3cbaf63d5d3f075",
           "size": 4002
         },
         {
           "path": "mods/split_ten_hoi4/files/version.dll",
-          "sha256": "ad74fffc535ae84514776ecf132372a5bda1e5fc4dd83b9486f34639237371cc",
+          "sha256": "5e4bc6f5c2a208ac8368578f30e00d1af358f48c2ef4ce18bc580785b471bdb7",
           "size": 403456
         },
         {
@@ -701,13 +701,13 @@
         },
         {
           "path": "mods/split_ten_hoi4/files/interface/airselectionview.gui",
-          "sha256": "2c4262bc7f2095d9faa21ebee886d671ab5490a165daadea17e9c460289ec715",
-          "size": 39494
+          "sha256": "d074c3f06914eb22af062d60bcaa3efa8dcb920c42fb2b08469a2f5b64148d09",
+          "size": 39544
         },
         {
           "path": "mods/split_ten_hoi4/files/interface/naviesview.gui",
-          "sha256": "76db7f818620a0aa1753be333aee7d605e67ecb13bffae26c6866d735abb3ee9",
-          "size": 63438
+          "sha256": "059b3fbdb4854a51730c7f30f6fee5e0e0826987553166de26b083d7a653a5c8",
+          "size": 66876
         },
         {
           "path": "mods/split_ten_hoi4/files/interface/split_ten.gfx",
@@ -731,16 +731,16 @@
       "name": "보급 사령부 수도 고정",
       "name_en": "Supply HQ Stays in the Capital",
       "version": "1.0 (2026-10-20)",
-      "updated": "2026-10-20",
+      "updated": "2026-10-29",
       "files": [
         {
           "path": "mods/supply_capital_lock_hoi4/mod.json",
-          "sha256": "b47f3eacc28d16c51163ab9c922eee2dd5d997470bf876ed6e1ae2556dbbec41",
+          "sha256": "89928e3e69f4e692bc4f09a7bd9a202dc87f2d4cf2f95b26104ef5e87d604018",
           "size": 2761
         },
         {
           "path": "mods/supply_capital_lock_hoi4/files/version.dll",
-          "sha256": "d5fa38a805c071b51f6d1150faf98dd249518208556e9831eb658701682a261d",
+          "sha256": "165f9d89a5eaba8c9841e3e436c9465fbeaaadf1e6cf95dc17e626090a64d546",
           "size": 389120
         }
       ]

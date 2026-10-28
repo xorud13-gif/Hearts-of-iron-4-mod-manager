@@ -3,7 +3,7 @@
   "id": "loc_dup_fix_hoi4",
   "name": "번역 중복 키 바로잡기",
   "version": "1.0 (2026-10-11)",
-  "updated": "2026-10-11",
+  "updated": "2026-10-29",
   "author": "",
   "description": "번역 모드가 같은 키를 두 번(영어 원문 사본 + 실제 번역) 넣어 두면 게임이 영어 사본을 써서, 번역 모드를 켜도 일부 글(예: 훈장 이름)이 영어로 나오는 경우가 있습니다. 이 모드는 게임을 켤 때마다(게임이 번역을 읽기 전) 현재 언어와 플레이셋의 모드 번역 파일을 읽어, 한쪽이 영어 원문과 같고 다른 글이 하나뿐인 키만 그 번역으로 덮어쓰는 replace 파일을 로컬 모드 'HOI4 Mod Manager Scripts'(mods\\script) 안에 만듭니다. 그 밖의 중복(번역이 둘 등)은 건드리지 않습니다. 'HOI4 Mod Manager Scripts' 가 플레이셋에 있어야 적용됩니다.\n게임 주소를 쓰지 않아 게임 버전과 무관합니다. 게임 폴더의 loc_dup_fix.txt 에서 enabled·log_level 로 조절하고, 결과는 loc_dup_fix.log 의 [RUN]·[FIX] 줄로 확인합니다. 이 모드를 끄면 마지막으로 만든 파일이 남습니다(올바른 번역이라 해는 없음, 지우려면 loc_dup_fix.txt 에서 enabled = 0 으로 한 번 실행).",
   "native_dll": "version.dll",

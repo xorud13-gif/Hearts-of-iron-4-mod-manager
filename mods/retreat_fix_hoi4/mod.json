@@ -3,9 +3,9 @@
   "id": "retreat_fix_hoi4",
   "name": "패배 사단 후퇴 보장",
   "version": "1.0 (2026-10-15)",
-  "updated": "2026-10-15",
+  "updated": "2026-10-29",
   "author": "",
-  "description": "전투에서 조직력이 바닥난 방어 사단이 후퇴를 시작했다가 1시간 만에 후퇴가 취소되어 그 프로빈스에 그대로 남고, 다음 전투에 조직력 0 으로 다시 들어가기를 끝없이 반복하는 문제(밀리지 않는 프로빈스)를 고칩니다. 원인: 습격(raid)에 배정된 사단은 습격 출발 프로빈스에서 기다리는데, 습격이 매시간 내리는 '출발지로 가라' 명령이 이미 그 프로빈스에 있는 사단의 이동을 멈춰 버려 후퇴 경로가 지워집니다. 이 모드는 그 한 곳에서 후퇴 중인 육군 사단은 멈추지 않게 해, 후퇴가 끝까지 진행되게 합니다(도착한 뒤 습격이 다시 출발지로 부르는 것은 바닐라 그대로).\n게임 폴더의 retreat_fix.txt 에서 keep_raid_retreat(기본 1)·diagnose(진단 기록, 기본 0)를 조절하고, 지킨 후퇴는 retreat_fix.log 의 [KEEP] 줄로 확인합니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
+  "description": "전투에서 조직력이 바닥난 방어 사단이 후퇴를 시작했다가 1시간 만에 후퇴가 취소되어 그 프로빈스에 그대로 남고, 다음 전투에 조직력 0 으로 다시 들어가기를 끝없이 반복하는 문제(밀리지 않는 프로빈스)를 고칩니다. 원인: 습격(raid)에 배정된 사단은 습격 출발 프로빈스에서 기다리는데, 습격이 매시간 내리는 '출발지로 가라' 명령이 이미 그 프로빈스에 있는 사단의 이동을 멈춰 버려 후퇴 경로가 지워집니다. 이 모드는 그 한 곳에서 후퇴 중인 육군 사단은 멈추지 않게 해, 후퇴가 끝까지 진행되게 합니다(도착한 뒤 습격이 다시 출발지로 부르는 것은 바닐라 그대로).\n게임 폴더의 retreat_fix.txt 에서 keep_raid_retreat(기본 1)·diagnose(진단 기록, 기본 0)를 조절하고, 지킨 후퇴는 retreat_fix.log 의 [KEEP] 줄로 확인합니다. hoi4.exe v1.19.4.0.48d6 전용 — 실행 파일이 다르면 설치하지 않고 바닐라로 동작합니다.",
   "native_dll": "version.dll",
   "files": [],
   "config_files": [
@@ -17,5 +17,5 @@
   ],
   "conflicts": [],
   "name_en": "Defeated Divisions Retreat",
-  "description_en": "Fixes defending divisions that run out of organization in combat, start to retreat and have the retreat cancelled an hour later: they stay in the province and rejoin the next battle at 0 organization over and over (a province that never falls). Cause: divisions assigned to a raid wait in the raid's start province, and the raid's hourly 'go to the start province' order stops the movement of a division already standing there, which wipes its retreat path. This mod skips that stop for land divisions that are retreating, so the retreat runs to the end (once they arrive, the raid calls them back to the start province as in vanilla).\nTune it with keep_raid_retreat (default 1) and diagnose (diagnostic log, default 0) in retreat_fix.txt in the game folder; kept retreats show up as [KEEP] lines in retreat_fix.log. Only for hoi4.exe v1.19.3.0.c01a - with a different executable nothing is installed and the game runs vanilla."
+  "description_en": "Fixes defending divisions that run out of organization in combat, start to retreat and have the retreat cancelled an hour later: they stay in the province and rejoin the next battle at 0 organization over and over (a province that never falls). Cause: divisions assigned to a raid wait in the raid's start province, and the raid's hourly 'go to the start province' order stops the movement of a division already standing there, which wipes its retreat path. This mod skips that stop for land divisions that are retreating, so the retreat runs to the end (once they arrive, the raid calls them back to the start province as in vanilla).\nTune it with keep_raid_retreat (default 1) and diagnose (diagnostic log, default 0) in retreat_fix.txt in the game folder; kept retreats show up as [KEEP] lines in retreat_fix.log. Only for hoi4.exe v1.19.4.0.48d6 - with a different executable nothing is installed and the game runs vanilla."
 }

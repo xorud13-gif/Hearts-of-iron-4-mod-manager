@@ -3,9 +3,9 @@
   "id": "unlimited_mil_factories_hoi4",
   "name": "군수공장 라인 제한 해제",
   "version": "1.0 (2026-10-11)",
-  "updated": "2026-10-11",
+  "updated": "2026-10-29",
   "author": "",
-  "description": "군수공장에서 만드는 모든 장비의 생산 라인에 군수공장을 999개까지 넣을 수 있게 합니다(바닐라: 라인당 150개, 열차포 5개). 스크립트가 define(MAX_MIL_FACTORIES_PER_LINE·RAILWAY_GUN_MAX_MIL_FACTORIES_PER_LINE)을 999 로 올리고, DLL 이 장비 자체에 박힌 상한(max_military_factories — 바닐라: 초중포·자주 초중포·육상 순양함 차대, 각 5)을 게임이 무시하게 해 이 장비들도 999 까지 들어갑니다. 장비 파일은 건드리지 않으므로 장비·밸런스 패치와 무관합니다. 조선소·민간공장은 바꾸지 않습니다. 생산 화면의 공장 아이콘은 15개까지만 그려지니 그 이상은 라인의 [+] 버튼으로 늘리고 숫자로 확인합니다.\n게임 폴더의 unlimited_mil_factories.txt 에서 enabled 로 끌 수 있습니다. hoi4.exe v1.19.3.0.c01a 전용 — 실행 파일이 다르면 DLL 은 설치하지 않고(장비 자체 상한은 바닐라대로) define 만 적용됩니다.",
+  "description": "군수공장에서 만드는 모든 장비의 생산 라인에 군수공장을 999개까지 넣을 수 있게 합니다(바닐라: 라인당 150개, 열차포 5개). 스크립트가 define(MAX_MIL_FACTORIES_PER_LINE·RAILWAY_GUN_MAX_MIL_FACTORIES_PER_LINE)을 999 로 올리고, DLL 이 장비 자체에 박힌 상한(max_military_factories — 바닐라: 초중포·자주 초중포·육상 순양함 차대, 각 5)을 게임이 무시하게 해 이 장비들도 999 까지 들어갑니다. 장비 파일은 건드리지 않으므로 장비·밸런스 패치와 무관합니다. 조선소·민간공장은 바꾸지 않습니다. 생산 화면의 공장 아이콘은 15개까지만 그려지니 그 이상은 라인의 [+] 버튼으로 늘리고 숫자로 확인합니다.\n게임 폴더의 unlimited_mil_factories.txt 에서 enabled 로 끌 수 있습니다. hoi4.exe v1.19.4.0.48d6 전용 — 실행 파일이 다르면 DLL 은 설치하지 않고(장비 자체 상한은 바닐라대로) define 만 적용됩니다.",
   "native_dll": "version.dll",
   "files": [
     "common/defines/zzz_unlimited_mil_factories.lua"
@@ -20,5 +20,5 @@
   ],
   "conflicts": [],
   "name_en": "Unlimited Military Factories per Line",
-  "description_en": "Lets every production line of equipment made by military factories take up to 999 military factories (vanilla: 150 per line, 5 for railway guns). A script raises the defines MAX_MIL_FACTORIES_PER_LINE and RAILWAY_GUN_MAX_MIL_FACTORIES_PER_LINE to 999, and the DLL makes the game ignore the cap built into the equipment itself (max_military_factories - in vanilla the super-heavy howitzer, self-propelled super-heavy howitzer and land cruiser chassis, 5 each), so those reach 999 too. Equipment files are not touched, so it works with equipment and balance mods. Dockyards and civilian factories are unchanged. The production screen only draws 15 factory icons; add more with the line's [+] button and check the number.\nTurn it off with enabled in unlimited_mil_factories.txt in the game folder. Only for hoi4.exe v1.19.3.0.c01a - with a different executable the DLL is not installed (the equipment caps stay vanilla) and only the defines apply."
+  "description_en": "Lets every production line of equipment made by military factories take up to 999 military factories (vanilla: 150 per line, 5 for railway guns). A script raises the defines MAX_MIL_FACTORIES_PER_LINE and RAILWAY_GUN_MAX_MIL_FACTORIES_PER_LINE to 999, and the DLL makes the game ignore the cap built into the equipment itself (max_military_factories - in vanilla the super-heavy howitzer, self-propelled super-heavy howitzer and land cruiser chassis, 5 each), so those reach 999 too. Equipment files are not touched, so it works with equipment and balance mods. Dockyards and civilian factories are unchanged. The production screen only draws 15 factory icons; add more with the line's [+] button and check the number.\nTurn it off with enabled in unlimited_mil_factories.txt in the game folder. Only for hoi4.exe v1.19.4.0.48d6 - with a different executable the DLL is not installed (the equipment caps stay vanilla) and only the defines apply."
 }
