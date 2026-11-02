@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "a33fc889c6b446d2",
-  "generated": "2026-10-28T18:42:14Z",
+  "revision": "dfb0cf8780766a6e",
+  "generated": "2026-11-02T12:50:55Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -163,18 +163,18 @@
       "id": "auto_trade_hoi4",
       "name": "자동 무역",
       "name_en": "Auto Trade",
-      "version": "0.6c",
-      "updated": "2026-10-29",
+      "version": "0.6e",
+      "updated": "2026-11-02",
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "ce2dea4990a37c6dc22863f3fecd28a01c2162bb644189c984cee5bef96c36ed",
+          "sha256": "ff27f2daa01c74692ba2daa97e4d6f1b13beadee3c5ef25a88bc48426347b818",
           "size": 2820
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "25be1d898053fc9e51824db0b00e8fd6c30c01154f7152503ec2b9f70c587599",
-          "size": 482816
+          "sha256": "b4111b0f36135581a59cde8d8a9a8215cffaeb960ee8cc152ec81fe8965eac3b",
+          "size": 484352
         },
         {
           "path": "mods/auto_trade_hoi4/files/common/decisions/atm_decisions.txt",
