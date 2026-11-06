@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "revision": "dfb0cf8780766a6e",
-  "generated": "2026-11-02T12:50:55Z",
+  "revision": "a7ff7f337c50acb3",
+  "generated": "2026-11-06T11:28:15Z",
   "app": {
     "path": "HOI4ModManager.exe",
     "sha256": "687e8467ab9b279d6d2d0f0dff1b1e354ffa3a5499abf2cf84f78339568641ad",
@@ -28,7 +28,7 @@
         },
         {
           "path": "mods/auto_ace_pilot_hoi4/files/version.dll",
-          "sha256": "665ea9726caa9893bc8ef61bd135c13dd353993cd0ba9d7cc26550c3712b944d",
+          "sha256": "6a1ac3d3d3346981eaa7f2ccaf2c56b2a58ca6006fe9b3c675dc690c0f200203",
           "size": 317952
         },
         {
@@ -72,17 +72,17 @@
       "id": "manual_frontline_hoi4",
       "name": "수동 정밀 전선 드래그",
       "name_en": "Manual Precision Front Drag",
-      "version": "1.1",
-      "updated": "2026-10-29",
+      "version": "1.2",
+      "updated": "2026-11-01",
       "files": [
         {
           "path": "mods/manual_frontline_hoi4/mod.json",
-          "sha256": "32f3b73ce486ebc1ff80701922ac917b36b914ee669ac9ef34077930010414f8",
+          "sha256": "7210599d86bfc5ec57ac6dde5f9d49d31ab4f214f39fd751787811c8be5535a2",
           "size": 1018
         },
         {
           "path": "mods/manual_frontline_hoi4/files/version.dll",
-          "sha256": "0919cb6c6138730671e9188d89b904ab56510fbcf539ed972e0e5c3ac7821dfe",
+          "sha256": "d5b9ccfaac09ac2972d281ea3a60a35133216e4c5baaa68f76f512af6d91b998",
           "size": 366592
         }
       ]
@@ -91,13 +91,13 @@
       "id": "non_seperate_frontline_hoi4",
       "name": "전선 분리/증발 방지",
       "name_en": "Front Split / Vanish Guard",
-      "version": "통합 (2026-10-25.1)",
-      "updated": "2026-10-29",
+      "version": "통합 (2026-11-03.1)",
+      "updated": "2026-11-03",
       "files": [
         {
           "path": "mods/non_seperate_frontline_hoi4/mod.json",
-          "sha256": "0dbb7054164b231b654e046995472e3ee34b337230ab05fc815e7c1e0644ab97",
-          "size": 4936
+          "sha256": "9397f5aaa7a167afa37ed0f91c3c446d449e93288ba60cfa7f5d392b8eeae5d7",
+          "size": 4656
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/non_separate_frontline.txt",
@@ -106,8 +106,8 @@
         },
         {
           "path": "mods/non_seperate_frontline_hoi4/files/version.dll",
-          "sha256": "29d3b8b7adf8a8fbb6d622166a1c0dea8f3eeb304a8c6b863ee29a2027e30a19",
-          "size": 683520
+          "sha256": "c14880b400c5e3387e4bc302bd8777ac8c5fb09980913d808b9639546e351002",
+          "size": 685056
         }
       ]
     },
@@ -130,7 +130,7 @@
         },
         {
           "path": "mods/cas_ace_hoi4/files/version.dll",
-          "sha256": "f0bbbb3e6dc357210bba43137975ada729b9999878216f6727f33f679f9bb73e",
+          "sha256": "dc1dd2d94f52eae7360eebd26be80d71391777e9ef077a59263770e71ea71e07",
           "size": 439808
         }
       ]
@@ -144,7 +144,7 @@
       "files": [
         {
           "path": "mods/logistics_guard_hoi4/mod.json",
-          "sha256": "06d0e7738249c384ab78f0da0ba8b8f3e31f5a0b127eee3a0d09bf5159d0e9d9",
+          "sha256": "ded16bae752d9fbdea50d976c2c0213379cd682c0955414ab85557aef00ca7d9",
           "size": 3252
         },
         {
@@ -154,7 +154,7 @@
         },
         {
           "path": "mods/logistics_guard_hoi4/files/version.dll",
-          "sha256": "d1166b410c2d17d4bfdad709956d4e5058095da794468c2b49364bcbf912cdfe",
+          "sha256": "265a6f3a2ad95db8ae6eef4b53fcba4409a90d106554704e06dd4cbfcd65aa9b",
           "size": 411136
         }
       ]
@@ -168,12 +168,12 @@
       "files": [
         {
           "path": "mods/auto_trade_hoi4/mod.json",
-          "sha256": "ff27f2daa01c74692ba2daa97e4d6f1b13beadee3c5ef25a88bc48426347b818",
+          "sha256": "deab9d4ed350e6ac946a461546f3f339ae0fa51ea6c921c23fb256eb4ab3699b",
           "size": 2820
         },
         {
           "path": "mods/auto_trade_hoi4/files/version.dll",
-          "sha256": "b4111b0f36135581a59cde8d8a9a8215cffaeb960ee8cc152ec81fe8965eac3b",
+          "sha256": "123115ed3b6698cec90e5737857d75942fa9997c8568cba5afa2dc398998c82e",
           "size": 484352
         },
         {
@@ -247,12 +247,12 @@
       "files": [
         {
           "path": "mods/auto_medal_hoi4/mod.json",
-          "sha256": "c5ebd7f13f5cbf4e6ce40be94aa5fa7768c84d67fb822c5b719d948e9075873c",
+          "sha256": "f165032ef764e6af4aad691a1657c23abb66fb1c27448b7537435bf1211ce54d",
           "size": 3214
         },
         {
           "path": "mods/auto_medal_hoi4/files/version.dll",
-          "sha256": "607c574a5d8c5fe99f2313d97b9f09ba741f163552627ada325a8d2b76304612",
+          "sha256": "69064327654ad6e10645d4bf32e07408c3f2ec096e6639c0fa2bbf4b31645fe2",
           "size": 461312
         },
         {
@@ -321,7 +321,7 @@
       "files": [
         {
           "path": "mods/subject_build_fix_hoi4/mod.json",
-          "sha256": "7568f430607f1b629886c84e16be5ed5da61f7de654f50e0a5f1c9cbcf5557f2",
+          "sha256": "f78fca8f41291747b9571cd855d4d2e4f7ea868b7f3c067dcc14f46d5fcdcdc7",
           "size": 2254
         },
         {
@@ -331,7 +331,7 @@
         },
         {
           "path": "mods/subject_build_fix_hoi4/files/version.dll",
-          "sha256": "e9322a6b500f177c04684c4ef9b320943ad1a4e28f05cc8bfbb39afac82b2287",
+          "sha256": "b4555080259e506d8e927759a32a3b8509e47d1d91e196954c2e25e89c3051c1",
           "size": 397312
         }
       ]
@@ -345,7 +345,7 @@
       "files": [
         {
           "path": "mods/border_war_guard_hoi4/mod.json",
-          "sha256": "07d575cebb2843b38d5f94804f6d62e89c3725511a407443a4b01b3b750422da",
+          "sha256": "60e03c1e894c150e62e4929976cb622aa04357b5dc1e17ab77bfa49c9c5065a9",
           "size": 2619
         },
         {
@@ -355,7 +355,7 @@
         },
         {
           "path": "mods/border_war_guard_hoi4/files/version.dll",
-          "sha256": "52e941a0172eb91a6adc673389562d82ea5fb39c7f61f0033623a4584f75d768",
+          "sha256": "6633eb0a77bdea37e40b0ce8b06ae25d6158c838fff03a5f00cc4263cdd52a52",
           "size": 403968
         }
       ]
@@ -369,13 +369,13 @@
       "files": [
         {
           "path": "mods/border_war_commander_hoi4/mod.json",
-          "sha256": "45055bceb93e302361d64635a9b8065b0e0cc8366ecc6685bce520ab4dd4b409",
+          "sha256": "4853e739e0f5a9479915a10b988071b32d5a51ed36642fdbed1a0883429f28dc",
           "size": 3312
         },
         {
           "path": "mods/border_war_commander_hoi4/files/version.dll",
-          "sha256": "8c94f2b8cf3dca935f2d33151f576940ca29c05c10e47d46866f1a2004adc4db",
-          "size": 399872
+          "sha256": "4aedb53576ec599ec620bb0b8a540ec5d9cd4dcc4014fc1d5e5fb25a36f27c3d",
+          "size": 400896
         },
         {
           "path": "mods/border_war_commander_hoi4/files/common/decisions/bwc_decisions.txt",
@@ -438,7 +438,7 @@
       "files": [
         {
           "path": "mods/faction_front_hoi4/mod.json",
-          "sha256": "603069b2e80bc7b81a564a953c0cd8a02a3257601f396dfb0f7ae02270565eeb",
+          "sha256": "80c6f710038bbf8c897aa10b9306b62b6bb90746f1bbd7b6f0c57ebdf34313dc",
           "size": 4142
         },
         {
@@ -448,8 +448,8 @@
         },
         {
           "path": "mods/faction_front_hoi4/files/version.dll",
-          "sha256": "f4f49b056d986b56aad06f9920715906b21f6e045aaaa8db9909f5b66f23a414",
-          "size": 402944
+          "sha256": "58160dcf16de469b3693016e1907f3a967f2a246740bb73c1d4444f6140e3854",
+          "size": 403456
         }
       ]
     },
@@ -462,12 +462,12 @@
       "files": [
         {
           "path": "mods/party_popularity_tooltip_hoi4/mod.json",
-          "sha256": "e677c7ad29097e0894dfe6816e69bbbd109d5b505141e93aac909a49168761c6",
+          "sha256": "d7579eb0a00d4f7fa747d14f2a370f84386277daff58d59d33e1a593e67ba304",
           "size": 2377
         },
         {
           "path": "mods/party_popularity_tooltip_hoi4/files/version.dll",
-          "sha256": "1cb90610705bedde7ef9127cf796d0908ce1b4f4782125cee27838fde7c1b03b",
+          "sha256": "2cc715f886da6c79a15ff93da9e9ddca565b4fc59985e9480bb748e742d463f3",
           "size": 393216
         }
       ]
@@ -481,7 +481,7 @@
       "files": [
         {
           "path": "mods/railway_step_hoi4/mod.json",
-          "sha256": "9c915bff86d3696ea7277a3e31d4f301953a1b5186d4486a6735b72dadff70ba",
+          "sha256": "c104f5ed4e2af6c428fa8f8864ae9bb7dde25c3f75fb0eb0fdf3c622f90390bb",
           "size": 2801
         },
         {
@@ -491,7 +491,7 @@
         },
         {
           "path": "mods/railway_step_hoi4/files/version.dll",
-          "sha256": "270f98f54711f7bf29f8b91077f91b7eb868ed821ffe9a57a3ae5204b5120297",
+          "sha256": "9e0cca15b7274ab12ee1227a34f4ec6d2492aaba199f1e6451acb180a5d8562f",
           "size": 390656
         }
       ]
@@ -505,12 +505,12 @@
       "files": [
         {
           "path": "mods/core_resistance_clear_hoi4/mod.json",
-          "sha256": "7cfaa5c8ce3f710ccf2018a6237473247626287f7b9938af5f2c6f8bef2e07b9",
+          "sha256": "705e6d0382e4a1569c7c9390dbd870380614ff5ee3ed74999ffbed3babef5e8a",
           "size": 2558
         },
         {
           "path": "mods/core_resistance_clear_hoi4/files/version.dll",
-          "sha256": "41211cf3471a2f9cb782a60c5009c2565c5565246a0dda816ac738ba9b095671",
+          "sha256": "c88014e257dcac8fc0b18c67472af828077eb8f754853141af42672632b61364",
           "size": 392704
         }
       ]
@@ -524,12 +524,12 @@
       "files": [
         {
           "path": "mods/call_to_arms_fix_hoi4/mod.json",
-          "sha256": "cf81b619dc0d8dc75c3814db6ceee64dee2f973b6bf4f62543b5e8ffa75107bc",
+          "sha256": "c88c1c4277889d3b87fb813668f0ccdaa522c9fb7d2a9a8e7014b30a99da8ed3",
           "size": 3109
         },
         {
           "path": "mods/call_to_arms_fix_hoi4/files/version.dll",
-          "sha256": "096aa4540befaf02f784b95091bd23a1effd3a827e45ddac2be6a05e5e788a42",
+          "sha256": "b4fdf8445d70934755438af43834ad879459e2667bc4c5a19b254badb9b2b86e",
           "size": 401408
         }
       ]
@@ -538,18 +538,18 @@
       "id": "split_nearest_hoi4",
       "name": "전선 분리 때 가까운 사단 배정",
       "name_en": "Nearest Divisions on Front Split",
-      "version": "1.2 (2026-10-18)",
-      "updated": "2026-10-29",
+      "version": "1.3 (2026-11-01)",
+      "updated": "2026-11-01",
       "files": [
         {
           "path": "mods/split_nearest_hoi4/mod.json",
-          "sha256": "8e948701429d850fb99b0c64c9b6b33b48e4454e4ebc79988a92de24c24c9808",
-          "size": 3412
+          "sha256": "463fbea06d0f70275fb6e345bbde1f86793e21b38ff600752af9913cf6174a72",
+          "size": 3731
         },
         {
           "path": "mods/split_nearest_hoi4/files/version.dll",
-          "sha256": "161d21c494786f9a9245b0607366896201e1d5c9e84b272aaa9d375f7d8f5b98",
-          "size": 428032
+          "sha256": "3238669231daa598061cda56e57da75fb7c72f34afc7ffab3c12e2f814bff4b3",
+          "size": 444928
         }
       ]
     },
@@ -581,12 +581,12 @@
       "files": [
         {
           "path": "mods/railway_gun_land_hoi4/mod.json",
-          "sha256": "993a7b2f60e98c0f23619baa9a385ec903ec52103940e81b72a3e36bc781067e",
+          "sha256": "78aed8587f8d12fffc0774d8b41b9eeefb30530ae56caa327e0940519acb0dec",
           "size": 4324
         },
         {
           "path": "mods/railway_gun_land_hoi4/files/version.dll",
-          "sha256": "8fbca47ddff142e34255fac632e30ba5eff91bd3a9ab3a74af1a8ca492698661",
+          "sha256": "aea99aa4f8617d68c5c6983d7b3998d5ca5948b9741e9b8bb3d877125ba1d132",
           "size": 408576
         }
       ]
@@ -600,13 +600,13 @@
       "files": [
         {
           "path": "mods/spearhead_reach_hoi4/mod.json",
-          "sha256": "8214e602ec65ff1b3380b814f1e4f128e3cbc4e76b7f22412b3b619402adb68e",
+          "sha256": "8ababda858e3fa0882f106830083d099ccae6b015ff8a35cd35726f225366f9b",
           "size": 3103
         },
         {
           "path": "mods/spearhead_reach_hoi4/files/version.dll",
-          "sha256": "8d993a1543931b7b2a457ed87b954f8737bd9adb9b7a946e583ebf44062e55ba",
-          "size": 395264
+          "sha256": "9c7be5b0f30909fa25a31e4c6c3db9f53e1bdb922912182ee5cef1aa58c7e67b",
+          "size": 396800
         }
       ]
     },
@@ -619,12 +619,12 @@
       "files": [
         {
           "path": "mods/unlimited_mil_factories_hoi4/mod.json",
-          "sha256": "a57fc29f002a2513b89a26f60bb3c16b289e119aecdb43b3105cb86c6fe63c3f",
+          "sha256": "e3109a408932c5d39aa5722c776f5ec4a6d4b272edf9fcd9e8d8fb60d48aff5b",
           "size": 2572
         },
         {
           "path": "mods/unlimited_mil_factories_hoi4/files/version.dll",
-          "sha256": "82395db87c390ed12091763d82549338bbde8e58063caf9cd35df1479de143aa",
+          "sha256": "4ffb73cce66db39a7573b7867af82ae643ea85ff789c0fdae5361d34040dabae",
           "size": 391168
         },
         {
@@ -643,12 +643,12 @@
       "files": [
         {
           "path": "mods/mio_auto_assign_hoi4/mod.json",
-          "sha256": "e679198244d5fcfff1c8c2db9e0af76bf715a6f3acfe4fb927113db931f1d34f",
+          "sha256": "22dde1cae6a459854444f7fdfac18df3d6f5a17a67a7e47dfadcba25cf1d95df",
           "size": 3301
         },
         {
           "path": "mods/mio_auto_assign_hoi4/files/version.dll",
-          "sha256": "41354ca0a0d539e1489641f9ea9c765cb0b3863ca89b4eb8d37aa6f227e01bfa",
+          "sha256": "7bf230a06f02bd88ab23d63e3b0857e1788342d7d2dd0c8bf208651056476f0a",
           "size": 423936
         },
         {
@@ -667,12 +667,12 @@
       "files": [
         {
           "path": "mods/retreat_fix_hoi4/mod.json",
-          "sha256": "bcafda90a8245bcd95da2c17573f2194ef043c8fc3e9383eedfe67a2c6d6c3fa",
+          "sha256": "01810b4c053b007a725c83c9ff0adc84082c358de7dc91e7e15e495dadfbf7d5",
           "size": 2422
         },
         {
           "path": "mods/retreat_fix_hoi4/files/version.dll",
-          "sha256": "432713e700ced95c8867338c23511c79de79bd13bf28c70affa1f5c0aee24a80",
+          "sha256": "a21c0ee535da6bc22f727b1051bc62f31a0d75fca914dfc8388ee1554a5420af",
           "size": 395264
         }
       ]
@@ -686,12 +686,12 @@
       "files": [
         {
           "path": "mods/split_ten_hoi4/mod.json",
-          "sha256": "882d62edc37ffce0074ae1fa192b03ed3426b1472ac66f1bd3cbaf63d5d3f075",
+          "sha256": "2d74aaa7561ed4578d7155d4eb5bb1205c8ba1b8d79cd340ee3669f4143c5bc0",
           "size": 4002
         },
         {
           "path": "mods/split_ten_hoi4/files/version.dll",
-          "sha256": "5e4bc6f5c2a208ac8368578f30e00d1af358f48c2ef4ce18bc580785b471bdb7",
+          "sha256": "275452347775087a74b5a38fec7472b28c1b92aa689cc042e43a8f2b56f5eaf2",
           "size": 403456
         },
         {
@@ -735,12 +735,12 @@
       "files": [
         {
           "path": "mods/supply_capital_lock_hoi4/mod.json",
-          "sha256": "89928e3e69f4e692bc4f09a7bd9a202dc87f2d4cf2f95b26104ef5e87d604018",
+          "sha256": "3b86850c5592095c87523c31f3c719120a6371726de624453c922aa8b39cc607",
           "size": 2761
         },
         {
           "path": "mods/supply_capital_lock_hoi4/files/version.dll",
-          "sha256": "165f9d89a5eaba8c9841e3e436c9465fbeaaadf1e6cf95dc17e626090a64d546",
+          "sha256": "37d3e5de20d16e33c2010af3ee6830338fcd2d21b29ce23213dcaee2a7f8e19f",
           "size": 389120
         }
       ]
