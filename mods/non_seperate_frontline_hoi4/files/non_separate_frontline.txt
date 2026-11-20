@@ -34,7 +34,7 @@ stats_interval_sec = 0
 # When a front splits and a piece of it is left without any order (your own country only), that piece
 # gets an order of its own, held by the army that holds the rest of that front. A piece in front of a
 # country at peace with you is never adopted. 1 = on (default), 0 = off (restart required).
-# Details of what it did are written to non_separate_frontline_phase0.log ([RH] lines).
+# Details of what it did are written to the log ([P0] [RH] lines).
 orphan_adopt = 1
 
 # How a split army-group front is repaired (only with orphan_adopt = 1):
@@ -64,8 +64,8 @@ adopt_strict_parent = 1
 # you drew yourself are left alone. 0 = never merge (only with orphan_adopt = 1).
 merge_adopted_fronts = 1
 
-# Log file name
-log_file = non_separate_frontline.log
+# The log is <game>\mods\log\hoi4mm.log, written by the mod manager's loader for every mod
+# (lines of this mod: [non_seperate_frontline]; the orphan adoption's own lines start with [P0]).
 
 # Self-test diagnostics on load (country tags, -1 = disabled)
 test_country_a = -1
